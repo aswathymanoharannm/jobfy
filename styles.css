@@ -151,6 +151,15 @@ fieldset { min-width: 0; margin: 0; padding: 0; border: 0; }
 .form-message { margin-top: 12px; color: #985344; font-size: 10px; }
 
 .results-section { margin: 28px 0 0; padding: 27px 30px 21px; border: 1px solid rgba(38, 64, 51, .08); border-radius: 12px; background: rgba(255,255,255,.92); box-shadow: 0 8px 26px rgba(34, 53, 42, .04); scroll-margin-top: 24px; }
+.city-search-section { display: grid; grid-template-columns: minmax(0, 1fr) minmax(190px, .7fr); align-items: end; gap: 16px 24px; margin: 24px 0 0; padding: 22px 24px; border: 1px solid rgba(38, 64, 51, .08); border-radius: 10px; background: rgba(255,255,255,.72); }
+.city-search-section h2 { margin-top: 8px; }
+.city-search-copy { max-width: 500px; margin-top: 8px; color: #78817b; font-size: 10px; line-height: 1.65; }
+.city-select-label { display: flex; flex-direction: column; gap: 8px; color: #69756c; font-size: 8px; font-weight: 700; letter-spacing: .9px; }
+.city-select-label .input-wrap select { padding-left: 0; }
+.city-board-links { grid-column: 1 / -1; display: flex; flex-wrap: wrap; gap: 8px; }
+.city-board-link { display: inline-flex; align-items: center; min-height: 33px; padding: 0 10px; border: 1px solid #e4e9e3; border-radius: 5px; background: #fff; color: #496b54; font-size: 9px; font-weight: 600; text-decoration: none; transition: border-color .16s ease, background .16s ease; }
+.city-board-link:hover { border-color: #b8c8ba; background: #f7faf6; }
+.city-board-link:focus-visible { outline: 2px solid #577963; outline-offset: 3px; }
 .results-heading { display: flex; align-items: end; justify-content: space-between; gap: 12px; margin-bottom: 16px; }
 .results-heading h2 { margin-top: 8px; }
 .results-count { padding-bottom: 2px; color: #829087; font-size: 10px; white-space: nowrap; }
@@ -202,6 +211,8 @@ fieldset { min-width: 0; margin: 0; padding: 0; border: 0; }
   .role-text small { font-size: 9px; }
   .filter-grid { gap: 10px; }
   .results-section { padding: 22px 17px 18px; }
+  .city-search-section { grid-template-columns: 1fr; gap: 14px; padding: 19px 17px; }
+  .city-board-links { grid-column: auto; }
   .job-card { align-items: flex-start; }
   .bottom-row { flex-wrap: wrap; }
   .bottom-aside { width: 100%; text-align: right; }
