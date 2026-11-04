@@ -4,6 +4,12 @@ const roleSearchTerms = {
   "ml-ai": ["machine learning engineer", "AI developer", "AI engineer"]
 };
 
+const roleTitlePatterns = {
+  "data-science": /\b(data scientist|data science|research scientist|quantitative scientist)\b/i,
+  "data-analytics": /\b(data analyst|business analyst|business intelligence|analytics (?:analyst|engineer)|bi analyst|reporting analyst|product analyst|marketing analyst)\b/i,
+  "ml-ai": /\b(machine learning|ai engineer|ai developer|ai research|artificial intelligence|ml engineer|llm engineer|computer vision|applied scientist)\b/i
+};
+
 const form = document.querySelector("#job-search-form");
 const roleInputs = [...document.querySelectorAll('input[name="role"]')];
 const locationInput = document.querySelector("#location");
@@ -124,15 +130,7 @@ function safeHttpsUrl(value) {
 }
 
 function matchesSearch(job, selectedRoles, days, requestedArea) {
-  const searchable = [
-    job.title,
-    job.category,
-    ...(Array.isArray(job.tags) ? job.tags : [])
-  ].join(" ");
-  const roleMatch = selectedRoles.some((role) => {
-    const terms = roleSearchTerms[role] || [];
-    return terms.some((term) => new RegExp(term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"), "i").test(searchable));
-  });
+  const roleMatch = selectedRoles.some((role) => roleTitlePatterns[role]?.test(job.title || ""));
   if (!roleMatch || (job.expiresAt && job.expiresAt < Date.now())) return false;
 
   if (days) {
