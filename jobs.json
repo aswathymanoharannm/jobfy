@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-04T19:31:35.687Z",
+  "fetchedAt": "2026-11-05T05:46:43.050Z",
   "sources": [
     "Himalayas",
     "Jobicy",
@@ -8,6 +8,111 @@
   ],
   "failedSources": [],
   "jobs": [
+    {
+      "id": "himalayas:https://himalayas.app/companies/patronus-ai/jobs/software-engineer-ai-evaluation-expert-contractual",
+      "title": "Software Engineer – AI Evaluation Expert (Contractual)",
+      "company": "Patronus AI",
+      "location": "India",
+      "category": "Developer · Data Science · Software-Engineer · AI-Engineer · Machine-Learning-Engineer · Evaluation-Engineer · Research-Engineer · AI-Evaluation-Engineer · AI-Evaluation-Specialist · AI-Evaluation-Contractor · Software-Engineering-Evaluation-Specialist · AI-ML-Evaluation-Specialist · ML-Evaluation-Engineer",
+      "tags": [
+        "Developer",
+        "Data Science",
+        "Software-Engineer",
+        "AI-Engineer",
+        "Machine-Learning-Engineer",
+        "Evaluation-Engineer",
+        "Research-Engineer",
+        "AI-Evaluation-Engineer",
+        "AI-Evaluation-Specialist",
+        "AI-Evaluation-Contractor",
+        "Software-Engineering-Evaluation-Specialist",
+        "AI-ML-Evaluation-Specialist",
+        "ML-Evaluation-Engineer"
+      ],
+      "description": "About Patronus AIPatronus AI is a frontier lab developing simulation research and infrastructure to accelerate progress toward human-aligned AGI.",
+      "publishedAt": 1793842336000,
+      "expiresAt": 1799026336000,
+      "salary": "USD 30–100 hourly",
+      "employmentType": "Contractor",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/patronus-ai/jobs/software-engineer-ai-evaluation-expert-contractual?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/national-security-technology-expert",
+      "title": "National Security Technology Expert",
+      "company": "micro1",
+      "location": "Worldwide",
+      "category": "Defense-Technology-Specialist · Security-Technology-Specialist · National-Security-Science-Researcher · Security-Expert · National-Security-Analyst · Government-Security-Specialist · Defense-Technology-Engineer",
+      "tags": [
+        "Defense-Technology-Specialist",
+        "Security-Technology-Specialist",
+        "National-Security-Science-Researcher",
+        "Security-Expert",
+        "National-Security-Analyst",
+        "Government-Security-Specialist",
+        "Defense-Technology-Engineer"
+      ],
+      "description": "Role type: Contractor Location: Remote Commitment: Flexible, project or task-based Compensation: Typically $50–$100 USD/hour, negotiable based on experience Project duration: Dependent on customer requirements About the opportunitymicro1 is looking for experienced National Security Technology Experts with backgrounds in government, defense, or national security science and technology programs to support customer projects focused on AI training and evaluation.",
+      "publishedAt": 1793838465000,
+      "expiresAt": 1799022464000,
+      "salary": "USD 50–100 hourly",
+      "employmentType": "Contractor",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/micro1/jobs/national-security-technology-expert?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/jumpcloud/jobs/staff-data-scientist-machine-learning-india",
+      "title": "Staff Data Scientist, Machine Learning - India",
+      "company": "JumpCloud",
+      "location": "India",
+      "category": "Data Science · Data-Science · Machine-Learning · Applied-AI · Engineering · Staff-Data-Scientist · Senior-Machine-Learning-Data-Scientist · Senior-Staff-Data-Scientist · Data-Scientist",
+      "tags": [
+        "Data Science",
+        "Data-Science",
+        "Machine-Learning",
+        "Applied-AI",
+        "Engineering",
+        "Staff-Data-Scientist",
+        "Senior-Machine-Learning-Data-Scientist",
+        "Senior-Staff-Data-Scientist",
+        "Data-Scientist"
+      ],
+      "description": "All roles at JumpCloud® are Remote unless otherwise specified in the Job Description.",
+      "publishedAt": 1793818790000,
+      "expiresAt": 1799002790000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/jumpcloud/jobs/staff-data-scientist-machine-learning-india?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/ml-engineer-msc-or-phd",
+      "title": "ML Engineer (MSc. or PhD)",
+      "company": "micro1",
+      "location": "Worldwide",
+      "category": "Data Science · AI-ML-Engineer · Machine-Learning-Engineer · ML-AI-Research-Engineer · ML-Research-Engineer · AI-ML-Research-Engineer · Senior-ML-Engineer · Senior-AI-ML-Engineer",
+      "tags": [
+        "Data Science",
+        "AI-ML-Engineer",
+        "Machine-Learning-Engineer",
+        "ML-AI-Research-Engineer",
+        "ML-Research-Engineer",
+        "AI-ML-Research-Engineer",
+        "Senior-ML-Engineer",
+        "Senior-AI-ML-Engineer"
+      ],
+      "description": "Senior ML Engineer (MSc.  or PhD)Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python.",
+      "publishedAt": 1793799912000,
+      "expiresAt": 1797363319000,
+      "salary": "",
+      "employmentType": "Contractor",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/micro1/jobs/ml-engineer-msc-or-phd?utm_source=api"
+    },
     {
       "id": "himalayas:https://himalayas.app/companies/spotter-labs/jobs/recruiting-operations-analyst",
       "title": "Recruiting Operations Analyst",
@@ -731,28 +836,6 @@
       "applyUrl": "https://himalayas.app/companies/arcturus-consulting-services/jobs/oracle-fusion-data-intelligence-fdi-consultant?utm_source=api"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/clera/jobs/senior-data-scientist",
-      "title": "Senior Data Scientist",
-      "company": "Clera",
-      "location": "Worldwide",
-      "category": "Data Science · Senior-Data-Science · Senior-Data-Scientist-Jobs · Data-Scientist · Data-Science",
-      "tags": [
-        "Data Science",
-        "Senior-Data-Science",
-        "Senior-Data-Scientist-Jobs",
-        "Data-Scientist",
-        "Data-Science"
-      ],
-      "description": "About the RoleJoin a fintech data products team in a hybrid data science and ML infrastructure role.",
-      "publishedAt": 1793666229000,
-      "expiresAt": 1798850228000,
-      "salary": "EUR 75,000–1,00,000 annual",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/clera/jobs/senior-data-scientist?utm_source=api"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/clanx/jobs/product-engineer-remote",
       "title": "Product Engineer - Remote",
       "company": "ClanX",
@@ -846,31 +929,6 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/novartis/jobs/associate-director-technology-scientific-computing?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/ml-engineer-msc-or-phd",
-      "title": "ML Engineer (MSc. or PhD)",
-      "company": "micro1",
-      "location": "Worldwide",
-      "category": "Data Science · AI-ML-Engineer · Machine-Learning-Engineer · ML-AI-Research-Engineer · ML-Research-Engineer · AI-ML-Research-Engineer · Senior-ML-Engineer · Senior-AI-ML-Engineer",
-      "tags": [
-        "Data Science",
-        "AI-ML-Engineer",
-        "Machine-Learning-Engineer",
-        "ML-AI-Research-Engineer",
-        "ML-Research-Engineer",
-        "AI-ML-Research-Engineer",
-        "Senior-ML-Engineer",
-        "Senior-AI-ML-Engineer"
-      ],
-      "description": "Senior ML Engineer (MSc.  or PhD)Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python.",
-      "publishedAt": 1793624410000,
-      "expiresAt": 1797363319000,
-      "salary": "",
-      "employmentType": "Contractor",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/micro1/jobs/ml-engineer-msc-or-phd?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/blue-ocean-corporation-india-pvt-ltd/jobs/trainer-data-analysis-freelance",
@@ -2978,28 +3036,6 @@
       "applyUrl": "https://himalayas.app/companies/proof-of-skill/jobs/data-analyst?utm_source=api"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/eversana/jobs/sr-business-analyst-pharmacovigilance-ai-systems-787069397",
-      "title": "Sr Business Analyst (Pharmacovigilance & AI Systems)",
-      "company": "EVERSANA",
-      "location": "India",
-      "category": "Data Science · Business-Analyst · Systems-Analyst · Requirements-Analyst · Requirements-Engineer",
-      "tags": [
-        "Data Science",
-        "Business-Analyst",
-        "Systems-Analyst",
-        "Requirements-Analyst",
-        "Requirements-Engineer"
-      ],
-      "description": "ESSENTIAL DUTIES AND RESPONSIBILITIESRequirements Engineering• Elicit, document and maintain URS and FRS for each platform module, using structured workshops, process walkthroughs, system demonstrations and review of current SOPs, work instructions and conventions.",
-      "publishedAt": 1793433570000,
-      "expiresAt": 1798617570000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/eversana/jobs/sr-business-analyst-pharmacovigilance-ai-systems-787069397?utm_source=api"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/moniepoint/jobs/senior-data-scientist-fraud-6969905949",
       "title": "Senior Data Scientist (Fraud)",
       "company": "Moniepoint",
@@ -3814,91 +3850,6 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/blend360/jobs/data-entry-associate?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/coinbase/jobs/senior-software-engineer-data-platform-350927368",
-      "title": "Senior Software Engineer - Data Platform",
-      "company": "Coinbase",
-      "location": "India",
-      "category": "Developer · Data Science · Software-Engineer · Data-Platform-Engineer · Data-Engineer · Backend-Engineer · Big-Data-Engineer · Senior-Data-Management-Platform-Engineer · Senior-Cloud-Data-Platform-Engineer · Senior-Data-Engineering · Senior-Data-Infrastructure-Engineer · Senior-Cloud-Data-Engineer · DataOps-Engineer",
-      "tags": [
-        "Developer",
-        "Data Science",
-        "Software-Engineer",
-        "Data-Platform-Engineer",
-        "Data-Engineer",
-        "Backend-Engineer",
-        "Big-Data-Engineer",
-        "Senior-Data-Management-Platform-Engineer",
-        "Senior-Cloud-Data-Platform-Engineer",
-        "Senior-Data-Engineering",
-        "Senior-Data-Infrastructure-Engineer",
-        "Senior-Cloud-Data-Engineer",
-        "DataOps-Engineer"
-      ],
-      "description": "Ready to do the most impactful work of your career?",
-      "publishedAt": 1793252279000,
-      "expiresAt": 1798436279000,
-      "salary": "INR 66,12,000–66,12,600 annual",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/coinbase/jobs/senior-software-engineer-data-platform-350927368?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/sophos/jobs/supply-chain-specialist-1",
-      "title": "Supply Chain Specialist 1",
-      "company": "Sophos",
-      "location": "India",
-      "category": "Operations · Logistics · Supply-Chain-Specialist · Supply-Chain-Analyst · Logistics-Specialist · Inventory-Control-Specialist · Operations-Specialist · Supply-Chain-Operations-Specialist · Supply-Chain-Support-Specialist · Supply-Chain-Associate · Supply-Chain-Coordinator",
-      "tags": [
-        "Operations",
-        "Logistics",
-        "Supply-Chain-Specialist",
-        "Supply-Chain-Analyst",
-        "Logistics-Specialist",
-        "Inventory-Control-Specialist",
-        "Operations-Specialist",
-        "Supply-Chain-Operations-Specialist",
-        "Supply-Chain-Support-Specialist",
-        "Supply-Chain-Associate",
-        "Supply-Chain-Coordinator"
-      ],
-      "description": "About UsSophos is a cybersecurity leader defending 600,000 organizations globally with an AI-driven platform and expert-led services.",
-      "publishedAt": 1793251997000,
-      "expiresAt": 1798435996000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/sophos/jobs/supply-chain-specialist-1?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/proarch/jobs/senior-revenue-analyst",
-      "title": "Senior Revenue Analyst",
-      "company": "ProArch",
-      "location": "India",
-      "category": "Sales · Finance · Revenue-Analyst · Billing-Analyst · Revenue-Operations-Analyst · Financial-Analyst · Senior-Financial-Analyst-–-Revenue · Revenue-Analytics-Specialist · Revenue-Business-Analyst · Revenue-Strategy-Analyst",
-      "tags": [
-        "Sales",
-        "Finance",
-        "Revenue-Analyst",
-        "Billing-Analyst",
-        "Revenue-Operations-Analyst",
-        "Financial-Analyst",
-        "Senior-Financial-Analyst-–-Revenue",
-        "Revenue-Analytics-Specialist",
-        "Revenue-Business-Analyst",
-        "Revenue-Strategy-Analyst"
-      ],
-      "description": "About ProArch: Founded in 2006, ProArch began as a tight-knit team of business-minded IT professionals passionate about delivering exceptional cloud-based technology solutions.",
-      "publishedAt": 1793234355000,
-      "expiresAt": 1798418354000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/proarch/jobs/senior-revenue-analyst?utm_source=api"
     }
   ]
 }
