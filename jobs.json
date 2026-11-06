@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-06T13:56:23.975Z",
+  "fetchedAt": "2026-11-06T22:51:06.205Z",
   "sources": [
     "Himalayas",
     "Jobicy",
@@ -8,71 +8,6 @@
   ],
   "failedSources": [],
   "jobs": [
-    {
-      "id": "himalayas:https://himalayas.app/companies/mediaradar/jobs/associate-manager-content-data",
-      "title": "Associate Manager, Content & Data",
-      "company": "MediaRadar",
-      "location": "India",
-      "category": "Data-Operations-Manager · Data-Quality-Manager · Content-Operations-Manager",
-      "tags": [
-        "Data-Operations-Manager",
-        "Data-Quality-Manager",
-        "Content-Operations-Manager"
-      ],
-      "description": "About MediaRadarMediaRadar, equips marketing, sales and analytics leaders with the intelligence they need to stay ahead.",
-      "publishedAt": 1793959755000,
-      "expiresAt": 1799143755000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/mediaradar/jobs/associate-manager-content-data?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/converge-technology-solutions/jobs/senior-sales-reporting-analyst",
-      "title": "Senior Sales Reporting Analyst",
-      "company": "Converge Technology Solutions",
-      "location": "India",
-      "category": "Sales · Data Science · Sales-Reporting-Analyst · Sales-Operations-Analyst · Revenue-Operations-Analyst · Business-Intelligence-Analyst · Sales-Data-Analyst",
-      "tags": [
-        "Sales",
-        "Data Science",
-        "Sales-Reporting-Analyst",
-        "Sales-Operations-Analyst",
-        "Revenue-Operations-Analyst",
-        "Business-Intelligence-Analyst",
-        "Sales-Data-Analyst"
-      ],
-      "description": "Practice/Department: Enterprise Technology & Operations Position Title: Senior Sales Reporting Analyst Position Location: Remote Reports to: Senior Director, Data Analytics FLSAStatus: Exempt SOC Occupational Code:13-1111 EEO-1 Job Category:2 Job Summary:The Senior Sales Reporting Analyst role will assist with development and support reporting, analytics, and insights for the Sales organization.",
-      "publishedAt": 1793956890000,
-      "expiresAt": 1799140889000,
-      "salary": "INR 35,000–60,000 annual",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/converge-technology-solutions/jobs/senior-sales-reporting-analyst?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/isi-markets/jobs/industry-analyst-india-freelance",
-      "title": "Industry Analyst – India (freelance)",
-      "company": "ISI Markets",
-      "location": "India",
-      "category": "Marketing · Industry-Analyst · Market-Research-Analyst · Research-Analyst",
-      "tags": [
-        "Marketing",
-        "Industry-Analyst",
-        "Market-Research-Analyst",
-        "Research-Analyst"
-      ],
-      "description": "ISI is a truly international business with over 700+ employees based across 20 locations.",
-      "publishedAt": 1793944356000,
-      "expiresAt": 1799128356000,
-      "salary": "",
-      "employmentType": "Contractor",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/isi-markets/jobs/industry-analyst-india-freelance?utm_source=api"
-    },
     {
       "id": "himalayas:https://himalayas.app/companies/win-home-inspection/jobs/software-engineer-agentic-ai-integrations",
       "title": "Software Engineer- Agentic AI & Integrations",
@@ -326,6 +261,32 @@
       "applyUrl": "https://himalayas.app/companies/inmarketingwetrust-com/jobs/data-engineer-remote-freelance?utm_source=api"
     },
     {
+      "id": "himalayas:https://himalayas.app/companies/yassir/jobs/data-scientist-pricing",
+      "title": "Data Scientist (Pricing)",
+      "company": "Yassir",
+      "location": "Egypt, India, Kenya, Nigeria, South Africa",
+      "category": "Data Science · Data-Science · Pricing-Analytics · Machine-Learning · Applied-Data-Science · AI-ML-Engineer · Pricing-Data-Scientist · Data-Scientist · Pricing-Scientist",
+      "tags": [
+        "Data Science",
+        "Data-Science",
+        "Pricing-Analytics",
+        "Machine-Learning",
+        "Applied-Data-Science",
+        "AI-ML-Engineer",
+        "Pricing-Data-Scientist",
+        "Data-Scientist",
+        "Pricing-Scientist"
+      ],
+      "description": "About YassirYassir is the Super App designed to make your life easier.",
+      "publishedAt": 1793907134000,
+      "expiresAt": 1796433586000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/yassir/jobs/data-scientist-pricing?utm_source=api"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/smart-working/jobs/python-backend-engineer-remote-full-time-as347",
       "title": "Python Backend Engineer (Remote, Full - Time) [AS347]",
       "company": "Smart Working",
@@ -370,6 +331,27 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/newrocket/jobs/senior-forward-deployed-engineers?utm_source=api"
+    },
+    {
+      "id": "remoteok:1137689",
+      "title": "ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)",
+      "company": "Toptal",
+      "location": "Anywhere in the World",
+      "category": "Artificial Intelligence · Docker · Git",
+      "tags": [
+        "Artificial Intelligence",
+        "Docker",
+        "Git",
+        "Graphics Processing Unit",
+        "LLM"
+      ],
+      "description": "<p>Overview</p><p>We are building a benchmark that tests how well AI agents handle real expert work in a terminal. We are hiring ML inference and serving experts to turn real, paid tasks from their jobs into expert-level Terminal-Bench challenges. Each task includes the environment, a working solution, and an automated check that proves the result is correct.</p><p>***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CHECK THE APPLICATION QUESTIONS FOR MORE DETAILS.***</p><p>Responsibilities</p><p>â¢ Design expert-level Terminal-Bench tasks that turn real, paid ML inference work from your own experience into challenges an AI agent must solve end to end.</p><p>â¢ Define the files, systems and environments each task runs on, such as model serving with streaming, so the challenge is realistic, reproducible and command-line solvable.</p><p>â¢ Write a working reference solution for every task and verify it runs end to end, sized for about 60 to 75 minutes of expert effort.</p><p>â¢ Build automated checks that objectively prove a result is correct, including cases where ML outputs go wrong silently, such as numerical drift or metric bugs.</p><p>â¢ Package tasks with Docker and Git so they are reproducible, and document the systems, tools, data and rules involved so reviewers can validate difficulty.</p><p>â¢ Iterate on tasks based on reviewer feedback and agent test runs, adjusting difficulty and fixing ambiguities so each task stays expert-level, fair and objectively gradable.</p><p>Skills/Experience</p><p>â¢ 3+ years doing ML inference or serving work hands-on (not only studying, selling or managing it), or a PhD plus active research in the subfield</p><p>â¢ Did this work in the last 3 years and can name the systems, tools, data and rules used</p><p>â¢ Trained, served or evaluated models at real scale (multi-GPU or production serving), not only notebooks or API calls</p><p>â¢ Hands-on with PyTorch or JAX internals and serving stacks such as vLLM, SGLang or TensorRT-LLM</p><p>â¢ Can explain how ML results go wrong without errors (numerical drift, metric bugs) and how to catch them</p><p>â¢ Technical fluency in Python and the command line, and with files, CSV/JSON, APIs or databases</p><p>â¢ Availability to start by early November 2026 and complete tasks of about 60 to 75 minutes each</p><p>Nice-to-have</p><p>â¢ AI lab or LLM infrastructure experience</p><p>â¢ Contributions to PyTorch, vLLM or SGLang</p><p>â¢ GPU profiling experience</p><p>â¢ Docker and Git proficiency</p><p>â¢ Experience writing automated tests</p><p>Process</p><p>â¢ Task vetting instead of an interview: complete a vetting task so the client can assess your task design</p><p>â¢ Paid per task; each task takes about 60 to 75 minutes</p><p>â¢ Work is delivered task by task, with reviewer feedback on submissions</p><p>â¢ Expected start in early November 2026</p><br/><br/>Please mention the word **ASTONISHED** and tag RNjQuMjM2LjE0MS4yMTM= when applying to show you read the job post completely (#RNjQuMjM2LjE0MS4yMTM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "publishedAt": 1793890736000,
+      "salary": "",
+      "employmentType": "",
+      "source": "Remote OK",
+      "sourceHome": "https://remoteok.com/",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/newrocket/jobs/lead-ai-ml-engineer",
@@ -2356,34 +2338,6 @@
       "applyUrl": "https://himalayas.app/companies/banco-plata-s-a-institucion-de-banca-multiple/jobs/mlops-senior-risk-team?utm_source=api"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/firstprinciples/jobs/firstprinciples-research-fellow",
-      "title": "FirstPrinciples Research Fellow",
-      "company": "FirstPrinciples",
-      "location": "Worldwide",
-      "category": "Data Science · Marketing · Research-Fellow · Machine-Learning-Researcher · AI-Researcher · Physics-Researcher · Research-Scientist · Research-Fellowship · Principal-Research-Scientist · Research-Principal-Investigator · Research-Associate",
-      "tags": [
-        "Data Science",
-        "Marketing",
-        "Research-Fellow",
-        "Machine-Learning-Researcher",
-        "AI-Researcher",
-        "Physics-Researcher",
-        "Research-Scientist",
-        "Research-Fellowship",
-        "Principal-Research-Scientist",
-        "Research-Principal-Investigator",
-        "Research-Associate"
-      ],
-      "description": "Overview: FirstPrinciples is a non-profit organization building an autonomous AI Physicist to understand the nature of reality: the underlying structure, governing principles, and fundamental laws of our universe.",
-      "publishedAt": 1793534523000,
-      "expiresAt": 1797578914000,
-      "salary": "",
-      "employmentType": "Contractor",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/firstprinciples/jobs/firstprinciples-research-fellow?utm_source=api"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/enthuziastic/jobs/seo-outreach-associate-remote-job",
       "title": "SEO Outreach Associate - Remote Job",
       "company": "EnthuZiastic",
@@ -2694,6 +2648,37 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/acled/jobs/yemen-researcher-remote-6721202987?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/dysrupit/jobs/ai-developer-azure-ai-foundry-4003653577",
+      "title": "AI Developer (Azure AI Foundry)",
+      "company": "DysrupIT",
+      "location": "India, Philippines",
+      "category": "Data Science · Developer · AI-Developer · AI-Engineer · Machine-Learning-Engineer · Software-Engineer · Azure-AI-Developer · Microsoft-AI-Developer · Microsoft-AI-Platform-Developer · Azure-AI-Engineer · Senior-Microsoft-AI-Developer · Azure-AI-Specialist · Azure-AI-Development · AI-Development-Engineer",
+      "tags": [
+        "Data Science",
+        "Developer",
+        "AI-Developer",
+        "AI-Engineer",
+        "Machine-Learning-Engineer",
+        "Software-Engineer",
+        "Azure-AI-Developer",
+        "Microsoft-AI-Developer",
+        "Microsoft-AI-Platform-Developer",
+        "Azure-AI-Engineer",
+        "Senior-Microsoft-AI-Developer",
+        "Azure-AI-Specialist",
+        "Azure-AI-Development",
+        "AI-Development-Engineer"
+      ],
+      "description": "About DysrupITDysrupIT is a consulting-led technology firm.",
+      "publishedAt": 1793533992000,
+      "expiresAt": 1798016511000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/dysrupit/jobs/ai-developer-azure-ai-foundry-4003653577?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/td-synnex/jobs/ai-and-cloud-security-analyst",
@@ -3347,29 +3332,6 @@
       "applyUrl": "https://himalayas.app/companies/snv/jobs/associate-859634231?utm_source=api"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/cxg/jobs/data-engineer-web-scraping-3-months-contract",
-      "title": "Data Engineer - Web Scraping (3 months contract)",
-      "company": "CXG",
-      "location": "India",
-      "category": "Data Science · Data-Engineer · Web-Scraping-Engineer · ETL-Engineer · Data-Pipeline-Engineer · Analytics-Engineer",
-      "tags": [
-        "Data Science",
-        "Data-Engineer",
-        "Web-Scraping-Engineer",
-        "ETL-Engineer",
-        "Data-Pipeline-Engineer",
-        "Analytics-Engineer"
-      ],
-      "description": "We are growing!  We are currently looking to hire a Data Engineer - Web Scraping to work with us remotely on a 3 months contract.",
-      "publishedAt": 1793456644000,
-      "expiresAt": 1798640643000,
-      "salary": "",
-      "employmentType": "Contractor",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/cxg/jobs/data-engineer-web-scraping-3-months-contract?utm_source=api"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/proximity-works/jobs/senior-data-scientist",
       "title": "Senior Data Scientist",
       "company": "Proximity Works",
@@ -3513,52 +3475,6 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/highlevel/jobs/payroll-apprentice?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/rws-group/jobs/ai-data-specialist-marathi",
-      "title": "AI Data Specialist - Marathi",
-      "company": "RWS Group",
-      "location": "India",
-      "category": "Data Science · AI-Data-Specialist · Data-Annotator · Data-Labeling-Specialist · Data-Quality-Specialist · Content-Moderation-Specialist",
-      "tags": [
-        "Data Science",
-        "AI-Data-Specialist",
-        "Data-Annotator",
-        "Data-Labeling-Specialist",
-        "Data-Quality-Specialist",
-        "Content-Moderation-Specialist"
-      ],
-      "description": "We are looking for AIData Specialists to support the improvement of AI-generated content in Marathi.",
-      "publishedAt": 1793387717000,
-      "expiresAt": 1798571715000,
-      "salary": "",
-      "employmentType": "Contractor",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/rws-group/jobs/ai-data-specialist-marathi?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/motorola-solutions/jobs/oracle-incentive-compensation-product-owner",
-      "title": "Oracle Incentive Compensation Product Owner",
-      "company": "Motorola Solutions",
-      "location": "India",
-      "category": "Product · Data Science · Product-Owner · Business-Analyst · Compensation-Systems-Analyst · Sales-Operations-Product-Owner",
-      "tags": [
-        "Product",
-        "Data Science",
-        "Product-Owner",
-        "Business-Analyst",
-        "Compensation-Systems-Analyst",
-        "Sales-Operations-Product-Owner"
-      ],
-      "description": "Company OverviewAt Motorola Solutions, we believe that everything starts with our people.",
-      "publishedAt": 1793385281000,
-      "expiresAt": 1798569281000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/motorola-solutions/jobs/oracle-incentive-compensation-product-owner?utm_source=api"
     }
   ]
 }
