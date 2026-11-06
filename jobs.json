@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-05T23:26:02.107Z",
+  "fetchedAt": "2026-11-06T05:42:42.008Z",
   "sources": [
     "Himalayas",
     "Jobicy",
@@ -9,27 +9,95 @@
   "failedSources": [],
   "jobs": [
     {
-      "id": "himalayas:https://himalayas.app/companies/cummins/jobs/ai-engineer",
-      "title": "AI Engineer",
-      "company": "Cummins",
+      "id": "himalayas:https://himalayas.app/companies/mediaradar/jobs/quality-analyst",
+      "title": "Quality Analyst",
+      "company": "MediaRadar",
       "location": "India",
-      "category": "Data Science · Developer · Operations · AI-Engineer · Software-Engineer · Systems-Engineer",
+      "category": "Developer · Data Science · Quality-Analyst · Data-Quality-Analyst · QA-Analyst · Data-Operations-Analyst",
       "tags": [
-        "Data Science",
         "Developer",
-        "Operations",
-        "AI-Engineer",
-        "Software-Engineer",
-        "Systems-Engineer"
+        "Data Science",
+        "Quality-Analyst",
+        "Data-Quality-Analyst",
+        "QA-Analyst",
+        "Data-Operations-Analyst"
       ],
-      "description": "Job Summary: Build high-quality, innovative and fully performing software in compliance with coding standards and technical design.",
-      "publishedAt": 1793914390000,
-      "expiresAt": 1799098388000,
+      "description": "About MediaRadar:MediaRadar, equips marketing, sales and analytics leaders with the intelligence they need to stay ahead.",
+      "publishedAt": 1793927521000,
+      "expiresAt": 1799111520000,
       "salary": "",
       "employmentType": "Full Time",
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/cummins/jobs/ai-engineer?utm_source=api"
+      "applyUrl": "https://himalayas.app/companies/mediaradar/jobs/quality-analyst?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/fortify-health/jobs/data-officer",
+      "title": "Data Officer",
+      "company": "Fortify Health",
+      "location": "India",
+      "category": "Data Science · Data-Officer · Data-Analyst · Data-Manager · Data-Engineer · Analytics-Specialist",
+      "tags": [
+        "Data Science",
+        "Data-Officer",
+        "Data-Analyst",
+        "Data-Manager",
+        "Data-Engineer",
+        "Analytics-Specialist"
+      ],
+      "description": "About the roleFortify Health believes in making data-driven decisions.",
+      "publishedAt": 1793924449000,
+      "expiresAt": 1799108448000,
+      "salary": "INR 80,555–80,555 monthly",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/fortify-health/jobs/data-officer?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/sanctuary-co/jobs/junior-associate-capital-markets",
+      "title": "Junior Associate - Capital Markets",
+      "company": "Sanctuary",
+      "location": "India",
+      "category": "Capital-Markets-Associate · Junior-Debt-Capital-Markets-Analyst · Capital-Markets-Analyst · Junior-Associate · Capital-Markets-Specialist",
+      "tags": [
+        "Capital-Markets-Associate",
+        "Junior-Debt-Capital-Markets-Analyst",
+        "Capital-Markets-Analyst",
+        "Junior-Associate",
+        "Capital-Markets-Specialist"
+      ],
+      "description": "Location: Remote Engagement type: Full-time Experience: 1-4 years Start preference: Only apply if you're ready to join immediately or within 30 days Compensation: $800 - $1500 / mo (based on experience and interview) Company: About the companySanctuary builds nature-led, wellness-centered communities that feel alive.",
+      "publishedAt": 1793923677000,
+      "expiresAt": 1799107676000,
+      "salary": "USD 800–1,500 monthly",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/sanctuary-co/jobs/junior-associate-capital-markets?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/mondelez-international/jobs/data-scientist",
+      "title": "Data Scientist",
+      "company": "Mondelēz International",
+      "location": "India",
+      "category": "Data Science · Data-Scientist · Manufacturing-Data-Scientist · Applied-Data-Scientist · Industrial-Data-Scientist · Analytics-Engineer",
+      "tags": [
+        "Data Science",
+        "Data-Scientist",
+        "Manufacturing-Data-Scientist",
+        "Applied-Data-Scientist",
+        "Industrial-Data-Scientist",
+        "Analytics-Engineer"
+      ],
+      "description": "Job DescriptionAre You Ready to Make It Happen at Mondelēz International?",
+      "publishedAt": 1793921515000,
+      "expiresAt": 1799105513000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/mondelez-international/jobs/data-scientist?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/sagan-recruitment/jobs/data-analyst-hr31580di",
@@ -53,28 +121,6 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/sagan-recruitment/jobs/data-analyst-hr31580di?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/dysrupit/jobs/ai-ml-engineer-databricks",
-      "title": "AI/ML Engineer (Databricks)",
-      "company": "DysrupIT",
-      "location": "India",
-      "category": "Data Science · AI-ML-Engineer · Machine-Learning-Engineer · Artificial-Intelligence-Engineer · Data-Engineer",
-      "tags": [
-        "Data Science",
-        "AI-ML-Engineer",
-        "Machine-Learning-Engineer",
-        "Artificial-Intelligence-Engineer",
-        "Data-Engineer"
-      ],
-      "description": "ABOUT DYSRUPIT DysrupIT is a leading global-based cloud services company.",
-      "publishedAt": 1793910475000,
-      "expiresAt": 1799094475000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/dysrupit/jobs/ai-ml-engineer-databricks?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/inmarketingwetrust-com/jobs/data-engineer-remote-freelance",
@@ -146,52 +192,6 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/smart-working/jobs/python-backend-engineer-remote-full-time-as347?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/newrocket/jobs/senior-forward-deployed-engineers",
-      "title": "Senior Forward deployed Engineers",
-      "company": "NewRocket",
-      "location": "India",
-      "category": "Data Science · Senior-Forward-Deployed-Engineer · Machine-Learning-Engineer · AI-Engineer · Artificial-Intelligence-Engineer · Data-Engineer",
-      "tags": [
-        "Data Science",
-        "Senior-Forward-Deployed-Engineer",
-        "Machine-Learning-Engineer",
-        "AI-Engineer",
-        "Artificial-Intelligence-Engineer",
-        "Data-Engineer"
-      ],
-      "description": "Why UsNewRocket is the AI-first Elite ServiceNow Partner that activates real value on the Now Platform.",
-      "publishedAt": 1793896465000,
-      "expiresAt": 1799080464000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/newrocket/jobs/senior-forward-deployed-engineers?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/newrocket/jobs/lead-ai-ml-engineer",
-      "title": "Lead AI/ML Engineer",
-      "company": "NewRocket",
-      "location": "India",
-      "category": "Data Science · Lead-AI-ML-Engineer · Machine-Learning-Engineer · AI-Engineer · Artificial-Intelligence-Engineer · Data-Engineer",
-      "tags": [
-        "Data Science",
-        "Lead-AI-ML-Engineer",
-        "Machine-Learning-Engineer",
-        "AI-Engineer",
-        "Artificial-Intelligence-Engineer",
-        "Data-Engineer"
-      ],
-      "description": "Why UsNewRocket is the AI-first Elite ServiceNow Partner that activates real value on the Now Platform.",
-      "publishedAt": 1793884786000,
-      "expiresAt": 1799068783000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/newrocket/jobs/lead-ai-ml-engineer?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/wavelength-network/jobs/junior-ai-specialist-claude",
@@ -2155,34 +2155,6 @@
       "applyUrl": "https://himalayas.app/companies/banco-plata-s-a-institucion-de-banca-multiple/jobs/mlops-senior-risk-team?utm_source=api"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/firstprinciples/jobs/firstprinciples-research-fellow",
-      "title": "FirstPrinciples Research Fellow",
-      "company": "FirstPrinciples",
-      "location": "Worldwide",
-      "category": "Data Science · Marketing · Research-Fellow · Machine-Learning-Researcher · AI-Researcher · Physics-Researcher · Research-Scientist · Research-Fellowship · Principal-Research-Scientist · Research-Principal-Investigator · Research-Associate",
-      "tags": [
-        "Data Science",
-        "Marketing",
-        "Research-Fellow",
-        "Machine-Learning-Researcher",
-        "AI-Researcher",
-        "Physics-Researcher",
-        "Research-Scientist",
-        "Research-Fellowship",
-        "Principal-Research-Scientist",
-        "Research-Principal-Investigator",
-        "Research-Associate"
-      ],
-      "description": "Overview: FirstPrinciples is a non-profit organization building an autonomous AI Physicist to understand the nature of reality: the underlying structure, governing principles, and fundamental laws of our universe.",
-      "publishedAt": 1793534523000,
-      "expiresAt": 1797578914000,
-      "salary": "",
-      "employmentType": "Contractor",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/firstprinciples/jobs/firstprinciples-research-fellow?utm_source=api"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/enthuziastic/jobs/seo-outreach-associate-remote-job",
       "title": "SEO Outreach Associate - Remote Job",
       "company": "EnthuZiastic",
@@ -3489,87 +3461,6 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/marrina-decisions/jobs/remote-india-marketing-ops-manager?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/refold-ai/jobs/senior-ai-engineer",
-      "title": "Senior AI Engineer",
-      "company": "Refold AI",
-      "location": "India",
-      "category": "Data Science · Senior-AI-Engineer · Senior-AI-Engineering · Senior-Lead-AI-Engineer · Senior-AI-Software-Engineer · Senior-AI-ML-Engineer · Senior-Software-AI-Engineer · Senior-Applied-AI-Engineer · AI-Engineer",
-      "tags": [
-        "Data Science",
-        "Senior-AI-Engineer",
-        "Senior-AI-Engineering",
-        "Senior-Lead-AI-Engineer",
-        "Senior-AI-Software-Engineer",
-        "Senior-AI-ML-Engineer",
-        "Senior-Software-AI-Engineer",
-        "Senior-Applied-AI-Engineer",
-        "AI-Engineer"
-      ],
-      "description": "About Refold AIRefold AI is the AI integration platform built for agents, made for modern SaaS companies that need to ship enterprise integrations at scale.",
-      "publishedAt": 1793332106000,
-      "expiresAt": 1798516105000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/refold-ai/jobs/senior-ai-engineer?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/hire-hangar/jobs/go-to-market-gtm-specialist-9065260421",
-      "title": "Go-To-Market (GTM) Specialist",
-      "company": "Hire Hangar",
-      "location": "India, Philippines",
-      "category": "Go-To-Market-Specialist · Go-To-Market-Expert · Go-To-Market-Manager · Go-To-Market-Consultant · Go-To-Market-Strategist · Go-To-Market-Analyst · Go-To-Market-Lead · Go-To-Market-(GTM)",
-      "tags": [
-        "Go-To-Market-Specialist",
-        "Go-To-Market-Expert",
-        "Go-To-Market-Manager",
-        "Go-To-Market-Consultant",
-        "Go-To-Market-Strategist",
-        "Go-To-Market-Analyst",
-        "Go-To-Market-Lead",
-        "Go-To-Market-(GTM)"
-      ],
-      "description": "Join Hire Hangar and work with fast-growing global companies while building a long-term career.",
-      "publishedAt": 1793323316000,
-      "expiresAt": 1798507315000,
-      "salary": "USD 1,000–1,200 monthly",
-      "employmentType": "Contractor",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/hire-hangar/jobs/go-to-market-gtm-specialist-9065260421?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/yipitdata/jobs/ai-engineer",
-      "title": "AI Engineer",
-      "company": "YipitData",
-      "location": "India",
-      "category": "Data Science · AI-Engineer · Machine-Learning-Engineer · Deep-Learning-Engineer · NLP-Engineer · Applied-AI-Engineer · Artificial-Intelligence-Engineer · AI-ML-Engineer · AI-Engineering-Specialist · AI-Engineering · Artificial-Intelligence-Engineering · Python-AI-Engineer · AI-Agent-Engineer",
-      "tags": [
-        "Data Science",
-        "AI-Engineer",
-        "Machine-Learning-Engineer",
-        "Deep-Learning-Engineer",
-        "NLP-Engineer",
-        "Applied-AI-Engineer",
-        "Artificial-Intelligence-Engineer",
-        "AI-ML-Engineer",
-        "AI-Engineering-Specialist",
-        "AI-Engineering",
-        "Artificial-Intelligence-Engineering",
-        "Python-AI-Engineer",
-        "AI-Agent-Engineer"
-      ],
-      "description": "About Us:YipitData is the leading market research and analytics firm for the disruptive economy and most recently raised $475M from The Carlyle Group at a valuation of over $1B.",
-      "publishedAt": 1793322539000,
-      "expiresAt": 1798506538000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/yipitdata/jobs/ai-engineer?utm_source=api"
     }
   ]
 }
