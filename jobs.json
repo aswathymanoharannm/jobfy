@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-06T05:42:42.008Z",
+  "fetchedAt": "2026-11-06T13:56:23.975Z",
   "sources": [
     "Himalayas",
     "Jobicy",
@@ -8,6 +8,95 @@
   ],
   "failedSources": [],
   "jobs": [
+    {
+      "id": "himalayas:https://himalayas.app/companies/mediaradar/jobs/associate-manager-content-data",
+      "title": "Associate Manager, Content & Data",
+      "company": "MediaRadar",
+      "location": "India",
+      "category": "Data-Operations-Manager · Data-Quality-Manager · Content-Operations-Manager",
+      "tags": [
+        "Data-Operations-Manager",
+        "Data-Quality-Manager",
+        "Content-Operations-Manager"
+      ],
+      "description": "About MediaRadarMediaRadar, equips marketing, sales and analytics leaders with the intelligence they need to stay ahead.",
+      "publishedAt": 1793959755000,
+      "expiresAt": 1799143755000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/mediaradar/jobs/associate-manager-content-data?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/converge-technology-solutions/jobs/senior-sales-reporting-analyst",
+      "title": "Senior Sales Reporting Analyst",
+      "company": "Converge Technology Solutions",
+      "location": "India",
+      "category": "Sales · Data Science · Sales-Reporting-Analyst · Sales-Operations-Analyst · Revenue-Operations-Analyst · Business-Intelligence-Analyst · Sales-Data-Analyst",
+      "tags": [
+        "Sales",
+        "Data Science",
+        "Sales-Reporting-Analyst",
+        "Sales-Operations-Analyst",
+        "Revenue-Operations-Analyst",
+        "Business-Intelligence-Analyst",
+        "Sales-Data-Analyst"
+      ],
+      "description": "Practice/Department: Enterprise Technology & Operations Position Title: Senior Sales Reporting Analyst Position Location: Remote Reports to: Senior Director, Data Analytics FLSAStatus: Exempt SOC Occupational Code:13-1111 EEO-1 Job Category:2 Job Summary:The Senior Sales Reporting Analyst role will assist with development and support reporting, analytics, and insights for the Sales organization.",
+      "publishedAt": 1793956890000,
+      "expiresAt": 1799140889000,
+      "salary": "INR 35,000–60,000 annual",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/converge-technology-solutions/jobs/senior-sales-reporting-analyst?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/isi-markets/jobs/industry-analyst-india-freelance",
+      "title": "Industry Analyst – India (freelance)",
+      "company": "ISI Markets",
+      "location": "India",
+      "category": "Marketing · Industry-Analyst · Market-Research-Analyst · Research-Analyst",
+      "tags": [
+        "Marketing",
+        "Industry-Analyst",
+        "Market-Research-Analyst",
+        "Research-Analyst"
+      ],
+      "description": "ISI is a truly international business with over 700+ employees based across 20 locations.",
+      "publishedAt": 1793944356000,
+      "expiresAt": 1799128356000,
+      "salary": "",
+      "employmentType": "Contractor",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/isi-markets/jobs/industry-analyst-india-freelance?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/win-home-inspection/jobs/software-engineer-agentic-ai-integrations",
+      "title": "Software Engineer- Agentic AI & Integrations",
+      "company": "WIN Home Inspection",
+      "location": "India",
+      "category": "Developer · Data Science · Software-Engineer · Backend-Engineer · AI-Engineer · Machine-Learning-Engineer · Platform-Engineer",
+      "tags": [
+        "Developer",
+        "Data Science",
+        "Software-Engineer",
+        "Backend-Engineer",
+        "AI-Engineer",
+        "Machine-Learning-Engineer",
+        "Platform-Engineer"
+      ],
+      "description": "• ABOUT THE ROLE WIN is seeking highly skilled, hands-on Software Engineers to help build innovative digital applications, AI-powered solutions, and scalable technology platforms.",
+      "publishedAt": 1793936624000,
+      "expiresAt": 1799120623000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/win-home-inspection/jobs/software-engineer-agentic-ai-integrations?utm_source=api"
+    },
     {
       "id": "himalayas:https://himalayas.app/companies/mediaradar/jobs/quality-analyst",
       "title": "Quality Analyst",
@@ -77,6 +166,30 @@
       "applyUrl": "https://himalayas.app/companies/sanctuary-co/jobs/junior-associate-capital-markets?utm_source=api"
     },
     {
+      "id": "himalayas:https://himalayas.app/companies/quantumloopai/jobs/technical-lead-india-remote",
+      "title": "Technical Lead - India Remote",
+      "company": "QuantumLoopAI",
+      "location": "India",
+      "category": "Developer · Data Science · Technical-Lead · Software-Engineering-Manager · Backend-Engineer · Software-Architect · AI-Engineer",
+      "tags": [
+        "Developer",
+        "Data Science",
+        "Technical-Lead",
+        "Software-Engineering-Manager",
+        "Backend-Engineer",
+        "Software-Architect",
+        "AI-Engineer"
+      ],
+      "description": "ABOUT QUANTUMLOOPAIQuantumLoopAI is one of the UK's fastest-growing healthtech companies.",
+      "publishedAt": 1793921954000,
+      "expiresAt": 1799105953000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/quantumloopai/jobs/technical-lead-india-remote?utm_source=api"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/mondelez-international/jobs/data-scientist",
       "title": "Data Scientist",
       "company": "Mondelēz International",
@@ -98,6 +211,52 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/mondelez-international/jobs/data-scientist?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/nagarro/jobs/associate-distinguished-engineer-technology-architect-automotive-data-archite",
+      "title": "Associate Distinguished Engineer (Technology Architect, Automotive, Data Archite",
+      "company": "Nagarro",
+      "location": "India",
+      "category": "Developer · Solutions-Architect · Enterprise-Architect · Technology-Architect · Cloud-Architect · Data-Architect",
+      "tags": [
+        "Developer",
+        "Solutions-Architect",
+        "Enterprise-Architect",
+        "Technology-Architect",
+        "Cloud-Architect",
+        "Data-Architect"
+      ],
+      "description": "Requirements• 15+ years of experience in technology consulting, solution architecture, enterprise architecture, or digital engineering roles.",
+      "publishedAt": 1793921473000,
+      "expiresAt": 1799105472000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/nagarro/jobs/associate-distinguished-engineer-technology-architect-automotive-data-archite?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/cummins/jobs/ai-engineer",
+      "title": "AI Engineer",
+      "company": "Cummins",
+      "location": "India",
+      "category": "Data Science · Developer · Operations · AI-Engineer · Software-Engineer · Systems-Engineer",
+      "tags": [
+        "Data Science",
+        "Developer",
+        "Operations",
+        "AI-Engineer",
+        "Software-Engineer",
+        "Systems-Engineer"
+      ],
+      "description": "Job Summary: Build high-quality, innovative and fully performing software in compliance with coding standards and technical design.",
+      "publishedAt": 1793914390000,
+      "expiresAt": 1799098388000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/cummins/jobs/ai-engineer?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/sagan-recruitment/jobs/data-analyst-hr31580di",
@@ -123,6 +282,28 @@
       "applyUrl": "https://himalayas.app/companies/sagan-recruitment/jobs/data-analyst-hr31580di?utm_source=api"
     },
     {
+      "id": "himalayas:https://himalayas.app/companies/dysrupit/jobs/ai-ml-engineer-databricks",
+      "title": "AI/ML Engineer (Databricks)",
+      "company": "DysrupIT",
+      "location": "India",
+      "category": "Data Science · AI-ML-Engineer · Machine-Learning-Engineer · Artificial-Intelligence-Engineer · Data-Engineer",
+      "tags": [
+        "Data Science",
+        "AI-ML-Engineer",
+        "Machine-Learning-Engineer",
+        "Artificial-Intelligence-Engineer",
+        "Data-Engineer"
+      ],
+      "description": "ABOUT DYSRUPIT DysrupIT is a leading global-based cloud services company.",
+      "publishedAt": 1793910475000,
+      "expiresAt": 1799094475000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/dysrupit/jobs/ai-ml-engineer-databricks?utm_source=api"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/inmarketingwetrust-com/jobs/data-engineer-remote-freelance",
       "title": "Data Engineer (Remote, Freelance)",
       "company": "In Marketing We Trust",
@@ -143,32 +324,6 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/inmarketingwetrust-com/jobs/data-engineer-remote-freelance?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/yassir/jobs/data-scientist-pricing",
-      "title": "Data Scientist (Pricing)",
-      "company": "Yassir",
-      "location": "Egypt, India, Kenya, Nigeria, South Africa",
-      "category": "Data Science · Data-Science · Pricing-Analytics · Machine-Learning · Applied-Data-Science · AI-ML-Engineer · Pricing-Data-Scientist · Data-Scientist · Pricing-Scientist",
-      "tags": [
-        "Data Science",
-        "Data-Science",
-        "Pricing-Analytics",
-        "Machine-Learning",
-        "Applied-Data-Science",
-        "AI-ML-Engineer",
-        "Pricing-Data-Scientist",
-        "Data-Scientist",
-        "Pricing-Scientist"
-      ],
-      "description": "About YassirYassir is the Super App designed to make your life easier.",
-      "publishedAt": 1793907134000,
-      "expiresAt": 1796433586000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/yassir/jobs/data-scientist-pricing?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/smart-working/jobs/python-backend-engineer-remote-full-time-as347",
@@ -192,6 +347,52 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/smart-working/jobs/python-backend-engineer-remote-full-time-as347?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/newrocket/jobs/senior-forward-deployed-engineers",
+      "title": "Senior Forward deployed Engineers",
+      "company": "NewRocket",
+      "location": "India",
+      "category": "Data Science · Senior-Forward-Deployed-Engineer · Machine-Learning-Engineer · AI-Engineer · Artificial-Intelligence-Engineer · Data-Engineer",
+      "tags": [
+        "Data Science",
+        "Senior-Forward-Deployed-Engineer",
+        "Machine-Learning-Engineer",
+        "AI-Engineer",
+        "Artificial-Intelligence-Engineer",
+        "Data-Engineer"
+      ],
+      "description": "Why UsNewRocket is the AI-first Elite ServiceNow Partner that activates real value on the Now Platform.",
+      "publishedAt": 1793896465000,
+      "expiresAt": 1799080464000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/newrocket/jobs/senior-forward-deployed-engineers?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/newrocket/jobs/lead-ai-ml-engineer",
+      "title": "Lead AI/ML Engineer",
+      "company": "NewRocket",
+      "location": "India",
+      "category": "Data Science · Lead-AI-ML-Engineer · Machine-Learning-Engineer · AI-Engineer · Artificial-Intelligence-Engineer · Data-Engineer",
+      "tags": [
+        "Data Science",
+        "Lead-AI-ML-Engineer",
+        "Machine-Learning-Engineer",
+        "AI-Engineer",
+        "Artificial-Intelligence-Engineer",
+        "Data-Engineer"
+      ],
+      "description": "Why UsNewRocket is the AI-first Elite ServiceNow Partner that activates real value on the Now Platform.",
+      "publishedAt": 1793884786000,
+      "expiresAt": 1799068783000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/newrocket/jobs/lead-ai-ml-engineer?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/wavelength-network/jobs/junior-ai-specialist-claude",
@@ -2155,6 +2356,34 @@
       "applyUrl": "https://himalayas.app/companies/banco-plata-s-a-institucion-de-banca-multiple/jobs/mlops-senior-risk-team?utm_source=api"
     },
     {
+      "id": "himalayas:https://himalayas.app/companies/firstprinciples/jobs/firstprinciples-research-fellow",
+      "title": "FirstPrinciples Research Fellow",
+      "company": "FirstPrinciples",
+      "location": "Worldwide",
+      "category": "Data Science · Marketing · Research-Fellow · Machine-Learning-Researcher · AI-Researcher · Physics-Researcher · Research-Scientist · Research-Fellowship · Principal-Research-Scientist · Research-Principal-Investigator · Research-Associate",
+      "tags": [
+        "Data Science",
+        "Marketing",
+        "Research-Fellow",
+        "Machine-Learning-Researcher",
+        "AI-Researcher",
+        "Physics-Researcher",
+        "Research-Scientist",
+        "Research-Fellowship",
+        "Principal-Research-Scientist",
+        "Research-Principal-Investigator",
+        "Research-Associate"
+      ],
+      "description": "Overview: FirstPrinciples is a non-profit organization building an autonomous AI Physicist to understand the nature of reality: the underlying structure, governing principles, and fundamental laws of our universe.",
+      "publishedAt": 1793534523000,
+      "expiresAt": 1797578914000,
+      "salary": "",
+      "employmentType": "Contractor",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/firstprinciples/jobs/firstprinciples-research-fellow?utm_source=api"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/enthuziastic/jobs/seo-outreach-associate-remote-job",
       "title": "SEO Outreach Associate - Remote Job",
       "company": "EnthuZiastic",
@@ -2465,37 +2694,6 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/acled/jobs/yemen-researcher-remote-6721202987?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/dysrupit/jobs/ai-developer-azure-ai-foundry-4003653577",
-      "title": "AI Developer (Azure AI Foundry)",
-      "company": "DysrupIT",
-      "location": "India, Philippines",
-      "category": "Data Science · Developer · AI-Developer · AI-Engineer · Machine-Learning-Engineer · Software-Engineer · Azure-AI-Developer · Microsoft-AI-Developer · Microsoft-AI-Platform-Developer · Azure-AI-Engineer · Senior-Microsoft-AI-Developer · Azure-AI-Specialist · Azure-AI-Development · AI-Development-Engineer",
-      "tags": [
-        "Data Science",
-        "Developer",
-        "AI-Developer",
-        "AI-Engineer",
-        "Machine-Learning-Engineer",
-        "Software-Engineer",
-        "Azure-AI-Developer",
-        "Microsoft-AI-Developer",
-        "Microsoft-AI-Platform-Developer",
-        "Azure-AI-Engineer",
-        "Senior-Microsoft-AI-Developer",
-        "Azure-AI-Specialist",
-        "Azure-AI-Development",
-        "AI-Development-Engineer"
-      ],
-      "description": "About DysrupITDysrupIT is a consulting-led technology firm.",
-      "publishedAt": 1793533992000,
-      "expiresAt": 1798016511000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/dysrupit/jobs/ai-developer-azure-ai-foundry-4003653577?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/td-synnex/jobs/ai-and-cloud-security-analyst",
@@ -3149,6 +3347,29 @@
       "applyUrl": "https://himalayas.app/companies/snv/jobs/associate-859634231?utm_source=api"
     },
     {
+      "id": "himalayas:https://himalayas.app/companies/cxg/jobs/data-engineer-web-scraping-3-months-contract",
+      "title": "Data Engineer - Web Scraping (3 months contract)",
+      "company": "CXG",
+      "location": "India",
+      "category": "Data Science · Data-Engineer · Web-Scraping-Engineer · ETL-Engineer · Data-Pipeline-Engineer · Analytics-Engineer",
+      "tags": [
+        "Data Science",
+        "Data-Engineer",
+        "Web-Scraping-Engineer",
+        "ETL-Engineer",
+        "Data-Pipeline-Engineer",
+        "Analytics-Engineer"
+      ],
+      "description": "We are growing!  We are currently looking to hire a Data Engineer - Web Scraping to work with us remotely on a 3 months contract.",
+      "publishedAt": 1793456644000,
+      "expiresAt": 1798640643000,
+      "salary": "",
+      "employmentType": "Contractor",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/cxg/jobs/data-engineer-web-scraping-3-months-contract?utm_source=api"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/proximity-works/jobs/senior-data-scientist",
       "title": "Senior Data Scientist",
       "company": "Proximity Works",
@@ -3338,129 +3559,6 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/motorola-solutions/jobs/oracle-incentive-compensation-product-owner?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/sage/jobs/accounts-payable-executive-finance",
-      "title": "Accounts Payable Executive – Finance",
-      "company": "Sage",
-      "location": "India",
-      "category": "Finance · Accounts-Payable-Executive · Accounts-Payable-Specialist · Accounts-Payable-Analyst · Finance-Operations-Analyst",
-      "tags": [
-        "Finance",
-        "Accounts-Payable-Executive",
-        "Accounts-Payable-Specialist",
-        "Accounts-Payable-Analyst",
-        "Finance-Operations-Analyst"
-      ],
-      "description": "The Accounts Payable Executive – Finance role is part of Sage’s Global Services Finance Accounts Payable Team.",
-      "publishedAt": 1793360515000,
-      "expiresAt": 1798544515000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/sage/jobs/accounts-payable-executive-finance?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/mindrift/jobs/freelance-mechanical-cad-simulation-engineer-ai-trainer-2419998059",
-      "title": "Freelance Mechanical CAD&Simulation Engineer - AI Trainer",
-      "company": "Mindrift",
-      "location": "India",
-      "category": "Hardware Engineer · Data Science · Mechanical-CAD-Designer · Cad-Engineer · Simulation-Engineer · Mechanical-Engineer · AI-Trainer",
-      "tags": [
-        "Hardware Engineer",
-        "Data Science",
-        "Mechanical-CAD-Designer",
-        "Cad-Engineer",
-        "Simulation-Engineer",
-        "Mechanical-Engineer",
-        "AI-Trainer"
-      ],
-      "description": "About the role Help train and evaluate AI agents that work inside a real CAD environment on long engineering tasks, work that would take an expert 10–15 hours.",
-      "publishedAt": 1793358852000,
-      "expiresAt": 1798542851000,
-      "salary": "",
-      "employmentType": "Part Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/mindrift/jobs/freelance-mechanical-cad-simulation-engineer-ai-trainer-2419998059?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/mindrift/jobs/cad-engineer-ai-trainer-4832591008",
-      "title": "CAD Engineer - AI Trainer",
-      "company": "Mindrift",
-      "location": "India",
-      "category": "Hardware Engineer · Data Science · Cad-Engineer · Mechanical-Engineer · Aerospace-Engineer · AI-Trainer",
-      "tags": [
-        "Hardware Engineer",
-        "Data Science",
-        "Cad-Engineer",
-        "Mechanical-Engineer",
-        "Aerospace-Engineer",
-        "AI-Trainer"
-      ],
-      "description": "About the role Help train and evaluate AI agents that work inside a real CAD environment on long engineering tasks, work that would take an expert 10–15 hours.",
-      "publishedAt": 1793348904000,
-      "expiresAt": 1798532903000,
-      "salary": "",
-      "employmentType": "Contractor",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/mindrift/jobs/cad-engineer-ai-trainer-4832591008?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/cision/jobs/data-analyst",
-      "title": "Data Analyst",
-      "company": "Cision",
-      "location": "India",
-      "category": "Data Science · Marketing · Data-Analyst · Reporting-Analyst · Business-Intelligence-Analyst · Research-Analyst · Analytics-Analyst · Data-Science-Analyst · Associate-Data-Analyst · Data-Analytics-Specialist · Research-Data-Analyst · Data-Intelligence-Analyst",
-      "tags": [
-        "Data Science",
-        "Marketing",
-        "Data-Analyst",
-        "Reporting-Analyst",
-        "Business-Intelligence-Analyst",
-        "Research-Analyst",
-        "Analytics-Analyst",
-        "Data-Science-Analyst",
-        "Associate-Data-Analyst",
-        "Data-Analytics-Specialist",
-        "Research-Data-Analyst",
-        "Data-Intelligence-Analyst"
-      ],
-      "description": "At Cision, we believe in empowering every individual to make an impact.",
-      "publishedAt": 1793348750000,
-      "expiresAt": 1798532749000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/cision/jobs/data-analyst?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/marrina-decisions/jobs/remote-india-marketing-ops-manager",
-      "title": "REMOTE (INDIA)- Marketing Ops Manager",
-      "company": "Marrina Decisions",
-      "location": "India",
-      "category": "Marketing · Marketing-Operations-Manager · Marketing-Manager · Digital-Marketing-Manager · Marketing-Operations-Analyst · Digital-Marketing-Operations-Manager · Marketing-Ops · Management",
-      "tags": [
-        "Marketing",
-        "Marketing-Operations-Manager",
-        "Marketing-Manager",
-        "Digital-Marketing-Manager",
-        "Marketing-Operations-Analyst",
-        "Digital-Marketing-Operations-Manager",
-        "Marketing-Ops",
-        "Management"
-      ],
-      "description": "Marketing Ops ManagerWe are searching for experienced and dynamic candidates for the position of Senior Marketing Operations Manager who will oversee process management, technology infrastructure, data & analytics, and brand compliance awareness of Marrina Decisions.",
-      "publishedAt": 1793347196000,
-      "expiresAt": 1798531195000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/marrina-decisions/jobs/remote-india-marketing-ops-manager?utm_source=api"
     }
   ]
 }
