@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-07T05:13:51.467Z",
+  "fetchedAt": "2026-11-07T12:40:10.613Z",
   "sources": [
     "Himalayas",
     "Jobicy",
@@ -8,6 +8,53 @@
   ],
   "failedSources": [],
   "jobs": [
+    {
+      "id": "himalayas:https://himalayas.app/companies/gartner/jobs/specialist-analyst-technology-market-market-sizing-revenue-analysis",
+      "title": "Specialist Analyst (Technology market, market sizing, revenue analysis)",
+      "company": "Gartner",
+      "location": "India",
+      "category": "Marketing · Data Science · Market-Research-Analyst · Technology-Analyst · Data-Analyst · Business-Analyst · Research-Analyst",
+      "tags": [
+        "Marketing",
+        "Data Science",
+        "Market-Research-Analyst",
+        "Technology-Analyst",
+        "Data-Analyst",
+        "Business-Analyst",
+        "Research-Analyst"
+      ],
+      "description": "Job Title: Specialist Analyst, Emerging Market Dynamics Location: Remote- IndiaAs a Specialist Analyst, Emerging Market Dynamics, you will collaborate with global teams in the development of thought-provoking, data-driven research that reinforces Gartner as the world authority for technology market and business economics.",
+      "publishedAt": 1794054492000,
+      "expiresAt": 1799238491000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/gartner/jobs/specialist-analyst-technology-market-market-sizing-revenue-analysis?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/embrace-software-inc/jobs/rfp-analyst-government-bid-research",
+      "title": "RFP Analyst - Government Bid Research",
+      "company": "Embrace Software Inc",
+      "location": "India",
+      "category": "Marketing · RFP-Analyst · Government-Contract-Analyst · Market-Research-Analyst · Bid-Tracking-Analyst · Procurement-Analyst",
+      "tags": [
+        "Marketing",
+        "RFP-Analyst",
+        "Government-Contract-Analyst",
+        "Market-Research-Analyst",
+        "Bid-Tracking-Analyst",
+        "Procurement-Analyst"
+      ],
+      "description": "This is a remote position. About the roleWe are hiring an RFP Analyst in India, within Embrace Shared Services (ESS), to find, sort and track US government RFPs and RFIs for Fairfax Software.",
+      "publishedAt": 1794044643000,
+      "expiresAt": 1799228643000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/embrace-software-inc/jobs/rfp-analyst-government-bid-research?utm_source=api"
+    },
     {
       "id": "himalayas:https://himalayas.app/companies/jonas-software/jobs/senior-product-analyst",
       "title": "Senior Product Analyst",
@@ -29,6 +76,74 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/jonas-software/jobs/senior-product-analyst?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/eclerx/jobs/associate-process-manager",
+      "title": "Associate Process Manager",
+      "company": "eClerx",
+      "location": "India",
+      "category": "Data Science · Deep-Learning-Engineer · Machine-Learning-Engineer · AI-Engineer · LLM-Engineer",
+      "tags": [
+        "Data Science",
+        "Deep-Learning-Engineer",
+        "Machine-Learning-Engineer",
+        "AI-Engineer",
+        "LLM-Engineer"
+      ],
+      "description": "Job Description– Deep Learning Engineer Department: Artificial Intelligence / Machine Learning Location: Mumbai/Pune/Chandigarh/Remote Employment Type: Full-timePOSITION OVERVIEW We are seeking a highly skilled and experienced Deep Learning Engineer to join our AI-CoE team.",
+      "publishedAt": 1794018730000,
+      "expiresAt": 1799202730000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/eclerx/jobs/associate-process-manager?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/buzzboard-com/jobs/principal-ai-engineer",
+      "title": "Principal AI Engineer",
+      "company": "BuzzBoard",
+      "location": "India",
+      "category": "AI-Engineering · Machine-Learning-Engineering · LLM-Engineering · AI-Architecture · Generative-AI-Development",
+      "tags": [
+        "AI-Engineering",
+        "Machine-Learning-Engineering",
+        "LLM-Engineering",
+        "AI-Architecture",
+        "Generative-AI-Development"
+      ],
+      "description": "Principal AI Engineer BuzzBoard · Remote (WFH) · Engineering / AIThe role BuzzBoard builds AI products for the B2SMB market — helping agencies, media companies, and sellers understand small businesses and market to them at a level of personalization that wasn't previously economical.",
+      "publishedAt": 1794017805000,
+      "expiresAt": 1799201804000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/buzzboard-com/jobs/principal-ai-engineer?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/eversana/jobs/ai-solutions-engineer-generative-ai-agentic-ai",
+      "title": "AI Solutions Engineer (Generative AI & Agentic AI)",
+      "company": "EVERSANA",
+      "location": "India",
+      "category": "Data Science · Developer · AI-Solutions-Engineer · Machine-Learning-Engineer · AI-Engineer · Generative-AI-Engineer · Solutions-Engineer",
+      "tags": [
+        "Data Science",
+        "Developer",
+        "AI-Solutions-Engineer",
+        "Machine-Learning-Engineer",
+        "AI-Engineer",
+        "Generative-AI-Engineer",
+        "Solutions-Engineer"
+      ],
+      "description": "The AI Solutions Engineer is the hands-on builder of the AI Hub Center of Excellence.",
+      "publishedAt": 1794016224000,
+      "expiresAt": 1799200223000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/eversana/jobs/ai-solutions-engineer-generative-ai-agentic-ai?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/integrichain/jobs/data-engineer",
@@ -147,6 +262,29 @@
       "applyUrl": "https://himalayas.app/companies/foundever/jobs/senior-data-engineer-remote-any-location-in?utm_source=api"
     },
     {
+      "id": "himalayas:https://himalayas.app/companies/quantumloopai/jobs/ai-ml-prompt-engineer-llm-rag-voice-agent",
+      "title": "AI/ML & Prompt Engineer LLM, RAG & Voice Agent",
+      "company": "QuantumLoopAI",
+      "location": "India",
+      "category": "Data Science · AI-ML-Engineer · Prompt-Engineer · LLM-Engineer · Voice-Agent-Engineer · Machine-Learning-Engineer",
+      "tags": [
+        "Data Science",
+        "AI-ML-Engineer",
+        "Prompt-Engineer",
+        "LLM-Engineer",
+        "Voice-Agent-Engineer",
+        "Machine-Learning-Engineer"
+      ],
+      "description": "ABOUT QUANTUMLOOPAIQuantumLoopAI is transforming how patients access healthcare.",
+      "publishedAt": 1793983562000,
+      "expiresAt": 1799167560000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/quantumloopai/jobs/ai-ml-prompt-engineer-llm-rag-voice-agent?utm_source=api"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/welocalize/jobs/quality-coordinator",
       "title": "Quality Coordinator",
       "company": "Welocalize",
@@ -214,6 +352,26 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/foundation-ai/jobs/document-review-analyst-us-healthcare?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/mediaradar/jobs/associate-manager-content-data",
+      "title": "Associate Manager, Content & Data",
+      "company": "MediaRadar",
+      "location": "India",
+      "category": "Data-Operations-Manager · Data-Quality-Manager · Content-Operations-Manager",
+      "tags": [
+        "Data-Operations-Manager",
+        "Data-Quality-Manager",
+        "Content-Operations-Manager"
+      ],
+      "description": "About MediaRadarMediaRadar, equips marketing, sales and analytics leaders with the intelligence they need to stay ahead.",
+      "publishedAt": 1793959755000,
+      "expiresAt": 1799143755000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/mediaradar/jobs/associate-manager-content-data?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/converge-technology-solutions/jobs/senior-sales-reporting-analyst",
@@ -597,7 +755,7 @@
         "Graphics Processing Unit",
         "LLM"
       ],
-      "description": "<p>Overview</p><p>We are building a benchmark that tests how well AI agents handle real expert work in a terminal. We are hiring ML inference and serving experts to turn real, paid tasks from their jobs into expert-level Terminal-Bench challenges. Each task includes the environment, a working solution, and an automated check that proves the result is correct.</p><p>***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CHECK THE APPLICATION QUESTIONS FOR MORE DETAILS.***</p><p>Responsibilities</p><p>â¢ Design expert-level Terminal-Bench tasks that turn real, paid ML inference work from your own experience into challenges an AI agent must solve end to end.</p><p>â¢ Define the files, systems and environments each task runs on, such as model serving with streaming, so the challenge is realistic, reproducible and command-line solvable.</p><p>â¢ Write a working reference solution for every task and verify it runs end to end, sized for about 60 to 75 minutes of expert effort.</p><p>â¢ Build automated checks that objectively prove a result is correct, including cases where ML outputs go wrong silently, such as numerical drift or metric bugs.</p><p>â¢ Package tasks with Docker and Git so they are reproducible, and document the systems, tools, data and rules involved so reviewers can validate difficulty.</p><p>â¢ Iterate on tasks based on reviewer feedback and agent test runs, adjusting difficulty and fixing ambiguities so each task stays expert-level, fair and objectively gradable.</p><p>Skills/Experience</p><p>â¢ 3+ years doing ML inference or serving work hands-on (not only studying, selling or managing it), or a PhD plus active research in the subfield</p><p>â¢ Did this work in the last 3 years and can name the systems, tools, data and rules used</p><p>â¢ Trained, served or evaluated models at real scale (multi-GPU or production serving), not only notebooks or API calls</p><p>â¢ Hands-on with PyTorch or JAX internals and serving stacks such as vLLM, SGLang or TensorRT-LLM</p><p>â¢ Can explain how ML results go wrong without errors (numerical drift, metric bugs) and how to catch them</p><p>â¢ Technical fluency in Python and the command line, and with files, CSV/JSON, APIs or databases</p><p>â¢ Availability to start by early November 2026 and complete tasks of about 60 to 75 minutes each</p><p>Nice-to-have</p><p>â¢ AI lab or LLM infrastructure experience</p><p>â¢ Contributions to PyTorch, vLLM or SGLang</p><p>â¢ GPU profiling experience</p><p>â¢ Docker and Git proficiency</p><p>â¢ Experience writing automated tests</p><p>Process</p><p>â¢ Task vetting instead of an interview: complete a vetting task so the client can assess your task design</p><p>â¢ Paid per task; each task takes about 60 to 75 minutes</p><p>â¢ Work is delivered task by task, with reviewer feedback on submissions</p><p>â¢ Expected start in early November 2026</p><br/><br/>Please mention the word **ASTONISHED** and tag RMjAuODAuNzguMjI5 when applying to show you read the job post completely (#RMjAuODAuNzguMjI5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "<p>Overview</p><p>We are building a benchmark that tests how well AI agents handle real expert work in a terminal. We are hiring ML inference and serving experts to turn real, paid tasks from their jobs into expert-level Terminal-Bench challenges. Each task includes the environment, a working solution, and an automated check that proves the result is correct.</p><p>***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CHECK THE APPLICATION QUESTIONS FOR MORE DETAILS.***</p><p>Responsibilities</p><p>â¢ Design expert-level Terminal-Bench tasks that turn real, paid ML inference work from your own experience into challenges an AI agent must solve end to end.</p><p>â¢ Define the files, systems and environments each task runs on, such as model serving with streaming, so the challenge is realistic, reproducible and command-line solvable.</p><p>â¢ Write a working reference solution for every task and verify it runs end to end, sized for about 60 to 75 minutes of expert effort.</p><p>â¢ Build automated checks that objectively prove a result is correct, including cases where ML outputs go wrong silently, such as numerical drift or metric bugs.</p><p>â¢ Package tasks with Docker and Git so they are reproducible, and document the systems, tools, data and rules involved so reviewers can validate difficulty.</p><p>â¢ Iterate on tasks based on reviewer feedback and agent test runs, adjusting difficulty and fixing ambiguities so each task stays expert-level, fair and objectively gradable.</p><p>Skills/Experience</p><p>â¢ 3+ years doing ML inference or serving work hands-on (not only studying, selling or managing it), or a PhD plus active research in the subfield</p><p>â¢ Did this work in the last 3 years and can name the systems, tools, data and rules used</p><p>â¢ Trained, served or evaluated models at real scale (multi-GPU or production serving), not only notebooks or API calls</p><p>â¢ Hands-on with PyTorch or JAX internals and serving stacks such as vLLM, SGLang or TensorRT-LLM</p><p>â¢ Can explain how ML results go wrong without errors (numerical drift, metric bugs) and how to catch them</p><p>â¢ Technical fluency in Python and the command line, and with files, CSV/JSON, APIs or databases</p><p>â¢ Availability to start by early November 2026 and complete tasks of about 60 to 75 minutes each</p><p>Nice-to-have</p><p>â¢ AI lab or LLM infrastructure experience</p><p>â¢ Contributions to PyTorch, vLLM or SGLang</p><p>â¢ GPU profiling experience</p><p>â¢ Docker and Git proficiency</p><p>â¢ Experience writing automated tests</p><p>Process</p><p>â¢ Task vetting instead of an interview: complete a vetting task so the client can assess your task design</p><p>â¢ Paid per task; each task takes about 60 to 75 minutes</p><p>â¢ Work is delivered task by task, with reviewer feedback on submissions</p><p>â¢ Expected start in early November 2026</p><br/><br/>Please mention the word **ASTONISHED** and tag RMTcyLjIxNS4yMTAuMTE1 when applying to show you read the job post completely (#RMTcyLjIxNS4yMTAuMTE1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "publishedAt": 1793890736000,
       "salary": "",
       "employmentType": "",
@@ -1780,30 +1938,6 @@
       "applyUrl": "https://himalayas.app/companies/parexel/jobs/senior-salesforce-functional-analyst-qa?utm_source=api"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/binance/jobs/binance-accelerator-program-data-scientist-recommendation-square-community",
-      "title": "Binance Accelerator Program - Data Scientist (Recommendation/Square Community)",
-      "company": "Binance",
-      "location": "Afghanistan, Armenia, Azerbaijan, Bahrain, Bangladesh, Bhutan, Brunei Darussalam, Cambodia, China, Georgia, Hong Kong, India, Indonesia, Iran, Iraq, Israel, Japan, Jordan, Kazakhstan, Kuwait, Kyrgyzstan, Lao People's Democratic Republic, Lebanon, Macao, Malaysia, Maldives, Mongolia, Myanmar, Nepal, Oman, Pakistan, Palestine, State of, Philippines, Qatar, Russian Federation, Saudi Arabia, Singapore, South Korea, Sri Lanka, Syrian Arab Republic, Taiwan, Tajikistan, Thailand, Timor-Leste, Turkey, Turkmenistan, United Arab Emirates, Uzbekistan, Vietnam, Yemen",
-      "category": "Data Science · Data-Science-AI · Data-Scientist · Machine-Learning · Recommendation-Systems · Web3 · Data-Science",
-      "tags": [
-        "Data Science",
-        "Data-Science-AI",
-        "Data-Scientist",
-        "Machine-Learning",
-        "Recommendation-Systems",
-        "Web3",
-        "Data-Science"
-      ],
-      "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users.",
-      "publishedAt": 1793538177000,
-      "expiresAt": 1794051589000,
-      "salary": "",
-      "employmentType": "Intern",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/binance/jobs/binance-accelerator-program-data-scientist-recommendation-square-community?utm_source=api"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/binance/jobs/quantitative-researcher",
       "title": "Quantitative Researcher",
       "company": "Binance",
@@ -2257,32 +2391,6 @@
       "applyUrl": "https://himalayas.app/companies/alternative-path-private-limited/jobs/senior-agentic-ai-engineer?utm_source=api"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/overture-rede/jobs/ml-product-engineer",
-      "title": "ML Product Engineer",
-      "company": "Overture Rede",
-      "location": "India",
-      "category": "Data Science · Developer · Machine-Learning-Engineer · AI-Engineer · Product-Engineer · ML-Product-Engineer · LLM-Product-Engineer · AI-Product-Engineer · AI-ML-Product-Engineering",
-      "tags": [
-        "Data Science",
-        "Developer",
-        "Machine-Learning-Engineer",
-        "AI-Engineer",
-        "Product-Engineer",
-        "ML-Product-Engineer",
-        "LLM-Product-Engineer",
-        "AI-Product-Engineer",
-        "AI-ML-Product-Engineering"
-      ],
-      "description": "This is a remote position. Technical Approach - We have a working AI pipeline using text prompt optimization, text-to-image, and image-to-video using a diffusion model architecture - We are using prompt optimization techniques and testing multiple open-source text-to-video models (OpenSora, Mora, IV2 Gen XL, etc) - We need to move into the fine-tuning approach using vector databases to isolate specific issues in videos (e.",
-      "publishedAt": 1793535260000,
-      "expiresAt": 1797110203000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/overture-rede/jobs/ml-product-engineer?utm_source=api"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/cybernetic-controls-limited/jobs/srb28-regulatory-paralegal-content-analyst",
       "title": "SRB28 Regulatory Paralegal Content Analyst",
       "company": "Cybernetic Controls Limited",
@@ -2428,31 +2536,6 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/mercor/jobs/ai-safety-specialist-fully-remote-up-to-22-hr-6222469254?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/trindent-consulting/jobs/value-chain-refinery-optimization-consulting-opportunities-aveva-spiral",
-      "title": "Value Chain Refinery Optimization Consulting Opportunities (Aveva Spiral)",
-      "company": "Trindent Consulting",
-      "location": "Canada, India, Ireland, Mexico, Turkey",
-      "category": "Operations · Operations-Consultant · Process-Engineer · Refinery-Optimization-Consultant · Supply-Chain-Analyst · Oil-And-Gas-Consultant · Refinery-Technical-Consultant · Refinery-Optimization",
-      "tags": [
-        "Operations",
-        "Operations-Consultant",
-        "Process-Engineer",
-        "Refinery-Optimization-Consultant",
-        "Supply-Chain-Analyst",
-        "Oil-And-Gas-Consultant",
-        "Refinery-Technical-Consultant",
-        "Refinery-Optimization"
-      ],
-      "description": "Trindent Consulting is a global management consulting firm that specializes in technical augmentation in the energy sector, specifically downstream oil & gas and large energy users.",
-      "publishedAt": 1793534775000,
-      "expiresAt": 1797480109000,
-      "salary": "CAD 80,000–2,70,000 annual",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/trindent-consulting/jobs/value-chain-refinery-optimization-consulting-opportunities-aveva-spiral?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/welocalize/jobs/audio-transcription-adjudicator-5055823463",
@@ -3108,32 +3191,6 @@
       "applyUrl": "https://himalayas.app/companies/vial/jobs/manager-strategy-and-operations?utm_source=api"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/architecture-in-motion/jobs/senior-data-engineer-ai-llm-solutions-4856691908",
-      "title": "Senior Data Engineer (AI & LLM Solutions)",
-      "company": "Architecture in Motion",
-      "location": "India, Mexico, Morocco, Pakistan",
-      "category": "Data Science · Data-Engineer · AI-Data-Engineer · Cloud-Data-Engineer · LLM-Solutions-Engineer · Senior-AI-ML-Data-Engineer · Senior-AI-Data-Engineer · Senior-AI-LLM-Engineer · Senior-Data-Engineering",
-      "tags": [
-        "Data Science",
-        "Data-Engineer",
-        "AI-Data-Engineer",
-        "Cloud-Data-Engineer",
-        "LLM-Solutions-Engineer",
-        "Senior-AI-ML-Data-Engineer",
-        "Senior-AI-Data-Engineer",
-        "Senior-AI-LLM-Engineer",
-        "Senior-Data-Engineering"
-      ],
-      "description": "Senior Data Engineer (AI & LLM Solutions) Location: Remote(Pakistan, Mexico, India, Morocco) Department: Digital Solutions / Data Engineering & AI Reports To: Technical Lead / Director Job Type: Full-timeAbout AIMArchitecture in Motion Inc.",
-      "publishedAt": 1793533627000,
-      "expiresAt": 1798114057000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/architecture-in-motion/jobs/senior-data-engineer-ai-llm-solutions-4856691908?utm_source=api"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/ycp/jobs/india-management-services-division-associate",
       "title": "INDIA - Management Services Division, Associate",
       "company": "YCP",
@@ -3491,35 +3548,6 @@
       "applyUrl": "https://himalayas.app/companies/mercor/jobs/data-science-expert-fully-remote-upto-170-hr-1909159247?utm_source=api"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/peakflo/jobs/machine-learning-ml-engineer-intern-paid-india-remote",
-      "title": "Machine Learning (ML) Engineer Intern - (Paid - India/Remote)",
-      "company": "Peakflo",
-      "location": "India",
-      "category": "Data Science · Machine-Learning-Engineer-Intern · Machine-Learning-Engineer · AI-Engineer · NLP-Engineer · LLM-Engineer · Machine-Learning-Intern · AI-ML-Intern · AI-ML-Internship · Internship-In-AI-ML · AI-Engineering-Intern · Machine-Learning-Internships",
-      "tags": [
-        "Data Science",
-        "Machine-Learning-Engineer-Intern",
-        "Machine-Learning-Engineer",
-        "AI-Engineer",
-        "NLP-Engineer",
-        "LLM-Engineer",
-        "Machine-Learning-Intern",
-        "AI-ML-Intern",
-        "AI-ML-Internship",
-        "Internship-In-AI-ML",
-        "AI-Engineering-Intern",
-        "Machine-Learning-Internships"
-      ],
-      "description": "🚀 Who we are & What we’re buildingPeakflo is a rapidly growing Agentic AI company.",
-      "publishedAt": 1793464984000,
-      "expiresAt": 1798648984000,
-      "salary": "INR 4,80,000–6,00,000 annual",
-      "employmentType": "Intern",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/peakflo/jobs/machine-learning-ml-engineer-intern-paid-india-remote?utm_source=api"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/snv/jobs/associate-859634231",
       "title": "Associate",
       "company": "SNV",
@@ -3569,100 +3597,6 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/proximity-works/jobs/senior-data-scientist?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/highlevel/jobs/sr-product-analyst-lead-generation",
-      "title": "Sr. Product Analyst – Lead Generation",
-      "company": "HighLevel",
-      "location": "India",
-      "category": "Product · Data Science · Product-Analyst · Business-Analyst · Data-Analyst",
-      "tags": [
-        "Product",
-        "Data Science",
-        "Product-Analyst",
-        "Business-Analyst",
-        "Data-Analyst"
-      ],
-      "description": "About HighLevelAbout us HighLevel is an AI-powered business operating system that gives agencies, entrepreneurs and SMBs the infrastructure to build, automate and scale.",
-      "publishedAt": 1793444315000,
-      "expiresAt": 1798628313000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/highlevel/jobs/sr-product-analyst-lead-generation?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/proof-of-skill/jobs/data-analyst",
-      "title": "Data Analyst",
-      "company": "Proof of Skill",
-      "location": "India",
-      "category": "Data Science · Data-Analyst · Business-Intelligence-Analyst · HR-Data-Analyst · Recruiting-Data-Analyst",
-      "tags": [
-        "Data Science",
-        "Data-Analyst",
-        "Business-Intelligence-Analyst",
-        "HR-Data-Analyst",
-        "Recruiting-Data-Analyst"
-      ],
-      "description": "Analyzing hiring and candidate data to improve decision-making, shortlisting, and overall system efficiency.",
-      "publishedAt": 1793441530000,
-      "expiresAt": 1798625530000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/proof-of-skill/jobs/data-analyst?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/moniepoint/jobs/senior-data-scientist-fraud-6969905949",
-      "title": "Senior Data Scientist (Fraud)",
-      "company": "Moniepoint",
-      "location": "India",
-      "category": "Data Science · Data-Science · Fraud-Detection · Risk-Analytics · Data-Scientist · Machine-Learning · Senior-Fraud-Data-Scientist · Senior-Data-Scientist-Fraud-Detection · Financial-Fraud-Data-Scientist · Senior-Data-Scientist-Financial-Crime · Fraud-Data-Science · Senior-Data-Science",
-      "tags": [
-        "Data Science",
-        "Data-Science",
-        "Fraud-Detection",
-        "Risk-Analytics",
-        "Data-Scientist",
-        "Machine-Learning",
-        "Senior-Fraud-Data-Scientist",
-        "Senior-Data-Scientist-Fraud-Detection",
-        "Financial-Fraud-Data-Scientist",
-        "Senior-Data-Scientist-Financial-Crime",
-        "Fraud-Data-Science",
-        "Senior-Data-Science"
-      ],
-      "description": "Who we areRanked in 2024 by the Financial Times, Moniepoint is Africa’s fastest-growing fintech, trusted by over 10 million business and individual accounts, processing billions of Naira in transactions monthly.",
-      "publishedAt": 1793431767000,
-      "expiresAt": 1798615767000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/moniepoint/jobs/senior-data-scientist-fraud-6969905949?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/rws-group/jobs/search-engine-evaluator-english-india",
-      "title": "Search Engine Evaluator - English (India)",
-      "company": "RWS Group",
-      "location": "India",
-      "category": "Search-Engine-Evaluator · Search-Quality-Rater · AI-Data-Evaluator · Search-Quality-Analyst",
-      "tags": [
-        "Search-Engine-Evaluator",
-        "Search-Quality-Rater",
-        "AI-Data-Evaluator",
-        "Search-Quality-Analyst"
-      ],
-      "description": "Overview:Are you a web-savvy, search expert with a talent for finding things online by using just a few words?",
-      "publishedAt": 1793425762000,
-      "expiresAt": 1798609762000,
-      "salary": "",
-      "employmentType": "Part Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/rws-group/jobs/search-engine-evaluator-english-india?utm_source=api"
     }
   ]
 }
