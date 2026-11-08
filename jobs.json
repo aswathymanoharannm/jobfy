@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-07T21:36:17.023Z",
+  "fetchedAt": "2026-11-08T05:08:24.746Z",
   "sources": [
     "Himalayas",
     "Jobicy",
@@ -8,6 +8,50 @@
   ],
   "failedSources": [],
   "jobs": [
+    {
+      "id": "himalayas:https://himalayas.app/companies/welocalize/jobs/dutch-ai-data-rater-1629909044",
+      "title": "Dutch AI Data Rater",
+      "company": "Welocalize",
+      "location": "India, Nigeria, Philippines, Suriname",
+      "category": "Data Science · Data-Rater · Data-Annotator · Search-Quality-Analyst · Data-Quality-Specialist",
+      "tags": [
+        "Data Science",
+        "Data-Rater",
+        "Data-Annotator",
+        "Search-Quality-Analyst",
+        "Data-Quality-Specialist"
+      ],
+      "description": "OVERVIEWAre you tech-savvy?  Have a passion for quality?",
+      "publishedAt": 1794085546000,
+      "expiresAt": 1799269545000,
+      "salary": "USD 2–2 hourly",
+      "employmentType": "Contractor",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/welocalize/jobs/dutch-ai-data-rater-1629909044?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/agilent-technologies/jobs/demand-planner",
+      "title": "Demand Planner",
+      "company": "Agilent Technologies",
+      "location": "Denmark, Germany, India, Japan, Singapore",
+      "category": "Demand-Planner · Demand-Planning-Manager · Supply-Chain-Planner · Integrated-Business-Planning-(IBP) · Forecasting-Analyst",
+      "tags": [
+        "Demand-Planner",
+        "Demand-Planning-Manager",
+        "Supply-Chain-Planner",
+        "Integrated-Business-Planning-(IBP)",
+        "Forecasting-Analyst"
+      ],
+      "description": "Job DescriptionIntegrated Business Planning (IBP) brings together forecasting and planning across marketing, sales, finance, procurement, manufacturing, and customer service into a unified process.",
+      "publishedAt": 1794083018000,
+      "expiresAt": 1799267017000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/agilent-technologies/jobs/demand-planner?utm_source=api"
+    },
     {
       "id": "himalayas:https://himalayas.app/companies/binance/jobs/binance-accelerator-program-data-scientist-recommendation-square-community",
       "title": "Binance Accelerator Program - Data Scientist (Recommendation/Square Community)",
@@ -63,6 +107,29 @@
       "applyUrl": "https://himalayas.app/companies/mercor/jobs/materials-scientist-fully-remote-upto-70-hr-9294342203?utm_source=api"
     },
     {
+      "id": "himalayas:https://himalayas.app/companies/netrix-global/jobs/ai-agent-engineer",
+      "title": "AI / Agent Engineer",
+      "company": "Netrix Global",
+      "location": "India",
+      "category": "Data Science · AI-Agent-Engineer · AI-Engineer · Generative-AI-Engineer · LLM-Engineer · AI-Solutions-Engineer",
+      "tags": [
+        "Data Science",
+        "AI-Agent-Engineer",
+        "AI-Engineer",
+        "Generative-AI-Engineer",
+        "LLM-Engineer",
+        "AI-Solutions-Engineer"
+      ],
+      "description": "About The OpportunityNetrix Global is looking for a client-facing AI / Agent Engineer to design and deliver secure, grounded AI solutions for enterprise customers.",
+      "publishedAt": 1794078051000,
+      "expiresAt": 1799262051000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/netrix-global/jobs/ai-agent-engineer?utm_source=api"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/hyre/jobs/automations-data-analytics-specialist-7386483940",
       "title": "Automations & Data Analytics Specialist",
       "company": "Hyre",
@@ -84,6 +151,53 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/hyre/jobs/automations-data-analytics-specialist-7386483940?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/gartner/jobs/specialist-analyst-technology-market-market-sizing-revenue-analysis",
+      "title": "Specialist Analyst (Technology market, market sizing, revenue analysis)",
+      "company": "Gartner",
+      "location": "India",
+      "category": "Marketing · Data Science · Market-Research-Analyst · Technology-Analyst · Data-Analyst · Business-Analyst · Research-Analyst",
+      "tags": [
+        "Marketing",
+        "Data Science",
+        "Market-Research-Analyst",
+        "Technology-Analyst",
+        "Data-Analyst",
+        "Business-Analyst",
+        "Research-Analyst"
+      ],
+      "description": "Job Title: Specialist Analyst, Emerging Market Dynamics Location: Remote- IndiaAs a Specialist Analyst, Emerging Market Dynamics, you will collaborate with global teams in the development of thought-provoking, data-driven research that reinforces Gartner as the world authority for technology market and business economics.",
+      "publishedAt": 1794054492000,
+      "expiresAt": 1799238491000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/gartner/jobs/specialist-analyst-technology-market-market-sizing-revenue-analysis?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/newfold-digital/jobs/software-development-engineer-in-test-ai",
+      "title": "Software Development Engineer in Test - AI",
+      "company": "Newfold Digital",
+      "location": "India",
+      "category": "Developer · Software-Engineer-in-Test · Quality-Engineer · Automation-Engineer · AI-Testing-Engineer · SDET",
+      "tags": [
+        "Developer",
+        "Software-Engineer-in-Test",
+        "Quality-Engineer",
+        "Automation-Engineer",
+        "AI-Testing-Engineer",
+        "SDET"
+      ],
+      "description": "Who we are.  Newfold Digital is a leading web technology company serving millions of customers globally.",
+      "publishedAt": 1794049918000,
+      "expiresAt": 1799233915000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/newfold-digital/jobs/software-development-engineer-in-test-ai?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/embrace-software-inc/jobs/rfp-analyst-government-bid-research",
@@ -557,7 +671,7 @@
       "description": "Location: Remote Engagement type: Full-time Experience: 1-4 years Start preference: Only apply if you're ready to join immediately or within 30 days Compensation: $800 - $1500 / mo (based on experience and interview) Company: About the companySanctuary builds nature-led, wellness-centered communities that feel alive.",
       "publishedAt": 1793923677000,
       "expiresAt": 1799107676000,
-      "salary": "USD 800–1,500 monthly",
+      "salary": "",
       "employmentType": "Full Time",
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
@@ -808,7 +922,7 @@
         "Graphics Processing Unit",
         "LLM"
       ],
-      "description": "<p>Overview</p><p>We are building a benchmark that tests how well AI agents handle real expert work in a terminal. We are hiring ML inference and serving experts to turn real, paid tasks from their jobs into expert-level Terminal-Bench challenges. Each task includes the environment, a working solution, and an automated check that proves the result is correct.</p><p>***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CHECK THE APPLICATION QUESTIONS FOR MORE DETAILS.***</p><p>Responsibilities</p><p>â¢ Design expert-level Terminal-Bench tasks that turn real, paid ML inference work from your own experience into challenges an AI agent must solve end to end.</p><p>â¢ Define the files, systems and environments each task runs on, such as model serving with streaming, so the challenge is realistic, reproducible and command-line solvable.</p><p>â¢ Write a working reference solution for every task and verify it runs end to end, sized for about 60 to 75 minutes of expert effort.</p><p>â¢ Build automated checks that objectively prove a result is correct, including cases where ML outputs go wrong silently, such as numerical drift or metric bugs.</p><p>â¢ Package tasks with Docker and Git so they are reproducible, and document the systems, tools, data and rules involved so reviewers can validate difficulty.</p><p>â¢ Iterate on tasks based on reviewer feedback and agent test runs, adjusting difficulty and fixing ambiguities so each task stays expert-level, fair and objectively gradable.</p><p>Skills/Experience</p><p>â¢ 3+ years doing ML inference or serving work hands-on (not only studying, selling or managing it), or a PhD plus active research in the subfield</p><p>â¢ Did this work in the last 3 years and can name the systems, tools, data and rules used</p><p>â¢ Trained, served or evaluated models at real scale (multi-GPU or production serving), not only notebooks or API calls</p><p>â¢ Hands-on with PyTorch or JAX internals and serving stacks such as vLLM, SGLang or TensorRT-LLM</p><p>â¢ Can explain how ML results go wrong without errors (numerical drift, metric bugs) and how to catch them</p><p>â¢ Technical fluency in Python and the command line, and with files, CSV/JSON, APIs or databases</p><p>â¢ Availability to start by early November 2026 and complete tasks of about 60 to 75 minutes each</p><p>Nice-to-have</p><p>â¢ AI lab or LLM infrastructure experience</p><p>â¢ Contributions to PyTorch, vLLM or SGLang</p><p>â¢ GPU profiling experience</p><p>â¢ Docker and Git proficiency</p><p>â¢ Experience writing automated tests</p><p>Process</p><p>â¢ Task vetting instead of an interview: complete a vetting task so the client can assess your task design</p><p>â¢ Paid per task; each task takes about 60 to 75 minutes</p><p>â¢ Work is delivered task by task, with reviewer feedback on submissions</p><p>â¢ Expected start in early November 2026</p><br/><br/>Please mention the word **ASTONISHED** and tag RNC4xNTQuMTc0LjE5Nw== when applying to show you read the job post completely (#RNC4xNTQuMTc0LjE5Nw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "<p>Overview</p><p>We are building a benchmark that tests how well AI agents handle real expert work in a terminal. We are hiring ML inference and serving experts to turn real, paid tasks from their jobs into expert-level Terminal-Bench challenges. Each task includes the environment, a working solution, and an automated check that proves the result is correct.</p><p>***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CHECK THE APPLICATION QUESTIONS FOR MORE DETAILS.***</p><p>Responsibilities</p><p>â¢ Design expert-level Terminal-Bench tasks that turn real, paid ML inference work from your own experience into challenges an AI agent must solve end to end.</p><p>â¢ Define the files, systems and environments each task runs on, such as model serving with streaming, so the challenge is realistic, reproducible and command-line solvable.</p><p>â¢ Write a working reference solution for every task and verify it runs end to end, sized for about 60 to 75 minutes of expert effort.</p><p>â¢ Build automated checks that objectively prove a result is correct, including cases where ML outputs go wrong silently, such as numerical drift or metric bugs.</p><p>â¢ Package tasks with Docker and Git so they are reproducible, and document the systems, tools, data and rules involved so reviewers can validate difficulty.</p><p>â¢ Iterate on tasks based on reviewer feedback and agent test runs, adjusting difficulty and fixing ambiguities so each task stays expert-level, fair and objectively gradable.</p><p>Skills/Experience</p><p>â¢ 3+ years doing ML inference or serving work hands-on (not only studying, selling or managing it), or a PhD plus active research in the subfield</p><p>â¢ Did this work in the last 3 years and can name the systems, tools, data and rules used</p><p>â¢ Trained, served or evaluated models at real scale (multi-GPU or production serving), not only notebooks or API calls</p><p>â¢ Hands-on with PyTorch or JAX internals and serving stacks such as vLLM, SGLang or TensorRT-LLM</p><p>â¢ Can explain how ML results go wrong without errors (numerical drift, metric bugs) and how to catch them</p><p>â¢ Technical fluency in Python and the command line, and with files, CSV/JSON, APIs or databases</p><p>â¢ Availability to start by early November 2026 and complete tasks of about 60 to 75 minutes each</p><p>Nice-to-have</p><p>â¢ AI lab or LLM infrastructure experience</p><p>â¢ Contributions to PyTorch, vLLM or SGLang</p><p>â¢ GPU profiling experience</p><p>â¢ Docker and Git proficiency</p><p>â¢ Experience writing automated tests</p><p>Process</p><p>â¢ Task vetting instead of an interview: complete a vetting task so the client can assess your task design</p><p>â¢ Paid per task; each task takes about 60 to 75 minutes</p><p>â¢ Work is delivered task by task, with reviewer feedback on submissions</p><p>â¢ Expected start in early November 2026</p><br/><br/>Please mention the word **ASTONISHED** and tag RNC4yNDYuMTE3Ljgy when applying to show you read the job post completely (#RNC4yNDYuMTE3Ljgy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "publishedAt": 1793890736000,
       "salary": "",
       "employmentType": "",
@@ -931,7 +1045,7 @@
       "description": "About Patronus AIPatronus AI is a frontier lab developing simulation research and infrastructure to accelerate progress toward human-aligned AGI.",
       "publishedAt": 1793842336000,
       "expiresAt": 1799026336000,
-      "salary": "USD 30–100 hourly",
+      "salary": "",
       "employmentType": "Contractor",
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
@@ -1139,7 +1253,7 @@
       "description": "Role Title: Federal Budget Analyst Role Type: Contractor Location: Remote micro1 is engaging Federal Budget Analysts to contribute to a customer's project focused on budget formulation and execution within the federal sector.",
       "publishedAt": 1793745954000,
       "expiresAt": 1798929954000,
-      "salary": "USD 60–85 hourly",
+      "salary": "",
       "employmentType": "Contractor",
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
@@ -1520,7 +1634,7 @@
       "description": "Role Title: Medical Imaging & Segmentation Specialist (3D Slicer) Role Type: ContractorLocation: Remotemicro1 is looking for experienced 3D Slicer specialists to support an AI training project.",
       "publishedAt": 1793719461000,
       "expiresAt": 1798903461000,
-      "salary": "USD 60–112 hourly",
+      "salary": "",
       "employmentType": "Contractor",
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
@@ -2931,29 +3045,6 @@
       "applyUrl": "https://himalayas.app/companies/volga-partners/jobs/gp-medical-student-healthcare-trainee-ai-evaluator-united-kingdom?utm_source=api"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/softtek/jobs/cientifico-de-datos-proficient",
-      "title": "Científico de Datos Proficient",
-      "company": "Softtek",
-      "location": "India, Mexico",
-      "category": "Data Science · Data-Scientist · Machine-Learning-Scientist · Applied-Scientist · Data-Analyst · Cientista-De-Dados",
-      "tags": [
-        "Data Science",
-        "Data-Scientist",
-        "Machine-Learning-Scientist",
-        "Applied-Scientist",
-        "Data-Analyst",
-        "Cientista-De-Dados"
-      ],
-      "description": "Científico de Datos con experiencia en Machine Learning - Proficient Habilidades Requeridas: • Dominio avanzado de Python y librerías de Ciencia de Datos como Scikit-Learn, XGBoost, LightGBM, Pandas, Polars, Statsmodels y SciPy.",
-      "publishedAt": 1793534281000,
-      "expiresAt": 1797872519000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/softtek/jobs/cientifico-de-datos-proficient?utm_source=api"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/pearster/jobs/data-entry-specialists-apac",
       "title": "Data Entry Specialists-APAC",
       "company": "Pearster",
@@ -3409,144 +3500,6 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/pavago/jobs/ai-engineer?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/dmi/jobs/power-bi-developer-bi-engineer",
-      "title": "Power BI Developer / BI Engineer",
-      "company": "DMI",
-      "location": "India",
-      "category": "Data Science · Power-BI-Developer · Business-intelligence-Engineer · Data-Engineer · Analytics-Engineer",
-      "tags": [
-        "Data Science",
-        "Power-BI-Developer",
-        "Business-intelligence-Engineer",
-        "Data-Engineer",
-        "Analytics-Engineer"
-      ],
-      "description": "About DMI DMI is a leading provider of digital services and technology solutions, headquartered in Tysons Corner, VA.",
-      "publishedAt": 1793508565000,
-      "expiresAt": 1798692564000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/dmi/jobs/power-bi-developer-bi-engineer?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/kantiv-formerly-joist-ai/jobs/senior-ai-engineer-chat-agent-systems",
-      "title": "Senior AI Engineer - Chat & Agent Systems",
-      "company": "Kantiv (formerly Joist AI)",
-      "location": "India",
-      "category": "Senior-AI-Agent-Engineer · Senior-AI-Engineer · Senior-AI-Software-Engineer · AI-Agent-Systems-Engineer · Senior-AI-Engineering · Senior-Agentic-AI-Engineer",
-      "tags": [
-        "Senior-AI-Agent-Engineer",
-        "Senior-AI-Engineer",
-        "Senior-AI-Software-Engineer",
-        "AI-Agent-Systems-Engineer",
-        "Senior-AI-Engineering",
-        "Senior-Agentic-AI-Engineer"
-      ],
-      "description": "We’re looking for a strong AI engineer with roughly 4–5 years of experience to play a central role in our chat team.",
-      "publishedAt": 1793507879000,
-      "expiresAt": 1798691878000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/kantiv-formerly-joist-ai/jobs/senior-ai-engineer-chat-agent-systems?utm_source=api"
-    },
-    {
-      "id": "jobicy:154320",
-      "title": "Senior All-Source Intelligence Analyst",
-      "company": "TRM Labs",
-      "location": "APAC",
-      "category": "Cybersecurity",
-      "tags": [],
-      "description": "Build a Safer World. TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and businesses worldwide rely on TRM to make the world safer and more secure. About&hellip;",
-      "publishedAt": 1793505010000,
-      "salary": "",
-      "employmentType": "Full-Time",
-      "source": "Jobicy",
-      "sourceHome": "https://jobicy.com/",
-      "applyUrl": "https://jobicy.com/jobs/154320-senior-all-source-intelligence-analyst"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/g2i/jobs/ai-engineer-llm-engineer-talent-pool",
-      "title": "AI Engineer / LLM Engineer - Talent Pool",
-      "company": "G2i",
-      "location": "Worldwide",
-      "category": "Data Science · AI-LLM-Engineer · AI-Engineering-Jobs · AI-ML-Engineering-Jobs · AI-ML-Engineer-Jobs · AI-LLM-Software-Engineer · Senior-AI-LLM-Engineer · LLM-Engineer · Artificial-Intelligence-Engineer-Jobs · LLM-AI-Engineering · AI-ML-Engineer · AI-Engineer",
-      "tags": [
-        "Data Science",
-        "AI-LLM-Engineer",
-        "AI-Engineering-Jobs",
-        "AI-ML-Engineering-Jobs",
-        "AI-ML-Engineer-Jobs",
-        "AI-LLM-Software-Engineer",
-        "Senior-AI-LLM-Engineer",
-        "LLM-Engineer",
-        "Artificial-Intelligence-Engineer-Jobs",
-        "LLM-AI-Engineering",
-        "AI-ML-Engineer",
-        "AI-Engineer"
-      ],
-      "description": "Join the G2i Talent PoolWe’re always meeting great people in tech.",
-      "publishedAt": 1793498666000,
-      "expiresAt": 1798682665000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/g2i/jobs/ai-engineer-llm-engineer-talent-pool?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/g2i/jobs/tech-talent-pool-engineers-data-and-ai-ml-5668161601",
-      "title": "Tech Talent Pool: Engineers, Data and AI/ML",
-      "company": "G2i",
-      "location": "Worldwide",
-      "category": "Tech-Talent-Pool · Technology-Talent-Pool · Engineering-Talent-Pool · Technology-Talent-Pipeline · Engineering-Talent · Tech-Talent-Community",
-      "tags": [
-        "Tech-Talent-Pool",
-        "Technology-Talent-Pool",
-        "Engineering-Talent-Pool",
-        "Technology-Talent-Pipeline",
-        "Engineering-Talent",
-        "Tech-Talent-Community"
-      ],
-      "description": "Join the G2i Talent PoolWe’re always meeting great people in tech.",
-      "publishedAt": 1793496507000,
-      "expiresAt": 1798680507000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/g2i/jobs/tech-talent-pool-engineers-data-and-ai-ml-5668161601?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/g2i/jobs/ai-engineer-llm-engineer-g2i-talent-pool-5753734984",
-      "title": "AI Engineer / LLM Engineer - G2i Talent Pool",
-      "company": "G2i",
-      "location": "Worldwide",
-      "category": "Data Science · AI-LLM-Engineer · AI-ML-Engineer · AI-Engineering-Jobs · Senior-AI-LLM-Engineer · AI-ML-Engineering-Jobs · AI-LLM-Software-Engineer · AI-Engineer · LLM-Engineer",
-      "tags": [
-        "Data Science",
-        "AI-LLM-Engineer",
-        "AI-ML-Engineer",
-        "AI-Engineering-Jobs",
-        "Senior-AI-LLM-Engineer",
-        "AI-ML-Engineering-Jobs",
-        "AI-LLM-Software-Engineer",
-        "AI-Engineer",
-        "LLM-Engineer"
-      ],
-      "description": "Join the G2i Talent PoolWe’re always meeting great people in tech.",
-      "publishedAt": 1793491581000,
-      "expiresAt": 1798675581000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/g2i/jobs/ai-engineer-llm-engineer-g2i-talent-pool-5753734984?utm_source=api"
     }
   ]
 }
