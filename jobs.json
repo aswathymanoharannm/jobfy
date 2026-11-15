@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-15T13:39:21.000Z",
+  "fetchedAt": "2026-11-15T22:36:26.188Z",
   "sources": [
     "Himalayas",
     "Jobicy",
@@ -9,26 +9,130 @@
   "failedSources": [],
   "jobs": [
     {
-      "id": "himalayas:https://himalayas.app/companies/phdata/jobs/lead-analytics-consultant-power-bi",
-      "title": "Lead Analytics Consultant (Power BI)",
-      "company": "phData",
-      "location": "India",
-      "category": "Analytics-Consultant · Data-Analytics-Consultant · Business-Intelligence-Consultant · Data-Visualization-Consultant · Power-BI-Consultant",
+      "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/junior-machine-learning-engineer-remote-contract",
+      "title": "🌍 Junior Machine Learning Engineer, Remote- Contract",
+      "company": "Xperteez Technology",
+      "location": "Worldwide",
+      "category": "Data Science · Developer · Machine-Learning-Engineer · Machine-Learning-Developer · AI-Engineer · Data-Scientist",
       "tags": [
-        "Analytics-Consultant",
-        "Data-Analytics-Consultant",
-        "Business-Intelligence-Consultant",
-        "Data-Visualization-Consultant",
-        "Power-BI-Consultant"
+        "Data Science",
+        "Developer",
+        "Machine-Learning-Engineer",
+        "Machine-Learning-Developer",
+        "AI-Engineer",
+        "Data-Scientist"
       ],
-      "description": "JoinphData, a remote-first data and AI consultancy company with employees across the United States, Latin America, and India.",
-      "publishedAt": 1794745427000,
-      "expiresAt": 1799929426000,
+      "description": "Role Title: Junior Machine Learning Engineer Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python.",
+      "publishedAt": 1794774462000,
+      "expiresAt": 1799958461000,
+      "salary": "USD 60–120 hourly",
+      "employmentType": "Contractor",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/xperteez-technology/jobs/junior-machine-learning-engineer-remote-contract?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/path/jobs/consultant-data-analysis-and-technical-writing-hiv-hepatitis-sti-hhs",
+      "title": "Consultant – Data analysis and Technical writing, HIV-Hepatitis-STI (HHS)",
+      "company": "PATH",
+      "location": "India",
+      "category": "Healthcare · Data Science · Content Creator · Public-Health-Consultant · Data-Analyst · Research-Consultant · Epidemiologist · Technical-Writer",
+      "tags": [
+        "Healthcare",
+        "Data Science",
+        "Content Creator",
+        "Public-Health-Consultant",
+        "Data-Analyst",
+        "Research-Consultant",
+        "Epidemiologist",
+        "Technical-Writer"
+      ],
+      "description": "PATH current employees - please log in and apply Here PATH is a global nonprofit advancing health innovations for the people who need them most.",
+      "publishedAt": 1794772762000,
+      "expiresAt": 1799956762000,
+      "salary": "",
+      "employmentType": "Contractor",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/path/jobs/consultant-data-analysis-and-technical-writing-hiv-hepatitis-sti-hhs?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/remotejobsone/jobs/ai-ml-engineer-internal-platforms-remote-worldwide",
+      "title": "AI/ML Engineer, Internal Platforms – Remote (Worldwide)",
+      "company": "RemoteJobsOne",
+      "location": "Canada, France, Germany, India, Netherlands, Singapore, United Kingdom, United States",
+      "category": "Data Science · AI-ML-Engineer · Machine-Learning-Engineer · AI-Engineer · AI-Platform-Engineer",
+      "tags": [
+        "Data Science",
+        "AI-ML-Engineer",
+        "Machine-Learning-Engineer",
+        "AI-Engineer",
+        "AI-Platform-Engineer"
+      ],
+      "description": "IMPORTANT: after you apply, please check your email.",
+      "publishedAt": 1794767251000,
+      "expiresAt": 1799951251000,
+      "salary": "USD 2,20,000–3,00,000 annual",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/remotejobsone/jobs/ai-ml-engineer-internal-platforms-remote-worldwide?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/tether-operations-limited/jobs/ai-research-engineer-pre-training-llm-multi-modal-7273859149",
+      "title": "AI Research Engineer (Pre-training - LLM & Multi-Modal)",
+      "company": "Tether Operations Limited",
+      "location": "India",
+      "category": "Data Science · Developer · AI-Research-and-Engineering · LLM-Research · Multimodal-AI · Machine-Learning-Engineering · Pretraining · AI-ML-Research-Engineer · AI-LLM-Research-Engineer · ML-AI-Research-Engineer · AI-Research-Engineer · ML-Research-Engineer · Senior-AI-Research-Engineer · LLM-Research-Engineer · AI-ML-Research-Scientist · Research-Engineer",
+      "tags": [
+        "Data Science",
+        "Developer",
+        "AI-Research-and-Engineering",
+        "LLM-Research",
+        "Multimodal-AI",
+        "Machine-Learning-Engineering",
+        "Pretraining",
+        "AI-ML-Research-Engineer",
+        "AI-LLM-Research-Engineer",
+        "ML-AI-Research-Engineer",
+        "AI-Research-Engineer",
+        "ML-Research-Engineer",
+        "Senior-AI-Research-Engineer",
+        "LLM-Research-Engineer",
+        "AI-ML-Research-Scientist",
+        "Research-Engineer"
+      ],
+      "description": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution.",
+      "publishedAt": 1794761690000,
+      "expiresAt": 1799945690000,
       "salary": "",
       "employmentType": "Full Time",
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/phdata/jobs/lead-analytics-consultant-power-bi?utm_source=api"
+      "applyUrl": "https://himalayas.app/companies/tether-operations-limited/jobs/ai-research-engineer-pre-training-llm-multi-modal-7273859149?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-swe-remote-contract-8043915817",
+      "title": "AI Trainer (SWE) | Remote - Contract",
+      "company": "Xperteez Technology",
+      "location": "Worldwide",
+      "category": "Data Science · Developer · AI-Trainer · Software-Engineer · Systems-Trainer · Model-Evaluation-Specialist",
+      "tags": [
+        "Data Science",
+        "Developer",
+        "AI-Trainer",
+        "Software-Engineer",
+        "Systems-Trainer",
+        "Model-Evaluation-Specialist"
+      ],
+      "description": "Job DescriptionLocation: Global, fully remote Job Type: Contractor Time Commitment: 15+ hours per week Schedule: Flexible We are looking for Software Engineers with prior professional AI-training or model-evaluation experience to support a project focused on improving advanced AI systems.",
+      "publishedAt": 1794756868000,
+      "expiresAt": 1799940867000,
+      "salary": "USD 60–120 hourly",
+      "employmentType": "Contractor",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-swe-remote-contract-8043915817?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-ml-engineering-remote-contract-9859197544",
@@ -129,29 +233,6 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/revvity/jobs/priniciple-mdm-architect?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/description-ciklum/jobs/mobile-analytics-engineer",
-      "title": "Mobile Analytics Engineer",
-      "company": "Description Ciklum",
-      "location": "India",
-      "category": "Data Science · Mobile-Analytics-Engineer · Analytics-Engineer · Data-Engineer · Marketing-Analytics-Engineering · Mobile-Attribution-Engineer",
-      "tags": [
-        "Data Science",
-        "Mobile-Analytics-Engineer",
-        "Analytics-Engineer",
-        "Data-Engineer",
-        "Marketing-Analytics-Engineering",
-        "Mobile-Attribution-Engineer"
-      ],
-      "description": "Ciklum is looking for a Mobile Analytics Engineer to join our team full-time in India.",
-      "publishedAt": 1794664181000,
-      "expiresAt": 1799848180000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/description-ciklum/jobs/mobile-analytics-engineer?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/transperfect/jobs/sme-task-creator-legal-compliance-and-governance-india",
@@ -383,29 +464,6 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/saaf-finance/jobs/mlops-engineer-5156443698?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/diligencevault/jobs/senior-power-bi-developer-analytics-engineer",
-      "title": "Senior Power BI Developer & Analytics Engineer",
-      "company": "DiligenceVault",
-      "location": "India",
-      "category": "Data Science · Analytics-Engineer · Power-BI-Developer · Business-Intelligence-Developer · BI-Developer · Data-Visualization-Engineer",
-      "tags": [
-        "Data Science",
-        "Analytics-Engineer",
-        "Power-BI-Developer",
-        "Business-Intelligence-Developer",
-        "BI-Developer",
-        "Data-Visualization-Engineer"
-      ],
-      "description": "Location: Remote - IndiaAt DiligenceVault, we’re building the industry’s leading digital diligence platform for the investment management ecosystem.",
-      "publishedAt": 1794625437000,
-      "expiresAt": 1799809437000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/diligencevault/jobs/senior-power-bi-developer-analytics-engineer?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/resilinc/jobs/senior-software-engineer-ew-ii",
@@ -983,6 +1041,30 @@
       "applyUrl": "https://himalayas.app/companies/m365consult/jobs/senior-microsoft-ai-engineer-copilot-foundry-power-automate-1820701842?utm_source=api"
     },
     {
+      "id": "himalayas:https://himalayas.app/companies/tilda-research/jobs/ai-harness-engineer",
+      "title": "AI Harness Engineer",
+      "company": "Tilda Research",
+      "location": "India",
+      "category": "Data Science · Developer · AI-Engineer · Backend-Engineer · AI-Platform-Engineer · Infrastructure-Engineer · Software-Engineer",
+      "tags": [
+        "Data Science",
+        "Developer",
+        "AI-Engineer",
+        "Backend-Engineer",
+        "AI-Platform-Engineer",
+        "Infrastructure-Engineer",
+        "Software-Engineer"
+      ],
+      "description": "About Tilda Research, Inc.  About Tilda Tilda Research is reimagining how clinical trials are run by bringing AI-native tools and AI teammates into clinical research operations.",
+      "publishedAt": 1794459251000,
+      "expiresAt": 1799643250000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/tilda-research/jobs/ai-harness-engineer?utm_source=api"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/vrinda-international/jobs/data-engineer",
       "title": "DATA ENGINEER",
       "company": "Vrinda International",
@@ -1026,6 +1108,29 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/xperteez-technology/jobs/phd-scientist-stem-expert?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/remotejobsone/jobs/puzzle-solver-coding-remote-worldwide",
+      "title": "Puzzle Solver (Coding) – Remote (Worldwide)",
+      "company": "RemoteJobsOne",
+      "location": "Canada, France, Germany, India, Netherlands, Singapore, United Kingdom, United States",
+      "category": "Developer · Data Science · Puzzle-Solver · Software-Engineer · Software-Developer · AI-Trainer",
+      "tags": [
+        "Developer",
+        "Data Science",
+        "Puzzle-Solver",
+        "Software-Engineer",
+        "Software-Developer",
+        "AI-Trainer"
+      ],
+      "description": "IMPORTANT: after you apply, please check your email.",
+      "publishedAt": 1794451894000,
+      "expiresAt": 1799635894000,
+      "salary": "",
+      "employmentType": "Contractor",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/remotejobsone/jobs/puzzle-solver-coding-remote-worldwide?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/fusion-consulting/jobs/sac-ux-developer-datasphere-developer",
@@ -1247,6 +1352,28 @@
       "applyUrl": "https://himalayas.app/companies/cxg/jobs/data-engineer-web-scraping-3-months-contract?utm_source=api"
     },
     {
+      "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-swe-remote-contract",
+      "title": "🌎 AI Trainer (SWE), Remote- Contract",
+      "company": "Xperteez Technology",
+      "location": "Worldwide",
+      "category": "Data Science · Developer · AI-Trainer · AI-Training-Specialist · Software-Engineer",
+      "tags": [
+        "Data Science",
+        "Developer",
+        "AI-Trainer",
+        "AI-Training-Specialist",
+        "Software-Engineer"
+      ],
+      "description": "Role Title: AI Trainer (SWE) Location: Global, fully remote Job Type: Contract Time Commitment: 15+ hours per week Schedule: Flexible Required Skills:• Software Engineering • AI training You will use your software engineering expertise to create challenging technical tasks, evaluate model-generated code, identify failures, and establish objective standards for correct solutions.",
+      "publishedAt": 1794410613000,
+      "expiresAt": 1799594612000,
+      "salary": "",
+      "employmentType": "Contractor",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-swe-remote-contract?utm_source=api"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/life-sciences-research-expert-python-remote-contract-6593342512",
       "title": "🌎 Life Sciences Research Expert (Python), Remote- Contract",
       "company": "Xperteez Technology",
@@ -1445,30 +1572,6 @@
       "source": "Remotive",
       "sourceHome": "https://remotive.com/",
       "applyUrl": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091136"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/proarch/jobs/business-system-analyst",
-      "title": "Business System Analyst",
-      "company": "ProArch",
-      "location": "India",
-      "category": "Data Science · Product · Business-Systems-Analyst · Business-Analyst · Systems-Analyst · Product-Analyst · Requirements-Analyst",
-      "tags": [
-        "Data Science",
-        "Product",
-        "Business-Systems-Analyst",
-        "Business-Analyst",
-        "Systems-Analyst",
-        "Product-Analyst",
-        "Requirements-Analyst"
-      ],
-      "description": "ESSENTIAL JOB FUNCTIONS • Partner with product owners, product managers, business stakeholders, and SMEs to elicit, analyze, validate, and document functional and non-functional needs, business rules, product requirements, and acceptance criteria.",
-      "publishedAt": 1794301172000,
-      "expiresAt": 1799485170000,
-      "salary": "",
-      "employmentType": "Contractor",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/proarch/jobs/business-system-analyst?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/micro1/jobs/stem-quant-bachelor",
@@ -1685,25 +1788,6 @@
       "applyUrl": "https://himalayas.app/companies/first-advantage/jobs/sales-operations-analyst?utm_source=api"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/greengen/jobs/assistant-energy-analyst",
-      "title": "Assistant Energy Analyst",
-      "company": "GreenGen",
-      "location": "India",
-      "category": "Energy-Analyst · Energy-Data-Analyst",
-      "tags": [
-        "Energy-Analyst",
-        "Energy-Data-Analyst"
-      ],
-      "description": "A UNIQUE OPPORTUNITY– GreenGen is tackling climate change for the world’s leading investors.",
-      "publishedAt": 1794212938000,
-      "expiresAt": 1799396937000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/greengen/jobs/assistant-energy-analyst?utm_source=api"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/description-ciklum/jobs/senior-artificial-intelligence-machine-learning-engineer",
       "title": "Senior Artificial Intelligence/Machine Learning Engineer",
       "company": "Description Ciklum",
@@ -1725,28 +1809,6 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/description-ciklum/jobs/senior-artificial-intelligence-machine-learning-engineer?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/description-ciklum/jobs/senior-business-analyst-3764982302",
-      "title": "Senior Business Analyst",
-      "company": "Description Ciklum",
-      "location": "India",
-      "category": "Data Science · Senior-Business-Analyst · Business-Analyst · Payments-Business-Analyst · Business-Systems-Analyst",
-      "tags": [
-        "Data Science",
-        "Senior-Business-Analyst",
-        "Business-Analyst",
-        "Payments-Business-Analyst",
-        "Business-Systems-Analyst"
-      ],
-      "description": "Ciklum is looking for a Senior Payment Business/System Analyst to join our team full-time in India We are a custom product engineering company that supports both multinational organizations and scaling startups to solve their most complex business challenges.",
-      "publishedAt": 1794205068000,
-      "expiresAt": 1799389067000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/description-ciklum/jobs/senior-business-analyst-3764982302?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/emerging-travel-group/jobs/commercial-pricing-analyst",
