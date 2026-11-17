@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-16T15:11:41.956Z",
+  "fetchedAt": "2026-11-17T01:43:46.101Z",
   "sources": [
     "Himalayas",
     "Jobicy",
@@ -8,6 +8,142 @@
   ],
   "failedSources": [],
   "jobs": [
+    {
+      "id": "himalayas:https://himalayas.app/companies/unison-group/jobs/inside-sales-executive-ai-data-solutions-apac-market",
+      "title": "Inside Sales Executive (AI & Data Solutions - APAC Market)",
+      "company": "Unison Group",
+      "location": "India",
+      "category": "Sales · Growth · Inside-Sales-Executive · Sales-Development-Representative · Lead-Generation-Specialist · Business-Development-Representative · IT-Sales-Executive",
+      "tags": [
+        "Sales",
+        "Growth",
+        "Inside-Sales-Executive",
+        "Sales-Development-Representative",
+        "Lead-Generation-Specialist",
+        "Business-Development-Representative",
+        "IT-Sales-Executive"
+      ],
+      "description": "Role OverviewWe are looking for a proactive, target-driven Inside Sales Executive to drive lead generation and business development activities for our AI, Data Analytics, and Digital Transformation services across the APAC region, primarily focusing on the Singapore market.",
+      "publishedAt": 1794862487000,
+      "expiresAt": 1800046486000,
+      "salary": "",
+      "employmentType": "Contractor",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/unison-group/jobs/inside-sales-executive-ai-data-solutions-apac-market?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967",
+      "title": "ML Engineer",
+      "company": "micro1",
+      "location": "Worldwide",
+      "category": "Data Science · Developer · Machine-Learning-Engineer · AI-ML-Engineer · ML-Software-Engineer · ML-Product-Engineer · ML-Research-Engineer · Data-ML-Engineer · ML-DL-Engineer · Machine-Learning-Developer · ML-Infrastructure-Engineer",
+      "tags": [
+        "Data Science",
+        "Developer",
+        "Machine-Learning-Engineer",
+        "AI-ML-Engineer",
+        "ML-Software-Engineer",
+        "ML-Product-Engineer",
+        "ML-Research-Engineer",
+        "Data-ML-Engineer",
+        "ML-DL-Engineer",
+        "Machine-Learning-Developer",
+        "ML-Infrastructure-Engineer"
+      ],
+      "description": "Senior ML EngineerPay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python.",
+      "publishedAt": 1794860449000,
+      "expiresAt": 1800044449000,
+      "salary": "USD 60–120 hourly",
+      "employmentType": "Contractor",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/syneos-health-india-private-limited/jobs/principal-global-feasibility-data-science",
+      "title": "Principal-Global Feasibility Data Science",
+      "company": "Syneos Health India Private Limited",
+      "location": "India",
+      "category": "Research & Development · Data-Science · Clinical-Research · Clinical-Feasibility · Clinical-Development · Principal-Data-Scientist-(Director-Level) · Director-Data-Science · Principal-Machine-Learning-Scientist · Principal-Data-Analyst · Senior-Director-Data-Science",
+      "tags": [
+        "Research & Development",
+        "Data-Science",
+        "Clinical-Research",
+        "Clinical-Feasibility",
+        "Clinical-Development",
+        "Principal-Data-Scientist-(Director-Level)",
+        "Director-Data-Science",
+        "Principal-Machine-Learning-Scientist",
+        "Principal-Data-Analyst",
+        "Senior-Director-Data-Science"
+      ],
+      "description": "Principal-Global Feasibility Data ScienceSyneos Health® is a leading fully integrated biopharmaceutical solutions organization built to accelerate customer success.",
+      "publishedAt": 1794848294000,
+      "expiresAt": 1800032294000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/syneos-health-india-private-limited/jobs/principal-global-feasibility-data-science?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/applied-scientists-machine-learning",
+      "title": "Applied Scientists — Machine Learning",
+      "company": "micro1",
+      "location": "Worldwide",
+      "category": "Data Science · Applied-Machine-Learning-Scientist · Applied-AI-Scientist · Applied-Machine-Learning · Applied-AI-ML-Scientist · Applied-Scientist · Applied-ML-Researcher · Applied-AI-Science · Applied-AI-and-Machine-Learning · Machine-Learning-Scientist · AI-Scientist",
+      "tags": [
+        "Data Science",
+        "Applied-Machine-Learning-Scientist",
+        "Applied-AI-Scientist",
+        "Applied-Machine-Learning",
+        "Applied-AI-ML-Scientist",
+        "Applied-Scientist",
+        "Applied-ML-Researcher",
+        "Applied-AI-Science",
+        "Applied-AI-and-Machine-Learning",
+        "Machine-Learning-Scientist",
+        "AI-Scientist"
+      ],
+      "description": "Applied Scientists — Machine Learning Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python.",
+      "publishedAt": 1794846051000,
+      "expiresAt": 1800030051000,
+      "salary": "USD 60–120 hourly",
+      "employmentType": "Contractor",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/micro1/jobs/applied-scientists-machine-learning?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/machine-learning-researcher",
+      "title": "Machine Learning Researcher",
+      "company": "micro1",
+      "location": "Worldwide",
+      "category": "Data Science · Machine-Learning-Researcher · Machine-Learning-Research-Scientist · Machine-Learning-Scientist · Machine-Learning-Research · Machine-Learning-Research-Engineer · ML-Research-Scientist · Deep-Learning-Researcher · AI-Researcher · AI-ML-Research-Scientist · Machine-Learning-Expert · AI-Scientist",
+      "tags": [
+        "Data Science",
+        "Machine-Learning-Researcher",
+        "Machine-Learning-Research-Scientist",
+        "Machine-Learning-Scientist",
+        "Machine-Learning-Research",
+        "Machine-Learning-Research-Engineer",
+        "ML-Research-Scientist",
+        "Deep-Learning-Researcher",
+        "AI-Researcher",
+        "AI-ML-Research-Scientist",
+        "Machine-Learning-Expert",
+        "AI-Scientist"
+      ],
+      "description": "Machine Learning Researcher Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python.",
+      "publishedAt": 1794846047000,
+      "expiresAt": 1800030046000,
+      "salary": "USD 60–120 hourly",
+      "employmentType": "Contractor",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/micro1/jobs/machine-learning-researcher?utm_source=api"
+    },
     {
       "id": "himalayas:https://himalayas.app/companies/together-light-inc/jobs/performance-marketing-specialist-paid-ads-specialist",
       "title": "Performance Marketing Specialist / Paid Ads Specialist",
@@ -843,30 +979,6 @@
       "applyUrl": "https://himalayas.app/companies/tilt-com/jobs/compliance-analyst-nira?utm_source=api"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/saaf-finance/jobs/mlops-engineer-5156443698",
-      "title": "MLOps Engineer",
-      "company": "Saaf Finance",
-      "location": "India",
-      "category": "Data Science · MLOps-Engineer · MLOps-Engineer-Jobs · MLOps-DevOps-Engineer · MLOps-Engineering · MLOps-Platform-Engineering · Data-Engineering-MLOps",
-      "tags": [
-        "Data Science",
-        "MLOps-Engineer",
-        "MLOps-Engineer-Jobs",
-        "MLOps-DevOps-Engineer",
-        "MLOps-Engineering",
-        "MLOps-Platform-Engineering",
-        "Data-Engineering-MLOps"
-      ],
-      "description": "MLOps Engineer — AI Platform & InfrastructureAHL + Saaf AI — Mortgage Lending, ReimaginedSaaf AI is building the future of mortgage lending by combining cutting-edge AI with proven lending operations.",
-      "publishedAt": 1794626296000,
-      "expiresAt": 1799810295000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/saaf-finance/jobs/mlops-engineer-5156443698?utm_source=api"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/diligencevault/jobs/senior-power-bi-developer-analytics-engineer",
       "title": "Senior Power BI Developer & Analytics Engineer",
       "company": "DiligenceVault",
@@ -888,28 +1000,6 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/diligencevault/jobs/senior-power-bi-developer-analytics-engineer?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/resilinc/jobs/senior-software-engineer-ew-ii",
-      "title": "Senior Software Engineer EW II",
-      "company": "Resilinc",
-      "location": "India",
-      "category": "Developer · Data Science · Software-Engineer · Backend-Engineer · Data-Engineer",
-      "tags": [
-        "Developer",
-        "Data Science",
-        "Software-Engineer",
-        "Backend-Engineer",
-        "Data-Engineer"
-      ],
-      "description": "Join the Future of Supply Chain Intelligence — Powered by Agentic AI At Resilinc, we’re pioneering intelligent, autonomous systems that redefine supply chain risk management.",
-      "publishedAt": 1794618558000,
-      "expiresAt": 1799802557000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/resilinc/jobs/senior-software-engineer-ew-ii?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/parexel/jobs/senior-clinical-data-analyst",
@@ -1002,29 +1092,6 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/unisys/jobs/people-analytics-specialist?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/grovebybanyan/jobs/platform-engineer-ai",
-      "title": "Platform Engineer - AI",
-      "company": "Banyan Software",
-      "location": "India",
-      "category": "Developer · Platform-Engineer · Cloud-Engineer · Site-Reliability-Engineer · Full-Stack-Engineer · Software-Engineer",
-      "tags": [
-        "Developer",
-        "Platform-Engineer",
-        "Cloud-Engineer",
-        "Site-Reliability-Engineer",
-        "Full-Stack-Engineer",
-        "Software-Engineer"
-      ],
-      "description": "TechGrove is the Centre of Excellence for Banyan Software, based in Chennai, India.",
-      "publishedAt": 1794602139000,
-      "expiresAt": 1799786138000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/grovebybanyan/jobs/platform-engineer-ai?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/concentrix/jobs/data-engineer-data-scientist",
@@ -1396,29 +1463,6 @@
       "applyUrl": "https://himalayas.app/companies/integrichain/jobs/mdm-analyst?utm_source=api"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/remotejobsone/jobs/investment-banking-associate-remote-worldwide",
-      "title": "Investment Banking Associate – Remote (Worldwide)",
-      "company": "RemoteJobsOne",
-      "location": "Canada, France, Germany, India, Netherlands, Singapore, United Kingdom, United States",
-      "category": "Finance · Investment-Banking-Associate · Investment-Banking-Analyst · Financial-Analyst · Equity-Research · Finance-Associate",
-      "tags": [
-        "Finance",
-        "Investment-Banking-Associate",
-        "Investment-Banking-Analyst",
-        "Financial-Analyst",
-        "Equity-Research",
-        "Finance-Associate"
-      ],
-      "description": "IMPORTANT: after you apply, please check your email.",
-      "publishedAt": 1794471748000,
-      "expiresAt": 1799655748000,
-      "salary": "",
-      "employmentType": "Contractor",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/remotejobsone/jobs/investment-banking-associate-remote-worldwide?utm_source=api"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/m365consult/jobs/senior-microsoft-ai-engineer-copilot-foundry-power-automate-1820701842",
       "title": "Senior Microsoft AI Engineer - Copilot, Foundry & Power Automate",
       "company": "M365Consult",
@@ -1683,29 +1727,6 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/cfra/jobs/data-scientist-equity-research?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/cxg/jobs/data-engineer-web-scraping-3-months-contract",
-      "title": "Data Engineer - Web Scraping (3 months contract)",
-      "company": "CXG",
-      "location": "India",
-      "category": "Data Science · Data-Engineer · Web-Scraping-Engineer · ETL-Engineer · Data-Pipeline-Engineer · Analytics-Engineer",
-      "tags": [
-        "Data Science",
-        "Data-Engineer",
-        "Web-Scraping-Engineer",
-        "ETL-Engineer",
-        "Data-Pipeline-Engineer",
-        "Analytics-Engineer"
-      ],
-      "description": "We are growing!  We are currently looking to hire a Data Engineer - Web Scraping to work with us remotely on a 3 months contract.",
-      "publishedAt": 1794415111000,
-      "expiresAt": 1799599111000,
-      "salary": "",
-      "employmentType": "Contractor",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/cxg/jobs/data-engineer-web-scraping-3-months-contract?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-swe-remote-contract",
@@ -2019,55 +2040,6 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/accenture/jobs/agbg-google-data-ai-engineer-specialist-lead?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/object-edge/jobs/senior-engineer-data-engineering-databricks-india",
-      "title": "Senior Engineer – Data Engineering (Databricks) - India",
-      "company": "Object Edge",
-      "location": "India",
-      "category": "Data Science · Data-Engineer · Databricks-Engineer · Big-Data-Engineer · Cloud-Data-Engineer",
-      "tags": [
-        "Data Science",
-        "Data-Engineer",
-        "Databricks-Engineer",
-        "Big-Data-Engineer",
-        "Cloud-Data-Engineer"
-      ],
-      "description": "Senior Engineer – Data EngineeringWho You’ll Work With Slalom is a fiercely human business and technology consulting company that leads with outcomes to bring more value, in all ways, always.",
-      "publishedAt": 1794241807000,
-      "expiresAt": 1799425805000,
-      "salary": "",
-      "employmentType": "Contractor",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/object-edge/jobs/senior-engineer-data-engineering-databricks-india?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/ai-trainer-ml-engineering",
-      "title": "AI Trainer (ML Engineering)",
-      "company": "micro1",
-      "location": "Worldwide",
-      "category": "Data Science · AI-Trainer · AI-Model-Trainer · AI-ML-Training · Freelance-Engineering-AI-Trainer · AI-Training-Data-Engineer · Technical-AI-Trainer · AI-Data-Trainer · AI-Language-Model-Trainer · Data-Science",
-      "tags": [
-        "Data Science",
-        "AI-Trainer",
-        "AI-Model-Trainer",
-        "AI-ML-Training",
-        "Freelance-Engineering-AI-Trainer",
-        "AI-Training-Data-Engineer",
-        "Technical-AI-Trainer",
-        "AI-Data-Trainer",
-        "AI-Language-Model-Trainer",
-        "Data-Science"
-      ],
-      "description": "Pay: $60–$120/hour equivalent, paid per accepted task Location: Global, fully remote Job Type: Contractor Time Commitment: 15+ hours per week Schedule: Flexible micro1 is looking for Machine Learning Engineers with prior professional AI-training or model-evaluation experience to support a project focused on improving advanced AI systems.",
-      "publishedAt": 1794241517000,
-      "expiresAt": 1799425517000,
-      "salary": "",
-      "employmentType": "Contractor",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/micro1/jobs/ai-trainer-ml-engineering?utm_source=api"
     }
   ]
 }
