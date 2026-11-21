@@ -1,13 +1,136 @@
 {
-  "fetchedAt": "2026-11-21T06:11:52.043Z",
+  "fetchedAt": "2026-11-21T18:51:06.078Z",
   "sources": [
     "Himalayas",
     "Jobicy",
     "Remote OK",
     "Remotive"
   ],
-  "failedSources": [],
+  "failedSources": [
+    "Jobicy"
+  ],
   "jobs": [
+    {
+      "id": "himalayas:https://himalayas.app/companies/outreach-io/jobs/marketing-operations-specialist-working-hours-10pm-7am-ist",
+      "title": "Marketing Operations Specialist (Working hours: 10pm - 7am IST)",
+      "company": "Outreach.io",
+      "location": "India",
+      "category": "Marketing · Marketing-Operations-Specialist · Marketing-Operations-Analyst · Marketing-Operations-Manager",
+      "tags": [
+        "Marketing",
+        "Marketing-Operations-Specialist",
+        "Marketing-Operations-Analyst",
+        "Marketing-Operations-Manager"
+      ],
+      "description": "About Outreach Outreach is a leading agentic AI platform built for revenue teams.",
+      "publishedAt": 1795266429000,
+      "expiresAt": 1800450429000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/outreach-io/jobs/marketing-operations-specialist-working-hours-10pm-7am-ist?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/globalization-partners/jobs/senior-software-engineer-883333981",
+      "title": "Senior Software Engineer",
+      "company": "Globalization Partners",
+      "location": "India",
+      "category": "Developer · Data Science · Software-Engineer · AI-Engineer · Cloud-Engineer · Platform-Engineer",
+      "tags": [
+        "Developer",
+        "Data Science",
+        "Software-Engineer",
+        "AI-Engineer",
+        "Cloud-Engineer",
+        "Platform-Engineer"
+      ],
+      "description": "About Us Our leading SaaS-based Global Employment Platform™ enables clients to expand into over 180 countries quickly and efficiently, without the complexities of establishing local entities.",
+      "publishedAt": 1795262856000,
+      "expiresAt": 1800446855000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/globalization-partners/jobs/senior-software-engineer-883333981?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/nextpower/jobs/senior-bi-dw-developer",
+      "title": "Senior BI/DW Developer",
+      "company": "Nextpower",
+      "location": "India",
+      "category": "Developer · Data Science · Business-Intelligence-Developer · Business-Intelligence-Architect · Data-Warehouse-Developer · Data-Architect · Analytics-Engineer",
+      "tags": [
+        "Developer",
+        "Data Science",
+        "Business-Intelligence-Developer",
+        "Business-Intelligence-Architect",
+        "Data-Warehouse-Developer",
+        "Data-Architect",
+        "Analytics-Engineer"
+      ],
+      "description": "Job Description: BI/DW Architect (Finance Analytics & Insights) Position Summary The BI/DW Architect (Finance Analytics & Insights) is a strategic leader within the Global Controllership organization responsible for building and managing the finance reporting, analytics, and business intelligence ecosystem.",
+      "publishedAt": 1795258640000,
+      "expiresAt": 1800442640000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/nextpower/jobs/senior-bi-dw-developer?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/robotics-data-collection-specialist",
+      "title": "Robotics Data Collection Specialist",
+      "company": "micro1",
+      "location": "Worldwide",
+      "category": "Data Science · Hardware Engineer · Robotics-Data-Specialist · Data-Collection-Specialist · AI-Data-Collection-Specialist · Data-Acquisition-Specialist · Robotics-Specialist · Robotics-Technician · Data-Collection-Associate · Data-Labeling-Specialist · Robotics-Engineer · Sensors-Engineer",
+      "tags": [
+        "Data Science",
+        "Hardware Engineer",
+        "Robotics-Data-Specialist",
+        "Data-Collection-Specialist",
+        "AI-Data-Collection-Specialist",
+        "Data-Acquisition-Specialist",
+        "Robotics-Specialist",
+        "Robotics-Technician",
+        "Data-Collection-Associate",
+        "Data-Labeling-Specialist",
+        "Robotics-Engineer",
+        "Sensors-Engineer"
+      ],
+      "description": "Role Title: Robotics Data Collection Specialist Role Type: Contractor Location: Remote micro1 is engaging Robotics Data Collection Specialists to contribute to a cutting-edge robotics project for a leading customer.",
+      "publishedAt": 1795244744000,
+      "expiresAt": 1800428744000,
+      "salary": "USD 20–40 hourly",
+      "employmentType": "Contractor",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/micro1/jobs/robotics-data-collection-specialist?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/sage/jobs/analyst-channel-support",
+      "title": "Analyst-Channel Support",
+      "company": "Sage",
+      "location": "India",
+      "category": "Operations · Customer Service · Operations-Analyst · Subscription-Management-Analyst · Order-Processing-Specialist · Customer-Service · Business-Operations-Analyst",
+      "tags": [
+        "Operations",
+        "Customer Service",
+        "Operations-Analyst",
+        "Subscription-Management-Analyst",
+        "Order-Processing-Specialist",
+        "Customer-Service",
+        "Business-Operations-Analyst"
+      ],
+      "description": "Job Purpose The Analyst – Channel Support is responsible for the accurate and timely processing of journal subscription orders, renewals, and payments received through subscription agents, electronic channels, and other customer touchpoints.",
+      "publishedAt": 1795244168000,
+      "expiresAt": 1800428167000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/sage/jobs/analyst-channel-support?utm_source=api"
+    },
     {
       "id": "himalayas:https://himalayas.app/companies/rustlabs/jobs/qa-lead-or-supply-coordinator-ai-training-data-teams-usd-16-hr",
       "title": "QA Lead or Supply Coordinator, AI Training Data Teams (USD 16/hr)",
@@ -63,60 +186,6 @@
       "applyUrl": "https://himalayas.app/companies/rustlabs/jobs/cybersecurity-analyst-ai-training-junior-and-senior-remote-full-time?utm_source=api"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/rustlabs/jobs/bioinformatics-genomics-phd-ai-benchmark-task-author-usd-260-task",
-      "title": "Bioinformatics / Genomics PhD, AI Benchmark Task Author (USD 260/task)",
-      "company": "RustLabs",
-      "location": "Argentina, Bangladesh, Brazil, Chile, Colombia, Egypt, Ghana, India, Indonesia, Mexico, Nepal, Nigeria, Pakistan, Peru, Saudi Arabia, Sri Lanka",
-      "category": "Research & Development · Data Science · AI-Benchmark-Specialist · Bioinformatics-Domain-Expert · Bioinformatics-and-Machine-Learning-Scientist · Bioinformatics-Research-Scientist · Freelance-Biology-AI-Tutor · Bioinformatics-AI-Trainer · Bioinformatics-Scientist · Bioinformatician · Research-Scientist",
-      "tags": [
-        "Research & Development",
-        "Data Science",
-        "AI-Benchmark-Specialist",
-        "Bioinformatics-Domain-Expert",
-        "Bioinformatics-and-Machine-Learning-Scientist",
-        "Bioinformatics-Research-Scientist",
-        "Freelance-Biology-AI-Tutor",
-        "Bioinformatics-AI-Trainer",
-        "Bioinformatics-Scientist",
-        "Bioinformatician",
-        "Research-Scientist"
-      ],
-      "description": "RustLabs is hiring bioinformatics and computational genomics experts to design challenging genomics tasks and reference solutions for an AI benchmark.",
-      "publishedAt": 1795235487000,
-      "expiresAt": 1797719866000,
-      "salary": "",
-      "employmentType": "Contractor",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/rustlabs/jobs/bioinformatics-genomics-phd-ai-benchmark-task-author-usd-260-task?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/rustlabs/jobs/science-phd-pod-lead-physics-mech-aero-protein-design-usd-20-28-hr",
-      "title": "Science PhD Pod Lead: Physics, Mech/Aero, Protein Design (USD 20-28/hr)",
-      "company": "RustLabs",
-      "location": "Bangladesh, Brazil, Colombia, Egypt, Ghana, India, Indonesia, Nigeria",
-      "category": "Data Science · Physics-PhD · Senior-Lead-AI-Scientist · Lead-AI-ML-Scientist · AI-Protein-Design-Scientist · R&D-Lead · Research-Scientist · AI-Scientist · Machine-Learning-Scientist",
-      "tags": [
-        "Data Science",
-        "Physics-PhD",
-        "Senior-Lead-AI-Scientist",
-        "Lead-AI-ML-Scientist",
-        "AI-Protein-Design-Scientist",
-        "R&D-Lead",
-        "Research-Scientist",
-        "AI-Scientist",
-        "Machine-Learning-Scientist"
-      ],
-      "description": "RustLabs is hiring PhD-level scientists to lead small pods of 5 to 10 trainers who build realistic, terminal-based scientific tasks for AI benchmarks.",
-      "publishedAt": 1795235487000,
-      "expiresAt": 1797719805000,
-      "salary": "USD 24–24 hourly",
-      "employmentType": "Contractor",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/rustlabs/jobs/science-phd-pod-lead-physics-mech-aero-protein-design-usd-20-28-hr?utm_source=api"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/lifelancer/jobs/operational-effectiveness-manager",
       "title": "Operational Effectiveness Manager",
       "company": "Lifelancer",
@@ -160,6 +229,29 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/remotejobsone/jobs/data-science-analytic-methodology-sme-remote-worldwide?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/remotejobsone/jobs/marketing-specialist-microsoft-office-user-remote-worldwide",
+      "title": "Marketing Specialist (Microsoft Office User) – Remote (Worldwide)",
+      "company": "RemoteJobsOne",
+      "location": "Brazil, Canada, France, Germany, India, Netherlands, United Kingdom, United States",
+      "category": "Marketing · Content Creator · Marketing-Specialist · Digital-Marketing-Specialist · Content-Marketing-Specialist · Marketing-Analytics-Specialist",
+      "tags": [
+        "Marketing",
+        "Content Creator",
+        "Marketing-Specialist",
+        "Digital-Marketing-Specialist",
+        "Content-Marketing-Specialist",
+        "Marketing-Analytics-Specialist"
+      ],
+      "description": "IMPORTANT: after you apply, please check your email.",
+      "publishedAt": 1795196374000,
+      "expiresAt": 1800380373000,
+      "salary": "USD 25–40 hourly",
+      "employmentType": "Contractor",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/remotejobsone/jobs/marketing-specialist-microsoft-office-user-remote-worldwide?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/mrsool/jobs/data-scientist-ii-5418699843",
@@ -354,28 +446,6 @@
       "applyUrl": "https://himalayas.app/companies/hach/jobs/variable-compensation-analyst-2615653166?utm_source=api"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/remotejobsone/jobs/ai-trainer-life-sciences-remote-worldwide",
-      "title": "AI Trainer (Life Sciences) – Remote (Worldwide)",
-      "company": "RemoteJobsOne",
-      "location": "Canada, France, Germany, India, Netherlands, South Africa, United Kingdom, United States",
-      "category": "Data Science · AI-Trainer · Computational-Scientist · AI-Evaluation-Specialist · Machine-Learning-Training",
-      "tags": [
-        "Data Science",
-        "AI-Trainer",
-        "Computational-Scientist",
-        "AI-Evaluation-Specialist",
-        "Machine-Learning-Training"
-      ],
-      "description": "IMPORTANT: after you apply, please check your email.",
-      "publishedAt": 1795179355000,
-      "expiresAt": 1800363354000,
-      "salary": "USD 60–120 hourly",
-      "employmentType": "Contractor",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/remotejobsone/jobs/ai-trainer-life-sciences-remote-worldwide?utm_source=api"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/remotejobsone/jobs/member-of-technical-staff-coding-agent-research-evaluations-remote-worldwi",
       "title": "Member of Technical Staff, Coding Agent Research & Evaluations – Remote (Worldwi",
       "company": "RemoteJobsOne",
@@ -470,6 +540,23 @@
       "applyUrl": "https://himalayas.app/companies/remotejobsone/jobs/physionet-competitor-biomedical-signal-processing-ml-remote-worldwide-9676290611?utm_source=api"
     },
     {
+      "id": "remoteok:1137912",
+      "title": "Senior Manager, Product Analytics (Growth)",
+      "company": "iFIT",
+      "location": "Worldwide",
+      "category": "marketing",
+      "tags": [
+        "marketing"
+      ],
+      "description": "<div><p><span>iFITâs vision is to create the world's most holistic health and fitness platform, integrating all elements of health - physical fitness, mental health, nutrition and active recovery - into a seamless interactive experience. We develop proprietary software that learns and adjusts to the habits of each person as it delivers immersive content that guides them on their own individual fitness journey.</span></p></div><p><span>We are currently seeking an ambitious pace-setter to join our team as aÂ <strong>Senior Manager, Product Analytics (Growth) remotely in the US.</strong></span></p>\n<p><span>iFIT is building its next generation subscription product, and the Senior Manager, Product Analytics (Growth) is the analytics owner of the funnel. You are accountable for the data and insight behind every step between a new visitor and a paying, retained member: onboarding, activation, paywall, trial to paid, and free to paid.</span></p>\n<p><span>You sit on the Analytics team and partner daily with the Growth Product Leader and the Growth Marketing Leader and the Chief Subscription Officer.</span></p>\n<p><span><strong>ROLE COMMITMENTS</strong></span></p>\n<ul>\n<li><span>Own measurement of onboarding, activation, paywall, trial to paid, and free to paid.</span></li>\n<li><span>Own methodology for Growth A/B tests: hypotheses, power, success metrics, and readouts.</span></li>\n<li><span>Analyze demographics, behavior, acquisition channel, and equipment ownership to show who converts and retains, and where we canÂ  lift results.</span></li>\n<li><span>Define the early behaviors and activation moments that predict long term subscribers, and report on engagement through the first 30 days.</span></li>\n<li><span>KPI definitions. Own definitions for activation, conversion, cohorts, LTV, and CAC, so every team works from the same numbers.</span></li>\n</ul>\n<p><span><strong>ESSENTIAL DUTIES AND RESPONSIBILITIES</strong></span></p>\n<ul>\n<li><span>Own the app analytics framework, including event taxonomy, tracking plans, and instrumentation standards, partnering with Product and Engineering to ensure data is accurate, complete, and consistent across iOS, Android, web, and connected equipment.</span></li>\n<li><span>Build and maintain funnel analytics from install and trial start through paid conversion, activation, and renewal, identifying drop-off points and sizing the opportunity.</span></li>\n<li><span>Analyze user engagement and behavior including feature adoption, engagement frequency, and content consumption, and identify the leading indicators of retention and churn.</span></li>\n<li><span>Develop cohort, retention, and lifecycle analyses, and translate behavioral signals into churn-risk and propensity models that CRM can act on.</span></li>\n<li><span>Design and analyze A/B tests and experiments with Product and Growth teams, defining success metrics, sample sizing, and readouts.</span></li>\n<li><span>Monitor subscription, churn, and revenue performance against forecast, and maintain forecasting and retention models.</span></li>\n<li><span>Build and maintain dashboards and self-serve reporting that give Product, Finance, and CRM a shared view of subscriber health.</span></li>\n</ul>\n<p><span><strong>EDUCATION &amp; EXPERIENCE</strong></span><br /><span>Education and Basic Qualifications</span></p>\n<ul>\n<li><span><strong> </strong>5 or more years in product analytics, data analysis, or business intelligence, including ownership of recurring reporting that others depend on</span></li>\n<li><span>Proven record of moving funnel metrics through experimentation: onboarding, paywall, trial, and conversion.</span></li>\n<li><span>Strong command of A/B testing and statistics (power, significance, causal inference).</span></li>\n<li><span>Strong command of subscription metrics: LTV, CAC, cohort retention, and conversion funnels.</span></li>\n<li><span><strong> </strong>Hands-on experience with subscription or recurring revenue metrics: cohort retention, churn, conversion, and LTV<strong> </strong></span></li>\n<li><span><strong> </strong>Advanced SQL against a cloud data warehouse, with the ability to build and maintain models rather than only query them</span></li>\n<li><span>Authorized to work in the United States without sponsorship.</span></li>\n</ul>\n<p><span>Preferred Qualifications</span></p>\n<ul>\n<li><span><strong> </strong>Snowflake and Tableau proficiency</span></li>\n<li><span><strong> </strong>Python or dbt for transformation and pipeline work</span></li>\n<li><span><strong> </strong>Experience supporting a new product launch or a business in its first year of revenue</span></li>\n<li><span><strong> </strong>Familiarity with product and event analytics tools such as Amplitude, and with attribution logic</span></li>\n<li><span><strong> </strong>Consumer subscription, fitness, or direct-to-consumer background</span></li>\n</ul>\n<p><span><strong>DISCLAIMER</strong></span><br /><span>Compensation may vary based on the job level, your geographic work location, position incentive plan, and exemption status.</span><br /><span>Although we currently may consider hiring in the states listed below, not all positions are available in all locations, and work in a particular state is not guaranteed. Current list of states where iFIT may consider hiring: AK, AL, AR, AZ, CA, CO, CT, FL, GA, ID, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, NC, NH, NJ, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, WA, WI, WY.</span><br /><span>Subject to applicable state laws, your employment at iFIT is âat-willâ. At-will employment means that you and the company each have the right to terminate the employment relationship at any time for any cause or for no cause at all.</span></p>\n<p>Â </p><div><div><div>Pay Range: </div><div><span>$115,000</span><span>â</span><span>$135,000 USD</span></div></div></div><div><p><em>iFIT doesÂ </em><em>not discriminateÂ </em><em>in employment opportunities or practices on the basis of race, color, religion, sex, national origin, age, ancestry, mental or physical disability, sexual orientation, gender identity, medical condition, genetic information, marital status, veteran status or any other characteristic protected by law.</em></p>\n<p>Â </p></div><br/><br/>Please mention the word **ADVOCATE** and tag RNDAuODQuMjE4LjE0Nw== when applying to show you read the job post completely (#RNDAuODQuMjE4LjE0Nw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "publishedAt": 1795171204000,
+      "salary": "",
+      "employmentType": "",
+      "source": "Remote OK",
+      "sourceHome": "https://remoteok.com/",
+      "applyUrl": "https://remoteOK.com/remote-jobs/remote-senior-manager-product-analytics-growth-ifit-1137912"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/remotejobsone/jobs/inpatient-medical-coder-remote-worldwide",
       "title": "Inpatient Medical Coder – Remote (Worldwide)",
       "company": "RemoteJobsOne",
@@ -514,29 +601,6 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/unify-dots/jobs/power-bi-technical-consultant?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/transperfect/jobs/plumeria-audio-quality-reviewer-urdu-india",
-      "title": "Plumeria - Audio Quality Reviewer - Urdu (India)",
-      "company": "TransPerfect",
-      "location": "India",
-      "category": "Data Science · Quality-Reviewer · Data-Annotator · Data-Validation-Specialist · Audio-Reviewer · Language-Quality-Reviewer",
-      "tags": [
-        "Data Science",
-        "Quality-Reviewer",
-        "Data-Annotator",
-        "Data-Validation-Specialist",
-        "Audio-Reviewer",
-        "Language-Quality-Reviewer"
-      ],
-      "description": "Work Location: India (Remote / Work from Home) Work Schedule/Workload (if applicable): 15-20 hours per week Estimated Project Duration: approximately 6 weeks Estimated Start Date: mid-Nov 2026 Language(s) Needed:Urdu Expected Throughput: 3 audio jobs per hour (each containing approximately 11 minutes of audio and an accompanying text file) Role Summary: We are seeking native Urdu speakers to join our team as Quality Reviewers for an audio review project.",
-      "publishedAt": 1795164858000,
-      "expiresAt": 1800348858000,
-      "salary": "",
-      "employmentType": "Temporary",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/transperfect/jobs/plumeria-audio-quality-reviewer-urdu-india?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/pavago/jobs/ai-engineer-ai-automation-specialist",
@@ -609,30 +673,6 @@
       "applyUrl": "https://himalayas.app/companies/remotejobsone/jobs/member-of-technical-staff-realm-lab-frontier-ai-research-remote-worldwide?utm_source=api"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/remotejobsone/jobs/hindi-bilingual-expert-remote-india",
-      "title": "Hindi Bilingual Expert – Remote (India)",
-      "company": "RemoteJobsOne",
-      "location": "India",
-      "category": "Content Creator · Data Science · Bilingual-(English-Hindi) · Linguistic-Evaluator · Language-Quality-Specialist · Transcriptionist · Data-Annotator",
-      "tags": [
-        "Content Creator",
-        "Data Science",
-        "Bilingual-(English-Hindi)",
-        "Linguistic-Evaluator",
-        "Language-Quality-Specialist",
-        "Transcriptionist",
-        "Data-Annotator"
-      ],
-      "description": "IMPORTANT: after you apply, please check your email.",
-      "publishedAt": 1795157422000,
-      "expiresAt": 1800341421000,
-      "salary": "USD 30–65 hourly",
-      "employmentType": "Contractor",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/remotejobsone/jobs/hindi-bilingual-expert-remote-india?utm_source=api"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/fusemachines/jobs/senior-analytics-engineer-looker-4433664446",
       "title": "Senior Analytics Engineer (Looker)",
       "company": "Fusemachines",
@@ -676,6 +716,27 @@
       "applyUrl": "https://himalayas.app/companies/remotejobsone/jobs/intelligence-agency-officer-remote-worldwide?utm_source=api"
     },
     {
+      "id": "himalayas:https://himalayas.app/companies/cloudera/jobs/senior-product-manager-lakehouse",
+      "title": "Senior Product Manager- Lakehouse",
+      "company": "Cloudera",
+      "location": "India",
+      "category": "Product · Product-Manager · Data-Product-Manager · Technical-Product-Manager",
+      "tags": [
+        "Product",
+        "Product-Manager",
+        "Data-Product-Manager",
+        "Technical-Product-Manager"
+      ],
+      "description": "Business Area: Product Mgmt. Seniority Level: Mid-Senior levelJob Description: At Cloudera, we empower people to transform complex data into clear and actionable insights.",
+      "publishedAt": 1795151609000,
+      "expiresAt": 1800335609000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/cloudera/jobs/senior-product-manager-lakehouse?utm_source=api"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/remotejobsone/jobs/competitive-data-scientist-kaggle-remote-worldwide-5379394262",
       "title": "Competitive Data Scientist (Kaggle) – Remote (Worldwide)",
       "company": "RemoteJobsOne",
@@ -696,6 +757,30 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/remotejobsone/jobs/competitive-data-scientist-kaggle-remote-worldwide-5379394262?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/vertex-inc/jobs/commercial-data-architect",
+      "title": "Commercial Data Architect",
+      "company": "Vertex Inc.",
+      "location": "India",
+      "category": "Developer · Data Science · Commercial-Data-Architect · Data-Architect · Data-Modeler · Analytics-Engineer · Business-Intelligence-Developer",
+      "tags": [
+        "Developer",
+        "Data Science",
+        "Commercial-Data-Architect",
+        "Data-Architect",
+        "Data-Modeler",
+        "Analytics-Engineer",
+        "Business-Intelligence-Developer"
+      ],
+      "description": "Job Description: Essential Job Functions and Responsibilities • Design and own the target-state commercial data model across Salesforce, Snowflake and Microsoft Fabric, covering pipeline, bookings, ARR, renewals and retention.",
+      "publishedAt": 1795147215000,
+      "expiresAt": 1800331215000,
+      "salary": "INR 20,33,010–26,57,550 annual",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/vertex-inc/jobs/commercial-data-architect?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/competitive-data-scientist-kaggle-remote-contract-2855638543",
@@ -793,6 +878,30 @@
       "applyUrl": "https://himalayas.app/companies/clera/jobs/ai-researcher-engineer?utm_source=api"
     },
     {
+      "id": "himalayas:https://himalayas.app/companies/first-advantage/jobs/sr-software-engineer-power-bi-development-4429506068",
+      "title": "Sr Software Engineer, Power BI Development",
+      "company": "First Advantage",
+      "location": "India",
+      "category": "Developer · Data Science · Software-Engineer · Power-BI-Developer · Business-intelligence-Engineer · Data-Engineer · Analytics-Engineer",
+      "tags": [
+        "Developer",
+        "Data Science",
+        "Software-Engineer",
+        "Power-BI-Developer",
+        "Business-intelligence-Engineer",
+        "Data-Engineer",
+        "Analytics-Engineer"
+      ],
+      "description": "What You'll Do We are seeking a highly analytical and technical Sr Software Engineer, Power BI Development candidate to design, develop, and maintain our suite of business intelligence solutions.",
+      "publishedAt": 1795141629000,
+      "expiresAt": 1800322997000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/first-advantage/jobs/sr-software-engineer-power-bi-development-4429506068?utm_source=api"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/clera/jobs/expert-talent-pool-agents-and-reinforcement-learning-5866356135",
       "title": "Expert Talent Pool, Agents and Reinforcement Learning",
       "company": "Clera",
@@ -869,6 +978,26 @@
       "applyUrl": "https://himalayas.app/companies/remotejobsone/jobs/member-of-technical-staff-robotics-embodied-ai-research-remote-worldwide?utm_source=api"
     },
     {
+      "id": "himalayas:https://himalayas.app/companies/globalization-partners/jobs/product-management-intern-ai-analytics",
+      "title": "Product Management Intern – AI & Analytics",
+      "company": "Globalization Partners",
+      "location": "India",
+      "category": "Product-Management-Intern · Product-Analysis-Intern · Product-Manager-Intern",
+      "tags": [
+        "Product-Management-Intern",
+        "Product-Analysis-Intern",
+        "Product-Manager-Intern"
+      ],
+      "description": "About Us Our leading SaaS-based Global Employment Platform™ enables clients to expand into over 180 countries quickly and efficiently, without the complexities of establishing local entities.",
+      "publishedAt": 1795134831000,
+      "expiresAt": 1800318831000,
+      "salary": "",
+      "employmentType": "Intern",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/globalization-partners/jobs/product-management-intern-ai-analytics?utm_source=api"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/asiaverify/jobs/crm-reporting-analyst-hubspot",
       "title": "CRM & Reporting Analyst (HubSpot)",
       "company": "AsiaVerify",
@@ -939,6 +1068,30 @@
       "applyUrl": "https://himalayas.app/companies/remotejobsone/jobs/junior-machine-learning-engineer-remote-worldwide?utm_source=api"
     },
     {
+      "id": "himalayas:https://himalayas.app/companies/fusion-consulting/jobs/datasphere-developer-technical-lead",
+      "title": "Datasphere Developer / Technical Lead",
+      "company": "Fusion Consulting",
+      "location": "India",
+      "category": "Developer · Data Science · Data-Architect · SAP-DataSphere-Developer · Solutions-Architect · Data-Engineer · Data-Modeler",
+      "tags": [
+        "Developer",
+        "Data Science",
+        "Data-Architect",
+        "SAP-DataSphere-Developer",
+        "Solutions-Architect",
+        "Data-Engineer",
+        "Data-Modeler"
+      ],
+      "description": "We are looking for an experienced Senior SAP Datasphere Developer / Solution Architect to design, develop, and implement scalable data architecture and analytical solutions within a complex SAP environment.",
+      "publishedAt": 1795122348000,
+      "expiresAt": 1800306347000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/fusion-consulting/jobs/datasphere-developer-technical-lead?utm_source=api"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/remotejobsone/jobs/open-source-contributor-remote-worldwide",
       "title": "Open Source Contributor – Remote (Worldwide)",
       "company": "RemoteJobsOne",
@@ -961,6 +1114,28 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/remotejobsone/jobs/open-source-contributor-remote-worldwide?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/accenture/jobs/ethics-and-compliance-counsel-data-privacy-manager",
+      "title": "Ethics and Compliance Counsel Data Privacy Manager",
+      "company": "Accenture",
+      "location": "India",
+      "category": "Data-Privacy-Counsel · Privacy-Counsel · Privacy-Manager · Compliance-Counsel · Data-Protection-Manager",
+      "tags": [
+        "Data-Privacy-Counsel",
+        "Privacy-Counsel",
+        "Privacy-Manager",
+        "Compliance-Counsel",
+        "Data-Protection-Manager"
+      ],
+      "description": "Job Title: Legal Counsel - Ethics & Compliance, Data Privacy Career Level: Manager Career Track: Corporate Function Skill Track: Legal Job Summary: The Legal Counsel - Ethics & Compliance, Data Privacy is a permanent and full-time Manager role within Accenture's Global Data Privacy team, to be filled by an experienced data privacy professional.",
+      "publishedAt": 1795119901000,
+      "expiresAt": 1800303901000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/accenture/jobs/ethics-and-compliance-counsel-data-privacy-manager?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/remotejobsone/jobs/ml-engineer-remote-worldwide",
@@ -1846,35 +2021,28 @@
       "applyUrl": "https://himalayas.app/companies/accuknox/jobs/ai-ml-trainee?utm_source=api"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/vrinda-international/jobs/business-analyst-data-scientist",
-      "title": "Business Analyst + Data Scientist",
-      "company": "Vrinda International",
+      "id": "himalayas:https://himalayas.app/companies/globalization-partners/jobs/principal-data-scientist",
+      "title": "Principal Data Scientist",
+      "company": "Globalization Partners",
       "location": "India",
-      "category": "Data Science · Sales · Business-Analyst · Data-Scientist · Analytics-Consultant · Business-Intelligence-Analyst · Business-Data-Scientist · Business-Data-Analyst · Data-Business-Analyst · Analytics-Business-Analyst · Business-Analytics-Specialist · Business-and-Data-Analytics · Quantitative-Business-Analyst · Data-Science",
+      "category": "Data Science · Data-Science · Product-Analytics · Applied-Data-Science · Machine-Learning-Engineering · AI-ML · Data-Scientist",
       "tags": [
         "Data Science",
-        "Sales",
-        "Business-Analyst",
-        "Data-Scientist",
-        "Analytics-Consultant",
-        "Business-Intelligence-Analyst",
-        "Business-Data-Scientist",
-        "Business-Data-Analyst",
-        "Data-Business-Analyst",
-        "Analytics-Business-Analyst",
-        "Business-Analytics-Specialist",
-        "Business-and-Data-Analytics",
-        "Quantitative-Business-Analyst",
-        "Data-Science"
+        "Data-Science",
+        "Product-Analytics",
+        "Applied-Data-Science",
+        "Machine-Learning-Engineering",
+        "AI-ML",
+        "Data-Scientist"
       ],
-      "description": "Business Analyst + Data Scientist Summary We are seeking a seasoned professional to bridge the gap between complex data infrastructure and strategic business objectives.",
-      "publishedAt": 1795109398000,
-      "expiresAt": 1796948623000,
+      "description": "About Us Our leading SaaS-based Global Employment Platform™ enables clients to expand into over 180 countries quickly and efficiently, without the complexities of establishing local entities.",
+      "publishedAt": 1795109084000,
+      "expiresAt": 1797244115000,
       "salary": "",
       "employmentType": "Full Time",
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/vrinda-international/jobs/business-analyst-data-scientist?utm_source=api"
+      "applyUrl": "https://himalayas.app/companies/globalization-partners/jobs/principal-data-scientist?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/logcat-ai/jobs/member-of-technical-staff-applied-ai",
@@ -2101,37 +2269,6 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/photon-interactive-uk-limited/jobs/data-scientist-offshore?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/shorelight-llc/jobs/finance-systems-administrator",
-      "title": "Finance Systems Administrator",
-      "company": "Shorelight, LLC",
-      "location": "India",
-      "category": "Data Science · Finance · Operations · Finance-Systems-Administrator · ERP-Administrator · Business-Systems-Analyst · Financial-Systems-Analyst · Systems-Administrator · Financial-Systems-Administrator · Finance-Systems-Administration · Accounting-Systems-Administrator · Finance-Systems-Analyst · Financial-Business-Systems-Administrator · Finance-Systems-Specialist",
-      "tags": [
-        "Data Science",
-        "Finance",
-        "Operations",
-        "Finance-Systems-Administrator",
-        "ERP-Administrator",
-        "Business-Systems-Analyst",
-        "Financial-Systems-Analyst",
-        "Systems-Administrator",
-        "Financial-Systems-Administrator",
-        "Finance-Systems-Administration",
-        "Accounting-Systems-Administrator",
-        "Finance-Systems-Analyst",
-        "Financial-Business-Systems-Administrator",
-        "Finance-Systems-Specialist"
-      ],
-      "description": "About Us Shorelight is reinventing the international education experience for students worldwide.",
-      "publishedAt": 1795107784000,
-      "expiresAt": 1798255571000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/shorelight-llc/jobs/finance-systems-administrator?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/bare-international/jobs/power-bi-developer-contract",
@@ -2627,6 +2764,28 @@
       "applyUrl": "https://himalayas.app/companies/arcturus-consulting-services/jobs/oracle-otbi-bi-publisher-consultant?utm_source=api"
     },
     {
+      "id": "himalayas:https://himalayas.app/companies/tether-operations-limited/jobs/ai-research-engineer-agentic-reinforcement-learning-100-remote-worldwide",
+      "title": "AI Research Engineer (Agentic Reinforcement Learning) - 100% Remote Worldwide",
+      "company": "Tether Operations Limited",
+      "location": "Argentina, Bangladesh, Belgium, Brazil, Bulgaria, Colombia, Cyprus, Czechia, Denmark, Estonia, Georgia, Greece, Hungary, India, Ireland, Israel, Japan, Malta, Netherlands, Norway, Pakistan, Poland, Portugal, Romania, Serbia, Spain, Sweden, Switzerland, Taiwan, Thailand, Turkey, United Arab Emirates, United Kingdom, Uruguay, Vietnam",
+      "category": "Data Science · AI-Research-Engineer · Machine-Learning-Engineer · Reinforcement-Learning-Engineer · Research-Scientist",
+      "tags": [
+        "Data Science",
+        "AI-Research-Engineer",
+        "Machine-Learning-Engineer",
+        "Reinforcement-Learning-Engineer",
+        "Research-Scientist"
+      ],
+      "description": "Join Tether and Shape the Future of Digital Finance At Tether, we’re not just building products, we’re pioneering a global financial revolution.",
+      "publishedAt": 1795107541000,
+      "expiresAt": 1798944897000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/tether-operations-limited/jobs/ai-research-engineer-agentic-reinforcement-learning-100-remote-worldwide?utm_source=api"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/fortify-health/jobs/data-officer",
       "title": "Data Officer",
       "company": "Fortify Health",
@@ -2807,27 +2966,6 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/converge-technology-solutions/jobs/senior-sales-reporting-analyst?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/isi-markets/jobs/industry-analyst-india-freelance",
-      "title": "Industry Analyst – India (freelance)",
-      "company": "ISI Markets",
-      "location": "India",
-      "category": "Marketing · Industry-Analyst · Market-Research-Analyst · Research-Analyst",
-      "tags": [
-        "Marketing",
-        "Industry-Analyst",
-        "Market-Research-Analyst",
-        "Research-Analyst"
-      ],
-      "description": "ISI is a truly international business with over 700+ employees based across 20 locations.",
-      "publishedAt": 1795107206000,
-      "expiresAt": 1799128356000,
-      "salary": "",
-      "employmentType": "Contractor",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/isi-markets/jobs/industry-analyst-india-freelance?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/quantumloopai/jobs/ai-ml-prompt-engineer-llm-rag-voice-agent",
@@ -3355,30 +3493,6 @@
       "applyUrl": "https://himalayas.app/companies/accenture/jobs/agbg-google-data-ai-engineer-specialist-lead?utm_source=api"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/the-hr-ally/jobs/microsoft-dynamics-365-f-o-data-architect",
-      "title": "Microsoft Dynamics 365 F&O Data Architect",
-      "company": "The HR Ally",
-      "location": "India",
-      "category": "Developer · Data Science · Data-Architect · Enterprise-Data-Architect · Analytics-Architect · Business-Intelligence-Architect · Data-Engineer",
-      "tags": [
-        "Developer",
-        "Data Science",
-        "Data-Architect",
-        "Enterprise-Data-Architect",
-        "Analytics-Architect",
-        "Business-Intelligence-Architect",
-        "Data-Engineer"
-      ],
-      "description": "Role: Microsoft Dynamics 365 F&O Data Architect Location: India – Remote (work US EST hours) Experience: 8+ yrs of experience Contract: 6 months contract + possible extension Key Responsibilities • Data architecture:Define the target-state data architecture for D365 F&O reporting and analytics, including source, integration, storage, semantic, consumption, security, and lineage layers.",
-      "publishedAt": 1795106939000,
-      "expiresAt": 1799574562000,
-      "salary": "",
-      "employmentType": "Contractor",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/the-hr-ally/jobs/microsoft-dynamics-365-f-o-data-architect?utm_source=api"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/eversana/jobs/ai-enablement-governance-analyst-2251709952",
       "title": "AI Enablement & Governance Analyst",
       "company": "EVERSANA",
@@ -3465,30 +3579,6 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/cfra/jobs/data-scientist-equity-research?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/life-sciences-research-expert-python-remote-contract-6593342512",
-      "title": "🌎 Life Sciences Research Expert (Python), Remote- Contract",
-      "company": "Xperteez Technology",
-      "location": "Worldwide",
-      "category": "Research & Development · Data Science · Life-Sciences-Research · Computational-Biologist · Bioinformatics-Scientist · Scientific-Python-Developer · Research-Scientist",
-      "tags": [
-        "Research & Development",
-        "Data Science",
-        "Life-Sciences-Research",
-        "Computational-Biologist",
-        "Bioinformatics-Scientist",
-        "Scientific-Python-Developer",
-        "Research-Scientist"
-      ],
-      "description": "Role Title: Life Sciences Research Expert (Python) Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired Required Skills: • Python • Biology • Medicine • Materials • Neuroscience • Astronomy In this role, you will apply your scientific expertise to create, solve, and review challenging research problems within biology and related fields.",
-      "publishedAt": 1795106921000,
-      "expiresAt": 1799579559000,
-      "salary": "",
-      "employmentType": "Contractor",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/xperteez-technology/jobs/life-sciences-research-expert-python-remote-contract-6593342512?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/ml-engineer-msc-or-phd-remote-contract-5769076085",
@@ -3954,29 +4044,6 @@
       "applyUrl": "https://himalayas.app/companies/astreya/jobs/data-analyst-ii-7744593617?utm_source=api"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/convatec/jobs/forward-deployed-ai-engineer",
-      "title": "Forward Deployed AI Engineer",
-      "company": "Convatec",
-      "location": "India",
-      "category": "Data Science · Forward-Deployed-AI-Engineer · Applied-AI-Engineer · AI-Engineer · Machine-Learning-Engineer · MLOps-Engineer",
-      "tags": [
-        "Data Science",
-        "Forward-Deployed-AI-Engineer",
-        "Applied-AI-Engineer",
-        "AI-Engineer",
-        "Machine-Learning-Engineer",
-        "MLOps-Engineer"
-      ],
-      "description": "Pioneering trusted medical solutions to improve the lives we touch: Convatec is a global medical products and technologies company, focused on solutions for the management of chronic conditions, with leading positions in Advanced Wound Care, Ostomy Care, Continence Care, and Infusion Care.",
-      "publishedAt": 1795106528000,
-      "expiresAt": 1799840765000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/convatec/jobs/forward-deployed-ai-engineer?utm_source=api"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/dysrupit/jobs/databricks-genie-ai-engineer",
       "title": "Databricks Genie AI Engineer",
       "company": "DysrupIT",
@@ -4067,28 +4134,6 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/weekday-com/jobs/lead-data-architect-fabric?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/phdata/jobs/lead-analytics-consultant-power-bi",
-      "title": "Lead Analytics Consultant (Power BI)",
-      "company": "phData",
-      "location": "India",
-      "category": "Analytics-Consultant · Data-Analytics-Consultant · Business-Intelligence-Consultant · Data-Visualization-Consultant · Power-BI-Consultant",
-      "tags": [
-        "Analytics-Consultant",
-        "Data-Analytics-Consultant",
-        "Business-Intelligence-Consultant",
-        "Data-Visualization-Consultant",
-        "Power-BI-Consultant"
-      ],
-      "description": "JoinphData, a remote-first data and AI consultancy company with employees across the United States, Latin America, and India.",
-      "publishedAt": 1795106493000,
-      "expiresAt": 1799929426000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/phdata/jobs/lead-analytics-consultant-power-bi?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/junior-machine-learning-engineer-remote-contract",
@@ -4688,6 +4733,29 @@
       "applyUrl": "https://himalayas.app/companies/harris/jobs/technical-support-consultant?utm_source=api"
     },
     {
+      "id": "himalayas:https://himalayas.app/companies/kadel-labs/jobs/etl-developer",
+      "title": "ETL Developer",
+      "company": "kadel labs",
+      "location": "India",
+      "category": "Developer · Data Science · ETL-Developer · Data-Engineer · Data-Warehouse-Developer · Analytics-Engineer",
+      "tags": [
+        "Developer",
+        "Data Science",
+        "ETL-Developer",
+        "Data-Engineer",
+        "Data-Warehouse-Developer",
+        "Analytics-Engineer"
+      ],
+      "description": "Job Title:ETL Developer Experience:8-10 years Location:Remote About the Role We are looking for an experienced ETL Developer with strong expertise in SQL, Python, data modelling, and data warehousing.",
+      "publishedAt": 1795106368000,
+      "expiresAt": 1800195850000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/kadel-labs/jobs/etl-developer?utm_source=api"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/agilent-technologies/jobs/supply-chain-planning-data-enablement-lead",
       "title": "Supply Chain Planning Data Enablement Lead",
       "company": "Agilent Technologies",
@@ -5268,31 +5336,6 @@
       "applyUrl": "https://himalayas.app/companies/clera/jobs/data-operations-associate-expert-talent-pool-3614061851?utm_source=api"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/clera/jobs/expert-talent-pool-agents-and-reinforcement-learning-associate-0-5-years",
-      "title": "Expert Talent Pool, Agents and Reinforcement Learning (Associate, 0-5 Years)",
-      "company": "Clera",
-      "location": "Worldwide",
-      "category": "Data Science · AI-Agent-Environments-Specialist · Machine-Learning-Associate · Machine-Learning-Engineer-Reinforcement-Learning · Reinforcement-Learning-Engineer · AI-Agent-Engineer · AI-Research-Engineer · Machine-Learning-Engineer",
-      "tags": [
-        "Data Science",
-        "AI-Agent-Environments-Specialist",
-        "Machine-Learning-Associate",
-        "Machine-Learning-Engineer-Reinforcement-Learning",
-        "Reinforcement-Learning-Engineer",
-        "AI-Agent-Engineer",
-        "AI-Research-Engineer",
-        "Machine-Learning-Engineer"
-      ],
-      "description": "About the Role Join a paid talent pool supporting AI projects focused on agents and reinforcement learning.",
-      "publishedAt": 1794971890000,
-      "expiresAt": 1800155890000,
-      "salary": "USD 35–70 hourly",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/clera/jobs/expert-talent-pool-agents-and-reinforcement-learning-associate-0-5-years?utm_source=api"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/featherless-ai/jobs/ai-researcher-distillation-9666867412",
       "title": "AI Researcher — Distillation",
       "company": "Featherless AI",
@@ -5616,28 +5659,6 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/clera/jobs/expert-talent-pool-safety-testing-expert?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/centurylink/jobs/lead-ai-engineer-consultant-india-home-in-560094",
-      "title": "LEAD AI ENGINEER CONSULTANT-INDIA (HOME, IN, 560094)",
-      "company": "CenturyLink",
-      "location": "India",
-      "category": "Data Science · Lead-AI-Engineer · AI-Engineer · AI-Consultant · Machine-Learning-Engineer",
-      "tags": [
-        "Data Science",
-        "Lead-AI-Engineer",
-        "AI-Engineer",
-        "AI-Consultant",
-        "Machine-Learning-Engineer"
-      ],
-      "description": "Lumen is the trusted network for the AI‑powered world, connecting people, data, and applications through our expansive fiber network and connected ecosystem.",
-      "publishedAt": 1794638001000,
-      "expiresAt": 1799822000000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/centurylink/jobs/lead-ai-engineer-consultant-india-home-in-560094?utm_source=api"
     }
   ]
 }
