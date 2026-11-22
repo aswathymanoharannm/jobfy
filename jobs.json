@@ -1,15 +1,103 @@
 {
-  "fetchedAt": "2026-11-22T05:44:57.481Z",
+  "fetchedAt": "2026-11-22T14:17:26.016Z",
   "sources": [
     "Himalayas",
     "Jobicy",
     "Remote OK",
     "Remotive"
   ],
-  "failedSources": [
-    "Jobicy"
-  ],
+  "failedSources": [],
   "jobs": [
+    {
+      "id": "himalayas:https://himalayas.app/companies/equisoft/jobs/workday-adaptive-planning-support-configuration",
+      "title": "Workday Adaptive Planning Support/Configuration",
+      "company": "Equisoft",
+      "location": "India",
+      "category": "Finance · Financial-Systems-Specialist · FP&A-Specialist · Adaptive-Planning-Specialist · Financial-Modeling-Analyst · Planning-Systems-Administrator",
+      "tags": [
+        "Finance",
+        "Financial-Systems-Specialist",
+        "FP&A-Specialist",
+        "Adaptive-Planning-Specialist",
+        "Financial-Modeling-Analyst",
+        "Planning-Systems-Administrator"
+      ],
+      "description": "What is Equisoft?  Equisoft is a global provider of digital solutions for insurance and investments, recognized by more than 300 of the world’s leading financial institutions.",
+      "publishedAt": 1795341649000,
+      "expiresAt": 1800525648000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/equisoft/jobs/workday-adaptive-planning-support-configuration?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/oportun/jobs/senior-data-scientist-model-risk-management-r14365",
+      "title": "Senior Data Scientist, Model Risk Management (R14365)",
+      "company": "Oportun",
+      "location": "India",
+      "category": "Data Science · Data-Scientist · Model-Risk-Management · Quantitative-Risk-Analyst · Model-Validation",
+      "tags": [
+        "Data Science",
+        "Data-Scientist",
+        "Model-Risk-Management",
+        "Quantitative-Risk-Analyst",
+        "Model-Validation"
+      ],
+      "description": "Who We Are Oportun (Nasdaq: OPRT) is a mission-driven financial services company that puts its members' financial goals within reach.",
+      "publishedAt": 1795340111000,
+      "expiresAt": 1800524110000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/oportun/jobs/senior-data-scientist-model-risk-management-r14365?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/akamai-technologies/jobs/senior-data-scientist",
+      "title": "Senior Data Scientist",
+      "company": "Akamai Technologies",
+      "location": "India",
+      "category": "Data Science · Data-Scientist · Machine-Learning-Engineer · Data-Science-Engineer",
+      "tags": [
+        "Data Science",
+        "Data-Scientist",
+        "Machine-Learning-Engineer",
+        "Data-Science-Engineer"
+      ],
+      "description": "Are you a data scientist who turns ambiguous commercial problems into production-grade AI that people use every day?",
+      "publishedAt": 1795339590000,
+      "expiresAt": 1800523589000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/akamai-technologies/jobs/senior-data-scientist?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/smart-working/jobs/structured-data-engineer-ai-search-remote-full-time-hr226",
+      "title": "Structured Data Engineer - AI Search (Remote, Full-Time) [HR226]",
+      "company": "Smart Working",
+      "location": "India",
+      "category": "Data Science · Developer · Data-Engineer · Structured-Data-Engineer · Search-Engineer · Backend-Engineer · E-Commerce-Engineer",
+      "tags": [
+        "Data Science",
+        "Developer",
+        "Data-Engineer",
+        "Structured-Data-Engineer",
+        "Search-Engineer",
+        "Backend-Engineer",
+        "E-Commerce-Engineer"
+      ],
+      "description": "About Smart Working At Smart Working, we believe your job should not only look right on paper but also feel right every day.",
+      "publishedAt": 1795327675000,
+      "expiresAt": 1800511674000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/smart-working/jobs/structured-data-engineer-ai-search-remote-full-time-hr226?utm_source=api"
+    },
     {
       "id": "himalayas:https://himalayas.app/companies/smart-working/jobs/ai-search-analyst-remote-full-time-hr224",
       "title": "AI Search Analyst (Remote, Full-Time) [HR224]",
@@ -925,7 +1013,7 @@
       "tags": [
         "marketing"
       ],
-      "description": "<div><p><span>iFITâs vision is to create the world's most holistic health and fitness platform, integrating all elements of health - physical fitness, mental health, nutrition and active recovery - into a seamless interactive experience. We develop proprietary software that learns and adjusts to the habits of each person as it delivers immersive content that guides them on their own individual fitness journey.</span></p></div><p><span>We are currently seeking an ambitious pace-setter to join our team as aÂ <strong>Senior Manager, Product Analytics (Growth) remotely in the US.</strong></span></p>\n<p><span>iFIT is building its next generation subscription product, and the Senior Manager, Product Analytics (Growth) is the analytics owner of the funnel. You are accountable for the data and insight behind every step between a new visitor and a paying, retained member: onboarding, activation, paywall, trial to paid, and free to paid.</span></p>\n<p><span>You sit on the Analytics team and partner daily with the Growth Product Leader and the Growth Marketing Leader and the Chief Subscription Officer.</span></p>\n<p><span><strong>ROLE COMMITMENTS</strong></span></p>\n<ul>\n<li><span>Own measurement of onboarding, activation, paywall, trial to paid, and free to paid.</span></li>\n<li><span>Own methodology for Growth A/B tests: hypotheses, power, success metrics, and readouts.</span></li>\n<li><span>Analyze demographics, behavior, acquisition channel, and equipment ownership to show who converts and retains, and where we canÂ  lift results.</span></li>\n<li><span>Define the early behaviors and activation moments that predict long term subscribers, and report on engagement through the first 30 days.</span></li>\n<li><span>KPI definitions. Own definitions for activation, conversion, cohorts, LTV, and CAC, so every team works from the same numbers.</span></li>\n</ul>\n<p><span><strong>ESSENTIAL DUTIES AND RESPONSIBILITIES</strong></span></p>\n<ul>\n<li><span>Own the app analytics framework, including event taxonomy, tracking plans, and instrumentation standards, partnering with Product and Engineering to ensure data is accurate, complete, and consistent across iOS, Android, web, and connected equipment.</span></li>\n<li><span>Build and maintain funnel analytics from install and trial start through paid conversion, activation, and renewal, identifying drop-off points and sizing the opportunity.</span></li>\n<li><span>Analyze user engagement and behavior including feature adoption, engagement frequency, and content consumption, and identify the leading indicators of retention and churn.</span></li>\n<li><span>Develop cohort, retention, and lifecycle analyses, and translate behavioral signals into churn-risk and propensity models that CRM can act on.</span></li>\n<li><span>Design and analyze A/B tests and experiments with Product and Growth teams, defining success metrics, sample sizing, and readouts.</span></li>\n<li><span>Monitor subscription, churn, and revenue performance against forecast, and maintain forecasting and retention models.</span></li>\n<li><span>Build and maintain dashboards and self-serve reporting that give Product, Finance, and CRM a shared view of subscriber health.</span></li>\n</ul>\n<p><span><strong>EDUCATION &amp; EXPERIENCE</strong></span><br /><span>Education and Basic Qualifications</span></p>\n<ul>\n<li><span><strong> </strong>5 or more years in product analytics, data analysis, or business intelligence, including ownership of recurring reporting that others depend on</span></li>\n<li><span>Proven record of moving funnel metrics through experimentation: onboarding, paywall, trial, and conversion.</span></li>\n<li><span>Strong command of A/B testing and statistics (power, significance, causal inference).</span></li>\n<li><span>Strong command of subscription metrics: LTV, CAC, cohort retention, and conversion funnels.</span></li>\n<li><span><strong> </strong>Hands-on experience with subscription or recurring revenue metrics: cohort retention, churn, conversion, and LTV<strong> </strong></span></li>\n<li><span><strong> </strong>Advanced SQL against a cloud data warehouse, with the ability to build and maintain models rather than only query them</span></li>\n<li><span>Authorized to work in the United States without sponsorship.</span></li>\n</ul>\n<p><span>Preferred Qualifications</span></p>\n<ul>\n<li><span><strong> </strong>Snowflake and Tableau proficiency</span></li>\n<li><span><strong> </strong>Python or dbt for transformation and pipeline work</span></li>\n<li><span><strong> </strong>Experience supporting a new product launch or a business in its first year of revenue</span></li>\n<li><span><strong> </strong>Familiarity with product and event analytics tools such as Amplitude, and with attribution logic</span></li>\n<li><span><strong> </strong>Consumer subscription, fitness, or direct-to-consumer background</span></li>\n</ul>\n<p><span><strong>DISCLAIMER</strong></span><br /><span>Compensation may vary based on the job level, your geographic work location, position incentive plan, and exemption status.</span><br /><span>Although we currently may consider hiring in the states listed below, not all positions are available in all locations, and work in a particular state is not guaranteed. Current list of states where iFIT may consider hiring: AK, AL, AR, AZ, CA, CO, CT, FL, GA, ID, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, NC, NH, NJ, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, WA, WI, WY.</span><br /><span>Subject to applicable state laws, your employment at iFIT is âat-willâ. At-will employment means that you and the company each have the right to terminate the employment relationship at any time for any cause or for no cause at all.</span></p>\n<p>Â </p><div><div><div>Pay Range: </div><div><span>$115,000</span><span>â</span><span>$135,000 USD</span></div></div></div><div><p><em>iFIT doesÂ </em><em>not discriminateÂ </em><em>in employment opportunities or practices on the basis of race, color, religion, sex, national origin, age, ancestry, mental or physical disability, sexual orientation, gender identity, medical condition, genetic information, marital status, veteran status or any other characteristic protected by law.</em></p>\n<p>Â </p></div><br/><br/>Please mention the word **ADVOCATE** and tag RMjAuMTcxLjE5OC4xNDc= when applying to show you read the job post completely (#RMjAuMTcxLjE5OC4xNDc=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "<div><p><span>iFITâs vision is to create the world's most holistic health and fitness platform, integrating all elements of health - physical fitness, mental health, nutrition and active recovery - into a seamless interactive experience. We develop proprietary software that learns and adjusts to the habits of each person as it delivers immersive content that guides them on their own individual fitness journey.</span></p></div><p><span>We are currently seeking an ambitious pace-setter to join our team as aÂ <strong>Senior Manager, Product Analytics (Growth) remotely in the US.</strong></span></p>\n<p><span>iFIT is building its next generation subscription product, and the Senior Manager, Product Analytics (Growth) is the analytics owner of the funnel. You are accountable for the data and insight behind every step between a new visitor and a paying, retained member: onboarding, activation, paywall, trial to paid, and free to paid.</span></p>\n<p><span>You sit on the Analytics team and partner daily with the Growth Product Leader and the Growth Marketing Leader and the Chief Subscription Officer.</span></p>\n<p><span><strong>ROLE COMMITMENTS</strong></span></p>\n<ul>\n<li><span>Own measurement of onboarding, activation, paywall, trial to paid, and free to paid.</span></li>\n<li><span>Own methodology for Growth A/B tests: hypotheses, power, success metrics, and readouts.</span></li>\n<li><span>Analyze demographics, behavior, acquisition channel, and equipment ownership to show who converts and retains, and where we canÂ  lift results.</span></li>\n<li><span>Define the early behaviors and activation moments that predict long term subscribers, and report on engagement through the first 30 days.</span></li>\n<li><span>KPI definitions. Own definitions for activation, conversion, cohorts, LTV, and CAC, so every team works from the same numbers.</span></li>\n</ul>\n<p><span><strong>ESSENTIAL DUTIES AND RESPONSIBILITIES</strong></span></p>\n<ul>\n<li><span>Own the app analytics framework, including event taxonomy, tracking plans, and instrumentation standards, partnering with Product and Engineering to ensure data is accurate, complete, and consistent across iOS, Android, web, and connected equipment.</span></li>\n<li><span>Build and maintain funnel analytics from install and trial start through paid conversion, activation, and renewal, identifying drop-off points and sizing the opportunity.</span></li>\n<li><span>Analyze user engagement and behavior including feature adoption, engagement frequency, and content consumption, and identify the leading indicators of retention and churn.</span></li>\n<li><span>Develop cohort, retention, and lifecycle analyses, and translate behavioral signals into churn-risk and propensity models that CRM can act on.</span></li>\n<li><span>Design and analyze A/B tests and experiments with Product and Growth teams, defining success metrics, sample sizing, and readouts.</span></li>\n<li><span>Monitor subscription, churn, and revenue performance against forecast, and maintain forecasting and retention models.</span></li>\n<li><span>Build and maintain dashboards and self-serve reporting that give Product, Finance, and CRM a shared view of subscriber health.</span></li>\n</ul>\n<p><span><strong>EDUCATION &amp; EXPERIENCE</strong></span><br /><span>Education and Basic Qualifications</span></p>\n<ul>\n<li><span><strong> </strong>5 or more years in product analytics, data analysis, or business intelligence, including ownership of recurring reporting that others depend on</span></li>\n<li><span>Proven record of moving funnel metrics through experimentation: onboarding, paywall, trial, and conversion.</span></li>\n<li><span>Strong command of A/B testing and statistics (power, significance, causal inference).</span></li>\n<li><span>Strong command of subscription metrics: LTV, CAC, cohort retention, and conversion funnels.</span></li>\n<li><span><strong> </strong>Hands-on experience with subscription or recurring revenue metrics: cohort retention, churn, conversion, and LTV<strong> </strong></span></li>\n<li><span><strong> </strong>Advanced SQL against a cloud data warehouse, with the ability to build and maintain models rather than only query them</span></li>\n<li><span>Authorized to work in the United States without sponsorship.</span></li>\n</ul>\n<p><span>Preferred Qualifications</span></p>\n<ul>\n<li><span><strong> </strong>Snowflake and Tableau proficiency</span></li>\n<li><span><strong> </strong>Python or dbt for transformation and pipeline work</span></li>\n<li><span><strong> </strong>Experience supporting a new product launch or a business in its first year of revenue</span></li>\n<li><span><strong> </strong>Familiarity with product and event analytics tools such as Amplitude, and with attribution logic</span></li>\n<li><span><strong> </strong>Consumer subscription, fitness, or direct-to-consumer background</span></li>\n</ul>\n<p><span><strong>DISCLAIMER</strong></span><br /><span>Compensation may vary based on the job level, your geographic work location, position incentive plan, and exemption status.</span><br /><span>Although we currently may consider hiring in the states listed below, not all positions are available in all locations, and work in a particular state is not guaranteed. Current list of states where iFIT may consider hiring: AK, AL, AR, AZ, CA, CO, CT, FL, GA, ID, IL, IN, KS, KY, LA, MA, MD, MI, MN, MO, MS, NC, NH, NJ, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, WA, WI, WY.</span><br /><span>Subject to applicable state laws, your employment at iFIT is âat-willâ. At-will employment means that you and the company each have the right to terminate the employment relationship at any time for any cause or for no cause at all.</span></p>\n<p>Â </p><div><div><div>Pay Range: </div><div><span>$115,000</span><span>â</span><span>$135,000 USD</span></div></div></div><div><p><em>iFIT doesÂ </em><em>not discriminateÂ </em><em>in employment opportunities or practices on the basis of race, color, religion, sex, national origin, age, ancestry, mental or physical disability, sexual orientation, gender identity, medical condition, genetic information, marital status, veteran status or any other characteristic protected by law.</em></p>\n<p>Â </p></div><br/><br/>Please mention the word **ADVOCATE** and tag RMTcyLjE3NC4xOTEuNQ== when applying to show you read the job post completely (#RMTcyLjE3NC4xOTEuNQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "publishedAt": 1795171204000,
       "salary": "",
       "employmentType": "",
@@ -1583,6 +1671,50 @@
       "applyUrl": "https://himalayas.app/companies/granicus/jobs/software-engineer-4?utm_source=api"
     },
     {
+      "id": "himalayas:https://himalayas.app/companies/welocalize/jobs/polish-ai-data-rater-3313626938",
+      "title": "Polish AI Data Rater",
+      "company": "Welocalize",
+      "location": "Worldwide",
+      "category": "Data Science · Data-Rater · Data-Annotator · Search-Quality-Evaluator · AI-Data-Quality-Analyst",
+      "tags": [
+        "Data Science",
+        "Data-Rater",
+        "Data-Annotator",
+        "Search-Quality-Evaluator",
+        "AI-Data-Quality-Analyst"
+      ],
+      "description": "OVERVIEW Are you tech-savvy?  Have a passion for quality?",
+      "publishedAt": 1795116633000,
+      "expiresAt": 1801823627000,
+      "salary": "",
+      "employmentType": "Contractor",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/welocalize/jobs/polish-ai-data-rater-3313626938?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/welocalize/jobs/dutch-ai-data-rater-1629909044",
+      "title": "Dutch AI Data Rater",
+      "company": "Welocalize",
+      "location": "Worldwide",
+      "category": "Data Science · Data-Rater · Data-Annotator · Search-Quality-Analyst · Data-Quality-Specialist",
+      "tags": [
+        "Data Science",
+        "Data-Rater",
+        "Data-Annotator",
+        "Search-Quality-Analyst",
+        "Data-Quality-Specialist"
+      ],
+      "description": "OVERVIEW Are you tech-savvy?  Have a passion for quality?",
+      "publishedAt": 1795116632000,
+      "expiresAt": 1801823599000,
+      "salary": "",
+      "employmentType": "Contractor",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/welocalize/jobs/dutch-ai-data-rater-1629909044?utm_source=api"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/ahead/jobs/senior-technical-consultant-data",
       "title": "Senior Technical Consultant, Data",
       "company": "AHEAD",
@@ -1678,32 +1810,6 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/remotejobsone/jobs/structured-finance-attorney-remote-worldwide?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/yassir/jobs/data-scientist-pricing",
-      "title": "Data Scientist (Pricing)",
-      "company": "Yassir",
-      "location": "Egypt, India, Kenya, Nigeria, South Africa",
-      "category": "Data Science · Data-Science · Pricing-Analytics · Machine-Learning · Applied-Data-Science · AI-ML-Engineer · Pricing-Data-Scientist · Data-Scientist · Pricing-Scientist",
-      "tags": [
-        "Data Science",
-        "Data-Science",
-        "Pricing-Analytics",
-        "Machine-Learning",
-        "Applied-Data-Science",
-        "AI-ML-Engineer",
-        "Pricing-Data-Scientist",
-        "Data-Scientist",
-        "Pricing-Scientist"
-      ],
-      "description": "About Yassir Yassir is the Super App designed to make your life easier.",
-      "publishedAt": 1795111924000,
-      "expiresAt": 1796433586000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/yassir/jobs/data-scientist-pricing?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/irth/jobs/data-science-ml-gen-ai-engineer-mid-level-orbit",
@@ -1888,35 +1994,6 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/firstprinciples/jobs/ai-researcher?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/demandmatrix/jobs/lead-data-scientist-2220974336",
-      "title": "Lead Data Scientist",
-      "company": "DemandMatrix",
-      "location": "India",
-      "category": "Data Science · Data-Scientist · Data-Science-Leadership · Machine-Learning-Engineering · Applied-Data-Science · Analytics-Leadership · Senior-Data-Scientist-Lead · Lead-Machine-Learning-Scientist · Data-Science-Team-Lead · Lead-AI-ML-Scientist · Senior-Lead-AI-Scientist · Senior-Staff-Data-Scientist",
-      "tags": [
-        "Data Science",
-        "Data-Scientist",
-        "Data-Science-Leadership",
-        "Machine-Learning-Engineering",
-        "Applied-Data-Science",
-        "Analytics-Leadership",
-        "Senior-Data-Scientist-Lead",
-        "Lead-Machine-Learning-Scientist",
-        "Data-Science-Team-Lead",
-        "Lead-AI-ML-Scientist",
-        "Senior-Lead-AI-Scientist",
-        "Senior-Staff-Data-Scientist"
-      ],
-      "description": "We are looking for a Lead Data Scientist to lead a technical team to discover the information hidden in vast amounts of data, and help us make smarter decisions to deliver even better products.",
-      "publishedAt": 1795111209000,
-      "expiresAt": 1795342012000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/demandmatrix/jobs/lead-data-scientist-2220974336?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/aptus-data-labs/jobs/sr-lead-data-scientist-4161785697",
@@ -2578,64 +2655,6 @@
       "applyUrl": "https://himalayas.app/companies/photon-interactive-uk-limited/jobs/data-scientist-offshore?utm_source=api"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/novatus-global-ltd/jobs/customer-operations-specialist",
-      "title": "Customer Operations Specialist",
-      "company": "Novatus Global Ltd",
-      "location": "India",
-      "category": "Customer Service · Customer-Operations-Specialist · Customer-Support-Specialist · Technical-Support-Specialist · SaaS-Support-Specialist · Customer-Operations-Analyst · CX-Operations-Specialist · Customer-Operations-Coordinator · Customer-Operations-Associate · Customer-Operations-Representative · Customer-Operations-Team-Member · Client-Operations-Specialist · Customer-Operations",
-      "tags": [
-        "Customer Service",
-        "Customer-Operations-Specialist",
-        "Customer-Support-Specialist",
-        "Technical-Support-Specialist",
-        "SaaS-Support-Specialist",
-        "Customer-Operations-Analyst",
-        "CX-Operations-Specialist",
-        "Customer-Operations-Coordinator",
-        "Customer-Operations-Associate",
-        "Customer-Operations-Representative",
-        "Customer-Operations-Team-Member",
-        "Client-Operations-Specialist",
-        "Customer-Operations"
-      ],
-      "description": "Novatus is a Series B scale-upRegTechSaaS provider and boutique consulting practice, enabling financial services firms to solve complex challenges and redefinewhat’spossible through expert-led technology and consulting.",
-      "publishedAt": 1795107734000,
-      "expiresAt": 1798447637000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/novatus-global-ltd/jobs/customer-operations-specialist?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/banco-plata-s-a-institucion-de-banca-multiple/jobs/system-analyst-middle-senior",
-      "title": "System Analyst Middle+ / Senior",
-      "company": "Banco Plata, S.A., Institución de Banca Múltiple",
-      "location": "Afghanistan, Albania, Algeria, Andorra, Angola, Armenia, Austria, Azerbaijan, Bahrain, Bangladesh, Belarus, Belgium, Benin, Bhutan, Bosnia and Herzegovina, Botswana, British Indian Ocean Territory, Brunei Darussalam, Bulgaria, Burkina Faso, Burundi, Cabo Verde, Cambodia, Cameroon, Central African Republic, Chad, China, Comoros, Congo, Congo, The Democratic Republic of the, Croatia, Cyprus, Czechia, Côte d'Ivoire, Denmark, Djibouti, Egypt, Equatorial Guinea, Eritrea, Estonia, Eswatini, Ethiopia, Faroe Islands, Finland, France, Gabon, Gambia, Georgia, Germany, Ghana, Gibraltar, Greece, Guernsey, Guinea, Guinea-Bissau, Holy See (Vatican City State), Hong Kong, Hungary, Iceland, India, Indonesia, Iran, Iraq, Ireland, Isle of Man, Israel, Italy, Japan, Jersey, Jordan, Kazakhstan, Kenya, Kosovo, Kuwait, Kyrgyzstan, Lao People's Democratic Republic, Latvia, Lebanon, Lesotho, Liberia, Libya, Liechtenstein, Lithuania, Luxembourg, Macao, Madagascar, Malawi, Malaysia, Maldives, Mali, Malta, Mauritania, Mauritius, Mayotte, Moldova, Monaco, Mongolia, Montenegro, Morocco, Mozambique, Myanmar, Namibia, Nepal, Netherlands, Niger, Nigeria, North Macedonia, Norway, Oman, Pakistan, Palestine, State of, Philippines, Poland, Portugal, Qatar, Romania, Russian Federation, Rwanda, Réunion, Saint Helena, Ascension and Tristan da Cunha, San Marino, Sao Tome and Principe, Saudi Arabia, Senegal, Serbia, Seychelles, Sierra Leone, Singapore, Slovakia, Slovenia, Somalia, South Africa, South Korea, South Sudan, Spain, Sri Lanka, Sudan, Svalbard and Jan Mayen, Sweden, Switzerland, Syrian Arab Republic, Taiwan, Tajikistan, Tanzania, Thailand, Timor-Leste, Togo, Tunisia, Turkey, Turkmenistan, Uganda, Ukraine, United Arab Emirates, United Kingdom, Uzbekistan, Vietnam, Western Sahara, Yemen, Zambia, Zimbabwe, Åland Islands",
-      "category": "Data Science · Systems-Analyst · Business-Systems-Analyst · Technical-Analyst · Solutions-Analyst · Senior-Systems-Analyst · Senior-Business-Systems-Analysis · Senior-Business-Systems-Analyst · Sr.-Systems-Analyst-Software-Engineering · Senior-Financial-Systems-Analyst · IT-Systems-Analyst",
-      "tags": [
-        "Data Science",
-        "Systems-Analyst",
-        "Business-Systems-Analyst",
-        "Technical-Analyst",
-        "Solutions-Analyst",
-        "Senior-Systems-Analyst",
-        "Senior-Business-Systems-Analysis",
-        "Senior-Business-Systems-Analyst",
-        "Sr.-Systems-Analyst-Software-Engineering",
-        "Senior-Financial-Systems-Analyst",
-        "IT-Systems-Analyst"
-      ],
-      "description": "We are looking for System Analysts to join one of our teams - Core Banking Systems, Customer Care,and others.",
-      "publishedAt": 1795107728000,
-      "expiresAt": 1798468054000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/banco-plata-s-a-institucion-de-banca-multiple/jobs/system-analyst-middle-senior?utm_source=api"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/treasure-ai/jobs/senior-machine-learning-engineer",
       "title": "Senior Machine Learning Engineer",
       "company": "Treasure AI",
@@ -2985,6 +3004,29 @@
       "applyUrl": "https://himalayas.app/companies/arcturus-consulting-services/jobs/oracle-otbi-bi-publisher-consultant?utm_source=api"
     },
     {
+      "id": "himalayas:https://himalayas.app/companies/fortify-health/jobs/data-officer",
+      "title": "Data Officer",
+      "company": "Fortify Health",
+      "location": "India",
+      "category": "Data Science · Data-Officer · Data-Analyst · Data-Manager · Data-Engineer · Analytics-Specialist",
+      "tags": [
+        "Data Science",
+        "Data-Officer",
+        "Data-Analyst",
+        "Data-Manager",
+        "Data-Engineer",
+        "Analytics-Specialist"
+      ],
+      "description": "About the roleFortify Health believes in making data-driven decisions.",
+      "publishedAt": 1795107362000,
+      "expiresAt": 1799108448000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/fortify-health/jobs/data-officer?utm_source=api"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/win-home-inspection/jobs/software-engineer-agentic-ai-integrations",
       "title": "Software Engineer- Agentic AI & Integrations",
       "company": "WIN Home Inspection",
@@ -3007,6 +3049,28 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/win-home-inspection/jobs/software-engineer-agentic-ai-integrations?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/inmarketingwetrust-com/jobs/data-engineer-remote-freelance",
+      "title": "Data Engineer (Remote, Freelance)",
+      "company": "In Marketing We Trust",
+      "location": "Afghanistan, Bangladesh, Bhutan, Brunei Darussalam, Cambodia, China, Hong Kong, India, Indonesia, Iran, Japan, Lao People's Democratic Republic, Macao, Malaysia, Maldives, Mongolia, Myanmar, Nepal, Pakistan, Philippines, Singapore, South Korea, Sri Lanka, Taiwan, Thailand, Timor-Leste, Vietnam",
+      "category": "Data Science · Data-Engineer · Analytics-Engineer · Big-Data-Engineer · Data-Analyst",
+      "tags": [
+        "Data Science",
+        "Data-Engineer",
+        "Analytics-Engineer",
+        "Big-Data-Engineer",
+        "Data-Analyst"
+      ],
+      "description": "What In Marketing We Trust is all about We're a technical performance marketing agency, and we exist to solve tough problems in marketing.",
+      "publishedAt": 1795107241000,
+      "expiresAt": 1799094462000,
+      "salary": "",
+      "employmentType": "Contractor",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/inmarketingwetrust-com/jobs/data-engineer-remote-freelance?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/mondelez-international/jobs/data-scientist",
@@ -3032,6 +3096,29 @@
       "applyUrl": "https://himalayas.app/companies/mondelez-international/jobs/data-scientist?utm_source=api"
     },
     {
+      "id": "himalayas:https://himalayas.app/companies/mediaradar/jobs/quality-analyst",
+      "title": "Quality Analyst",
+      "company": "MediaRadar",
+      "location": "India",
+      "category": "Developer · Data Science · Quality-Analyst · Data-Quality-Analyst · QA-Analyst · Data-Operations-Analyst",
+      "tags": [
+        "Developer",
+        "Data Science",
+        "Quality-Analyst",
+        "Data-Quality-Analyst",
+        "QA-Analyst",
+        "Data-Operations-Analyst"
+      ],
+      "description": "About MediaRadar: MediaRadar, equips marketing, sales and analytics leaders with the intelligence they need to stay ahead.",
+      "publishedAt": 1795107224000,
+      "expiresAt": 1799111520000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/mediaradar/jobs/quality-analyst?utm_source=api"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/mediaradar/jobs/associate-manager-content-data",
       "title": "Associate Manager, Content & Data",
       "company": "MediaRadar",
@@ -3050,6 +3137,30 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/mediaradar/jobs/associate-manager-content-data?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/converge-technology-solutions/jobs/senior-sales-reporting-analyst",
+      "title": "Senior Sales Reporting Analyst",
+      "company": "Converge Technology Solutions",
+      "location": "India",
+      "category": "Sales · Data Science · Sales-Reporting-Analyst · Sales-Operations-Analyst · Revenue-Operations-Analyst · Business-Intelligence-Analyst · Sales-Data-Analyst",
+      "tags": [
+        "Sales",
+        "Data Science",
+        "Sales-Reporting-Analyst",
+        "Sales-Operations-Analyst",
+        "Revenue-Operations-Analyst",
+        "Business-Intelligence-Analyst",
+        "Sales-Data-Analyst"
+      ],
+      "description": "Practice/Department: Enterprise Technology & Operations Position Title: Senior Sales Reporting Analyst Position Location: Remote Reports to: Senior Director, Data Analytics FLSAStatus: Exempt SOC Occupational Code: 13-1111 EEO-1 Job Category: 2 Job Summary: The Senior Sales Reporting Analyst role will assist with development and support reporting, analytics, and insights for the Sales organization.",
+      "publishedAt": 1795107206000,
+      "expiresAt": 1799140889000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/converge-technology-solutions/jobs/senior-sales-reporting-analyst?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/quantumloopai/jobs/ai-ml-prompt-engineer-llm-rag-voice-agent",
@@ -3075,28 +3186,50 @@
       "applyUrl": "https://himalayas.app/companies/quantumloopai/jobs/ai-ml-prompt-engineer-llm-rag-voice-agent?utm_source=api"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/quantumloopai/jobs/technical-lead-india-remote",
-      "title": "Technical Lead - India Remote",
-      "company": "QuantumLoopAI",
+      "id": "himalayas:https://himalayas.app/companies/jabil/jobs/market-intelligence-analyst",
+      "title": "Market Intelligence Analyst",
+      "company": "Jabil",
       "location": "India",
-      "category": "Developer · Data Science · Technical-Lead · Software-Engineering-Manager · Backend-Engineer · Software-Architect · AI-Engineer",
+      "category": "Marketing · Data Science · Market-Intelligence-Analyst · Market-Research-Analyst · Business-Intelligence-Analyst · Research-Analyst · Business-Analyst",
       "tags": [
-        "Developer",
+        "Marketing",
         "Data Science",
-        "Technical-Lead",
-        "Software-Engineering-Manager",
-        "Backend-Engineer",
-        "Software-Architect",
-        "AI-Engineer"
+        "Market-Intelligence-Analyst",
+        "Market-Research-Analyst",
+        "Business-Intelligence-Analyst",
+        "Research-Analyst",
+        "Business-Analyst"
       ],
-      "description": "ABOUT QUANTUMLOOPAI QuantumLoopAI is one of the UK's fastest-growing healthtech companies.",
-      "publishedAt": 1795107206000,
-      "expiresAt": 1799105953000,
+      "description": "At Jabil (NYSE: JBL), we are proud to be a trusted partner for the world's top brands, offering comprehensive engineering, supply chain, and manufacturing solutions.",
+      "publishedAt": 1795107198000,
+      "expiresAt": 1799187539000,
       "salary": "",
       "employmentType": "Full Time",
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/quantumloopai/jobs/technical-lead-india-remote?utm_source=api"
+      "applyUrl": "https://himalayas.app/companies/jabil/jobs/market-intelligence-analyst?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/consilio-llc/jobs/sr-analyst-data-ops",
+      "title": "Sr Analyst, Data Ops",
+      "company": "Consilio LLC",
+      "location": "India",
+      "category": "Data Science · Data-Operations-Analyst · Data-Analyst · EDiscovery-Analyst · Senior-Data-Processing-Analyst",
+      "tags": [
+        "Data Science",
+        "Data-Operations-Analyst",
+        "Data-Analyst",
+        "EDiscovery-Analyst",
+        "Senior-Data-Processing-Analyst"
+      ],
+      "description": "Overview About Company Consilio, Inc.  is a global leader in the eDiscovery, document review, risk management, legal consulting, and legal development service markets.",
+      "publishedAt": 1795107190000,
+      "expiresAt": 1799162002000,
+      "salary": "",
+      "employmentType": "Other",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/consilio-llc/jobs/sr-analyst-data-ops?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/eclerx/jobs/associate-process-manager",
@@ -3145,6 +3278,97 @@
       "applyUrl": "https://himalayas.app/companies/eversana/jobs/ai-solutions-engineer-generative-ai-agentic-ai?utm_source=api"
     },
     {
+      "id": "himalayas:https://himalayas.app/companies/embrace-software-inc/jobs/rfp-analyst-government-bid-research",
+      "title": "RFP Analyst - Government Bid Research",
+      "company": "Embrace Software Inc",
+      "location": "India",
+      "category": "Marketing · RFP-Analyst · Government-Contract-Analyst · Market-Research-Analyst · Bid-Tracking-Analyst · Procurement-Analyst",
+      "tags": [
+        "Marketing",
+        "RFP-Analyst",
+        "Government-Contract-Analyst",
+        "Market-Research-Analyst",
+        "Bid-Tracking-Analyst",
+        "Procurement-Analyst"
+      ],
+      "description": "This is a remote position.  About the role We are hiring an RFP Analyst in India, within Embrace Shared Services (ESS), to find, sort and track US government RFPs and RFIs for Fairfax Software.",
+      "publishedAt": 1795107172000,
+      "expiresAt": 1799228643000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/embrace-software-inc/jobs/rfp-analyst-government-bid-research?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/jonas-software/jobs/senior-product-analyst",
+      "title": "Senior Product Analyst",
+      "company": "Jonas Software",
+      "location": "India",
+      "category": "Product · Data Science · Product-Analyst · Business-Analyst · Data-Analyst",
+      "tags": [
+        "Product",
+        "Data Science",
+        "Product-Analyst",
+        "Business-Analyst",
+        "Data-Analyst"
+      ],
+      "description": "Job Description: Job Responsibilities** Product Backlog Management • Own and maintain the MalauzAI product backlog.",
+      "publishedAt": 1795107161000,
+      "expiresAt": 1799204973000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/jonas-software/jobs/senior-product-analyst?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/aqilea/jobs/senior-data-analyst",
+      "title": "Senior Data Analyst",
+      "company": "Aqilea",
+      "location": "India",
+      "category": "Data Science · Product · Data-Analyst · Business-Intelligence-Analyst · Product-Analyst · Analytics-Consultant",
+      "tags": [
+        "Data Science",
+        "Product",
+        "Data-Analyst",
+        "Business-Intelligence-Analyst",
+        "Product-Analyst",
+        "Analytics-Consultant"
+      ],
+      "description": "Role: Senior Data Analyst Job Ref Id: JD-1339 Competence level: Senior Start date: 2026-12-01 End date: 2027-05-31 Scope: Not stated Location: Bangalore Language: English Application deadline: 2026-11-13 Number of consultants: 1 Security clearance: No About the assignment We are looking for a senior data analyst to join our data & analytics team.",
+      "publishedAt": 1795107153000,
+      "expiresAt": 1799182384000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/aqilea/jobs/senior-data-analyst?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/hyre/jobs/automations-data-analytics-specialist-7386483940",
+      "title": "Automations & Data Analytics Specialist",
+      "company": "Hyre",
+      "location": "India",
+      "category": "Data Science · Operations · Automation-Specialist · Data-Analytics-Specialist · Business-Intelligence-Analyst · Operations-Analyst",
+      "tags": [
+        "Data Science",
+        "Operations",
+        "Automation-Specialist",
+        "Data-Analytics-Specialist",
+        "Business-Intelligence-Analyst",
+        "Operations-Analyst"
+      ],
+      "description": "Automation & Data Analytics Specialist (Moving & Storage) Full-time | Remote | Hiring through Hyre for a U.",
+      "publishedAt": 1795107133000,
+      "expiresAt": 1799260134000,
+      "salary": "",
+      "employmentType": "Contractor",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/hyre/jobs/automations-data-analytics-specialist-7386483940?utm_source=api"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/wikimedia-foundation/jobs/group-product-manager-data-platforms",
       "title": "Group Product Manager, Data Platforms",
       "company": "Wikimedia Foundation",
@@ -3191,6 +3415,51 @@
       "applyUrl": "https://himalayas.app/companies/xperteez-technology/jobs/stem-expert-msc-phd-remote?utm_source=api"
     },
     {
+      "id": "himalayas:https://himalayas.app/companies/precision-for-medicine/jobs/analyst-business-competitive-intelligence-8093973016",
+      "title": "Analyst, Business & Competitive Intelligence",
+      "company": "Precision for Medicine",
+      "location": "India",
+      "category": "Marketing · Sales · Competitive-Intelligence-Analyst · Market-Research-Analyst · Business-Development-Analyst · Sales-Analyst",
+      "tags": [
+        "Marketing",
+        "Sales",
+        "Competitive-Intelligence-Analyst",
+        "Market-Research-Analyst",
+        "Business-Development-Analyst",
+        "Sales-Analyst"
+      ],
+      "description": "Position Summary: The Analyst, Business and Competitive Intelligence is responsible for the identification, information gathering, planning and coordinating of sales-based communication activities for a selection of designated accounts and contacts to effectively support business growth.",
+      "publishedAt": 1795107118000,
+      "expiresAt": 1799292265000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/precision-for-medicine/jobs/analyst-business-competitive-intelligence-8093973016?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/description-ciklum/jobs/senior-business-analyst-3764982302",
+      "title": "Senior Business Analyst",
+      "company": "Description Ciklum",
+      "location": "India",
+      "category": "Data Science · Senior-Business-Analyst · Business-Analyst · Payments-Business-Analyst · Business-Systems-Analyst",
+      "tags": [
+        "Data Science",
+        "Senior-Business-Analyst",
+        "Business-Analyst",
+        "Payments-Business-Analyst",
+        "Business-Systems-Analyst"
+      ],
+      "description": "Ciklum is looking for a Senior Payment Business/System Analyst to join our team full-time in India We are a custom product engineering company that supports both multinational organizations and scaling startups to solve their most complex business challenges.",
+      "publishedAt": 1795107076000,
+      "expiresAt": 1799389067000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/description-ciklum/jobs/senior-business-analyst-3764982302?utm_source=api"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/description-ciklum/jobs/senior-artificial-intelligence-machine-learning-engineer",
       "title": "Senior Artificial Intelligence/Machine Learning Engineer",
       "company": "Description Ciklum",
@@ -3212,6 +3481,25 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/description-ciklum/jobs/senior-artificial-intelligence-machine-learning-engineer?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/greengen/jobs/assistant-energy-analyst",
+      "title": "Assistant Energy Analyst",
+      "company": "GreenGen",
+      "location": "India",
+      "category": "Energy-Analyst · Energy-Data-Analyst",
+      "tags": [
+        "Energy-Analyst",
+        "Energy-Data-Analyst"
+      ],
+      "description": "A UNIQUE OPPORTUNITY– GreenGen is tackling climate change for the world’s leading investors.",
+      "publishedAt": 1795107058000,
+      "expiresAt": 1799396937000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/greengen/jobs/assistant-energy-analyst?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/emerging-travel-group/jobs/commercial-pricing-analyst",
