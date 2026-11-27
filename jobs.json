@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-11-27T07:24:55.900Z",
+  "fetchedAt": "2026-11-27T20:51:02.303Z",
   "sources": [
     "Himalayas",
     "Jobicy",
@@ -8,6 +8,156 @@
   ],
   "failedSources": [],
   "jobs": [
+    {
+      "id": "jobicy:164577",
+      "title": "Workforce Management - Real Time Analyst",
+      "company": "Clipboard",
+      "location": "APAC",
+      "category": "Product & Operations",
+      "tags": [],
+      "description": "About Clipboard Our mission is to uplift as many communities as possible. We do this through our app-based marketplace that connects healthcare professionals with the workplaces that need amazing workers. This enables hundreds of thousands of people to achieve financial stability for themselves and their families while providing essential care to millions of people across&hellip;",
+      "publishedAt": 1795796779000,
+      "salary": "USD 12,000–19,000 yearly",
+      "employmentType": "Full-Time",
+      "source": "Jobicy",
+      "sourceHome": "https://jobicy.com/",
+      "applyUrl": "https://jobicy.com/jobs/164577-workforce-management-real-time-analyst-3"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/resideo/jobs/sr-systems-integration-analyst",
+      "title": "Sr Systems Integration Analyst",
+      "company": "Resideo",
+      "location": "India",
+      "category": "Data Science · Systems-Integration-Analyst · Integration-Analyst · Business-Analyst · Systems-Analyst",
+      "tags": [
+        "Data Science",
+        "Systems-Integration-Analyst",
+        "Integration-Analyst",
+        "Business-Analyst",
+        "Systems-Analyst"
+      ],
+      "description": "You will act as a bridge between business needs and technical execution for integrations between Oracle Cloud applications and related enterprise systems.",
+      "publishedAt": 1795793248000,
+      "expiresAt": 1800977248000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/resideo/jobs/sr-systems-integration-analyst?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/fourkites/jobs/senior-data-scientist",
+      "title": "Senior Data Scientist",
+      "company": "FourKites",
+      "location": "India",
+      "category": "Data Science · Data-Scientist · Machine-Learning-Engineer",
+      "tags": [
+        "Data Science",
+        "Data-Scientist",
+        "Machine-Learning-Engineer"
+      ],
+      "description": "At FourKites we have the opportunity to tackle complex challenges with real-world impacts.",
+      "publishedAt": 1795791450000,
+      "expiresAt": 1800975449000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/fourkites/jobs/senior-data-scientist?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-ml-engineering-remote-contract-5241233149",
+      "title": "AI Trainer (ML Engineering), Remote - Contract",
+      "company": "Xperteez Technology",
+      "location": "Worldwide",
+      "category": "Data Science · AI-Trainer · Machine-Learning-Engineer · AI-Training-Specialist · AI-Evaluation-Specialist",
+      "tags": [
+        "Data Science",
+        "AI-Trainer",
+        "Machine-Learning-Engineer",
+        "AI-Training-Specialist",
+        "AI-Evaluation-Specialist"
+      ],
+      "description": "Role: AI Trainer (ML Engineering) Location: Global, fully remote Job Type: Contract Time Commitment: 15+ hours per week Schedule: Flexible Required Skills: ML Engineering, AI Training, Programming skills You will use your machine learning expertise to create challenging technical tasks, evaluate model-generated work, identify failures, and establish objective standards for correct solutions.",
+      "publishedAt": 1795788899000,
+      "expiresAt": 1800972898000,
+      "salary": "USD 60–120 hourly",
+      "employmentType": "Contractor",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-ml-engineering-remote-contract-5241233149?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/platinumlist/jobs/lead-ai-engineer-full-stack",
+      "title": "Lead AI Engineer (Full-Stack)",
+      "company": "Platinumlist",
+      "location": "India",
+      "category": "Data Science · Developer · AI-Engineer · Full-Stack-Engineer · Software-Engineer · Web-Developer",
+      "tags": [
+        "Data Science",
+        "Developer",
+        "AI-Engineer",
+        "Full-Stack-Engineer",
+        "Software-Engineer",
+        "Web-Developer"
+      ],
+      "description": "About Us:Platinumlist. net, a pioneering leader in the online event guide and ticketing solution industry, has been revolutionizing the event landscape in the Gulf region since 2009.",
+      "publishedAt": 1795786030000,
+      "expiresAt": 1800967429000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/platinumlist/jobs/lead-ai-engineer-full-stack?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/wns-global-services/jobs/consultant-genai-application-development",
+      "title": "Consultant - GenAI Application Development",
+      "company": "WNS Global Services",
+      "location": "India",
+      "category": "Data Science · Developer · Generative-AI-Consultant · AI-Consultant · GenAI-Developer · AI-Engineer · Python-Developer",
+      "tags": [
+        "Data Science",
+        "Developer",
+        "Generative-AI-Consultant",
+        "AI-Consultant",
+        "GenAI-Developer",
+        "AI-Engineer",
+        "Python-Developer"
+      ],
+      "description": "GenAI Application Development • Design and implement intelligent applications using LLMs (e.",
+      "publishedAt": 1795784184000,
+      "expiresAt": 1800968184000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/wns-global-services/jobs/consultant-genai-application-development?utm_source=api"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/berry-virtual-medvirtual-ai-virtual/jobs/ai-forward-deployed-engineer",
+      "title": "AI Forward Deployed Engineer",
+      "company": "Berry Virtual | MedVirtual | AI Virtual",
+      "location": "Colombia, Honduras, India, Mexico, Philippines",
+      "category": "Developer · Data Science · Forward-Deployed-AI-Engineer · Forward-Deployed-Engineer · AI-Engineer · Software-Engineer · Client-Solutions-Engineering",
+      "tags": [
+        "Developer",
+        "Data Science",
+        "Forward-Deployed-AI-Engineer",
+        "Forward-Deployed-Engineer",
+        "AI-Engineer",
+        "Software-Engineer",
+        "Client-Solutions-Engineering"
+      ],
+      "description": "Key Responsibilities: • Build and deploy custom simulation solutions directly with clients • Develop Java-based applications to meet specific business needs • Own end-to-end delivery — from client requirements gathering through production deployment • Integrate large-scale data into simulation and AI frameworks • Collaborate with the core engineering team on architecture decisions for the simulation platform • Work directly with client stakeholders across all levels, from technical teams to executives • Rapidly prototype and iterate solutions based on real client feedback • Drive projects from initial idea through deployment with a high degree of autonomy Requirements Must-Have • MSc or higher in Computer Science or an AI-related field • Ability to work directly with clients, translating business needs into technical solutions • Strong Java proficiency • Working knowledge of Python for data processing and analysis • Experience with large-scale data processing and integration • Strong problem-solving skills applied to complex technical challenges • Comfort operating in a dynamic environment with evolving requirements • 1–2 years of relevant post-university experience Nice-to-Have • C++ experience for performance-critical components • Background in supply chain, logistics, or operations research • Experience with simulation frameworks or modeling tools • Fintech or quantitative analysis experience • Prior client-facing technical consulting experience • Experience working in a law firm, legal operations, or legal tech environment • Hands-on experience with AI tools such as LLMs (e.",
+      "publishedAt": 1795779217000,
+      "expiresAt": 1800963217000,
+      "salary": "",
+      "employmentType": "Full Time",
+      "source": "Himalayas",
+      "sourceHome": "https://himalayas.app/",
+      "applyUrl": "https://himalayas.app/companies/berry-virtual-medvirtual-ai-virtual/jobs/ai-forward-deployed-engineer?utm_source=api"
+    },
     {
       "id": "himalayas:https://himalayas.app/companies/corporate-web-solutions/jobs/data-science-intern",
       "title": "Data Science Intern",
@@ -180,33 +330,6 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/featherless-ai/jobs/ai-researcher-ai-architecture-research-2050821999?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/revenuebase-inc/jobs/data-engineer-930695090",
-      "title": "Data Engineer",
-      "company": "RevenueBase Inc",
-      "location": "Worldwide",
-      "category": "Data Science · Data-Engineer · Data-Engineering · Data-Engineering-Software-Engineer · Data-Engineer-Analyst · Data-Engineering-Analyst · Data-Engineering-Specialist · AI-Data-Engineer · Dataset-Engineer · Data-Platform-Engineer",
-      "tags": [
-        "Data Science",
-        "Data-Engineer",
-        "Data-Engineering",
-        "Data-Engineering-Software-Engineer",
-        "Data-Engineer-Analyst",
-        "Data-Engineering-Analyst",
-        "Data-Engineering-Specialist",
-        "AI-Data-Engineer",
-        "Dataset-Engineer",
-        "Data-Platform-Engineer"
-      ],
-      "description": "RevenueBase: • We're building the data infrastructure that makes AI agents trustworthy instead of error-prone.",
-      "publishedAt": 1795740930000,
-      "expiresAt": 1800924929000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/revenuebase-inc/jobs/data-engineer-930695090?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/eversana/jobs/data-analyst",
@@ -815,34 +938,6 @@
       "applyUrl": "https://himalayas.app/companies/newrocket/jobs/servicenow-solution-architect-ai-641852008?utm_source=api"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/indigo-vc/jobs/acquisition-executive-roblox-games",
-      "title": "Acquisition Executive (Roblox Games)",
-      "company": "Indigo VC",
-      "location": "Worldwide",
-      "category": "Growth · Strategic-Acquisition-Executive · Acquisitions-Associate · Acquisition-Analyst · Acquisitions-Analyst · Acquisitions-Specialist · Acquisition-Manager · Acquisition-Director · Acquisition-Marketing-Manager · Mobile-Acquisition-Manager · Customer-Acquisition-Manager",
-      "tags": [
-        "Growth",
-        "Strategic-Acquisition-Executive",
-        "Acquisitions-Associate",
-        "Acquisition-Analyst",
-        "Acquisitions-Analyst",
-        "Acquisitions-Specialist",
-        "Acquisition-Manager",
-        "Acquisition-Director",
-        "Acquisition-Marketing-Manager",
-        "Mobile-Acquisition-Manager",
-        "Customer-Acquisition-Manager"
-      ],
-      "description": "Indigo buys stakes in Roblox games and Fortnite islands and grows them after the deal.",
-      "publishedAt": 1795623024000,
-      "expiresAt": 1798141624000,
-      "salary": "USD 3,000–6,000 monthly",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/indigo-vc/jobs/acquisition-executive-roblox-games?utm_source=api"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/applied-scientists-machine-learning-remote-contract",
       "title": "Applied Scientists — Machine Learning ,Remote- Contract",
       "company": "Xperteez Technology",
@@ -965,35 +1060,6 @@
       "applyUrl": "https://himalayas.app/companies/tala/jobs/business-analyst?utm_source=api"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/health-loft/jobs/senior-paid-media-sem-manager",
-      "title": "Senior Paid Media/ SEM Manager",
-      "company": "Health Loft",
-      "location": "Worldwide",
-      "category": "Marketing · Growth · Paid-Media-Manager · Paid-Search-Manager · Paid-Media-Specialist · Paid-Media-Buyer · Paid-Search-Specialist · Paid-Media-Lead · Paid-Search-Associate · Google-Ads-Manager · SEM-Analyst · Media-Buyer",
-      "tags": [
-        "Marketing",
-        "Growth",
-        "Paid-Media-Manager",
-        "Paid-Search-Manager",
-        "Paid-Media-Specialist",
-        "Paid-Media-Buyer",
-        "Paid-Search-Specialist",
-        "Paid-Media-Lead",
-        "Paid-Search-Associate",
-        "Google-Ads-Manager",
-        "SEM-Analyst",
-        "Media-Buyer"
-      ],
-      "description": "Company: Health Loft Engagement Type: Full-Time Independent Contractor Location: Remote Compensation: $4,000–$6,000 USD per month depending on experience Availability: U.",
-      "publishedAt": 1795598416000,
-      "expiresAt": 1798125348000,
-      "salary": "USD 4,000–6,000 monthly",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/health-loft/jobs/senior-paid-media-sem-manager?utm_source=api"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/machine-learning-researcher-remote-contract",
       "title": "Machine Learning Researcher, Remote- Contract",
       "company": "Xperteez Technology",
@@ -1013,57 +1079,6 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/xperteez-technology/jobs/machine-learning-researcher-remote-contract?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/crowdstrike-specialist",
-      "title": "CrowdStrike Specialist",
-      "company": "micro1",
-      "location": "Worldwide",
-      "category": "Developer · Cybersecurity-Specialist · Security-Specialist · Incident-Response-Specialist · Cloud-Cybersecurity-Specialist · CrowdStrike-Specialist · Cybersecurity-Analyst",
-      "tags": [
-        "Developer",
-        "Cybersecurity-Specialist",
-        "Security-Specialist",
-        "Incident-Response-Specialist",
-        "Cloud-Cybersecurity-Specialist",
-        "CrowdStrike-Specialist",
-        "Cybersecurity-Analyst"
-      ],
-      "description": "Role Title: CrowdStrike Specialist Role Type: Contractor Location: Remote micro1 is engaging CrowdStrike Specialists to contribute their expertise on a dynamic customer project in the cybersecurity domain.",
-      "publishedAt": 1795591241000,
-      "expiresAt": 1800775241000,
-      "salary": "USD 90–170 hourly",
-      "employmentType": "Contractor",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/micro1/jobs/crowdstrike-specialist?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/qualtrics-specialist",
-      "title": "Qualtrics Specialist",
-      "company": "micro1",
-      "location": "Worldwide",
-      "category": "Design · Customer Service · Qualtrics-Implementation-Specialist · Qualtrics-Analyst · Online-Survey-Specialist · Survey-Research-Specialist · Survey-Quality-Assurance-Specialist · Survey-Development-Specialist · UX-Researcher · Implementation-Specialist",
-      "tags": [
-        "Design",
-        "Customer Service",
-        "Qualtrics-Implementation-Specialist",
-        "Qualtrics-Analyst",
-        "Online-Survey-Specialist",
-        "Survey-Research-Specialist",
-        "Survey-Quality-Assurance-Specialist",
-        "Survey-Development-Specialist",
-        "UX-Researcher",
-        "Implementation-Specialist"
-      ],
-      "description": "Role Title: Qualtrics Specialist Role Type: Contractor Location: Remote micro1 is engaging Qualtrics Specialists to contribute their expertise on a customer-driven project focused on sophisticated survey creation, data analysis, and reporting.",
-      "publishedAt": 1795591240000,
-      "expiresAt": 1800775240000,
-      "salary": "USD 90–170 hourly",
-      "employmentType": "Contractor",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/micro1/jobs/qualtrics-specialist?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/mathematics-expert-remote-contract-1415751896",
@@ -1483,29 +1498,6 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/featherless-ai/jobs/machine-learning-engineer-training-optimization-6594100484?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/twilio/jobs/software-engineer-l3-7648295024",
-      "title": "Software Engineer (L3)",
-      "company": "Twilio",
-      "location": "India",
-      "category": "Developer · Data Science · Software-Engineer · Cloud-Engineer · Backend-Engineer · Machine-Learning-Engineer",
-      "tags": [
-        "Developer",
-        "Data Science",
-        "Software-Engineer",
-        "Cloud-Engineer",
-        "Backend-Engineer",
-        "Machine-Learning-Engineer"
-      ],
-      "description": "Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes.",
-      "publishedAt": 1795480386000,
-      "expiresAt": 1800664385000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/twilio/jobs/software-engineer-l3-7648295024?utm_source=api"
     },
     {
       "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/physionet-competitor-biomedical-signal-processing-ml-remote-contract-9858946016",
@@ -1975,28 +1967,6 @@
       "applyUrl": "https://himalayas.app/companies/lukka/jobs/blockchain-reference-data-analyst?utm_source=api"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/clario/jobs/senior-bi-engineer",
-      "title": "Senior BI Engineer",
-      "company": "Clario",
-      "location": "India",
-      "category": "Data Science · Business-intelligence-Engineer · Analytics-Engineer · Data-Engineer · Reporting-Engineer",
-      "tags": [
-        "Data Science",
-        "Business-intelligence-Engineer",
-        "Analytics-Engineer",
-        "Data-Engineer",
-        "Reporting-Engineer"
-      ],
-      "description": "At Clario, a part of Thermo Fisher Scientific, we are looking for a Senior BI Engineer to build the dashboards, visualizations, and reports that help our teams make informed business decisions.",
-      "publishedAt": 1795307423000,
-      "expiresAt": 1800491422000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/clario/jobs/senior-bi-engineer?utm_source=api"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/ensemble-health-partners/jobs/engineer-ii-data-integration",
       "title": "Engineer II, Data Integration",
       "company": "Ensemble Health Partners",
@@ -2237,100 +2207,6 @@
       "source": "Himalayas",
       "sourceHome": "https://himalayas.app/",
       "applyUrl": "https://himalayas.app/companies/lifelancer/jobs/operational-effectiveness-manager?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/mrsool/jobs/data-scientist-ii-5418699843",
-      "title": "Data Scientist II",
-      "company": "Mrsool",
-      "location": "India",
-      "category": "Data Science · Data-Science · Machine-Learning · Analytics · Technology · IT-Services · Engineering · Data-Scientist",
-      "tags": [
-        "Data Science",
-        "Data-Science",
-        "Machine-Learning",
-        "Analytics",
-        "Technology",
-        "IT-Services",
-        "Engineering",
-        "Data-Scientist"
-      ],
-      "description": "Who Are We❓ Welcome to the world of Mrsool!  🌍✨ Where on-demand delivery meets unparalleled user needs to deliver anything you desire.",
-      "publishedAt": 1795193553000,
-      "expiresAt": 1800377553000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/mrsool/jobs/data-scientist-ii-5418699843?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/hach/jobs/variable-compensation-analyst-2615653166",
-      "title": "Variable Compensation Analyst",
-      "company": "Hach",
-      "location": "American Samoa, Australia, Bangladesh, Bhutan, British Indian Ocean Territory, Brunei Darussalam, Cambodia, China, Christmas Island, Cocos (Keeling) Islands, Fiji, French Polynesia, Guam, Hong Kong, India, Indonesia, Japan, Kiribati, Lao People's Democratic Republic, Macao, Malaysia, Maldives, Marshall Islands, Micronesia, Federated States of, Mongolia, Myanmar, Nauru, Nepal, New Caledonia, New Zealand, Niue, Norfolk Island, Northern Mariana Islands, Pakistan, Palau, Papua New Guinea, Philippines, Pitcairn, Russian Federation, Samoa, Singapore, Solomon Islands, South Korea, Sri Lanka, Taiwan, Thailand, Timor-Leste, Tokelau, Tonga, Tuvalu, United States Minor Outlying Islands, Vanuatu, Vietnam, Wallis and Futuna",
-      "category": "Sales · Compensation-Analyst · Incentive-Compensation-Analyst · Commission-Analyst · Sales-Operations-Analyst",
-      "tags": [
-        "Sales",
-        "Compensation-Analyst",
-        "Incentive-Compensation-Analyst",
-        "Commission-Analyst",
-        "Sales-Operations-Analyst"
-      ],
-      "description": "Imagine yourself… • Doing meaningful work that makes an everyday impact on the world around you.",
-      "publishedAt": 1795181229000,
-      "expiresAt": 1800362423000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/hach/jobs/variable-compensation-analyst-2615653166?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/unify-dots/jobs/power-bi-technical-consultant",
-      "title": "Power BI Technical Consultant",
-      "company": "Unify Dots",
-      "location": "India",
-      "category": "Data Science · Business-Intelligence-Consultant · Analytics-Consultant · Business-Intelligence-Developer · Data-Visualization-Analyst · Analytics-Engineer",
-      "tags": [
-        "Data Science",
-        "Business-Intelligence-Consultant",
-        "Analytics-Consultant",
-        "Business-Intelligence-Developer",
-        "Data-Visualization-Analyst",
-        "Analytics-Engineer"
-      ],
-      "description": "Responsibilities Your job duties include the following tasks and responsibilities: 2.",
-      "publishedAt": 1795168119000,
-      "expiresAt": 1800352118000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/unify-dots/jobs/power-bi-technical-consultant?utm_source=api"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/pavago/jobs/ai-engineer-ai-automation-specialist",
-      "title": "AI Engineer / AI Automation Specialist",
-      "company": "Pavago",
-      "location": "India",
-      "category": "Data Science · Developer · AI-Engineer · Automation-Engineer · AI-Automation-Specialist · Machine-Learning-Engineer · Software-Engineer",
-      "tags": [
-        "Data Science",
-        "Developer",
-        "AI-Engineer",
-        "Automation-Engineer",
-        "AI-Automation-Specialist",
-        "Machine-Learning-Engineer",
-        "Software-Engineer"
-      ],
-      "description": "AI Engineer / AI Automation Specialist – LLMs, AI Agents & Workflow Automation | Remote Position Type: Full-Time, Remote Working Hours: U.",
-      "publishedAt": 1795164829000,
-      "expiresAt": 1800348828000,
-      "salary": "",
-      "employmentType": "Full Time",
-      "source": "Himalayas",
-      "sourceHome": "https://himalayas.app/",
-      "applyUrl": "https://himalayas.app/companies/pavago/jobs/ai-engineer-ai-automation-specialist?utm_source=api"
     }
   ]
 }
